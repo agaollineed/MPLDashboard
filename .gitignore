@@ -1,0 +1,11 @@
+# Local Python environment and generated runtime files
+.venv/
+__pycache__/
+*.py[cod]
+
+# HTTP cache and scheduler logs
+cache/
+logs/
+
+# Operating system files
+.DS_Store

@@ -1,0 +1,545 @@
+﻿season,week,day,timestamp,tim1,kode1,skor1,skor2,kode2,tim2,status,mvp,mvp_link,mvp_kode
+10,1,12,1660291200,Geek Fam ID,GFID,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+10,1,12,1660300200,Rebellion Esports,RBL,0,2,BTR,Bigetron by Vitality,selesai,Xorizo,/mobilelegends/Xorizo,BTR
+10,1,13,1660370400,Alter Ego,AE,2,0,GFID,Geek Fam ID,selesai,Nino,/mobilelegends/Nino,AE
+10,1,13,1660379400,ONIC,ONIC,2,0,RBL,Rebellion Esports,selesai,Kairi,/mobilelegends/Kairi,ONIC
+10,1,13,1660388400,Bigetron by Vitality,BTR,0,2,EVOS,EVOS,selesai,Ferxiic,/mobilelegends/Ferxiic,EVOS
+10,1,14,1660464000,Alter Ego,AE,0,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+10,1,14,1660473000,EVOS,EVOS,0,2,AURA,AURA Fire,selesai,Kabuki,/mobilelegends/Kabuki,AURA
+10,2,19,1660896000,AURA Fire,AURA,1,2,ONIC,ONIC,selesai,Butsss,/mobilelegends/Butss,ONIC
+10,2,19,1660905000,Alter Ego,AE,2,1,RBL,Rebellion Esports,selesai,Nino,/mobilelegends/Nino,AE
+10,2,20,1660975200,Bigetron by Vitality,BTR,1,2,AURA,AURA Fire,selesai,FACEHUGGER,/mobilelegends/Facehugger,AURA
+10,2,20,1660984200,Geek Fam ID,GFID,0,2,EVOS,EVOS,selesai,Clover,/mobilelegends/Clover,EVOS
+10,2,20,1660993200,ONIC,ONIC,1,2,RRQ,RRQ Hoshi,selesai,Alberttt,/mobilelegends/Alberttt,RRQ
+10,2,21,1661068800,Geek Fam ID,GFID,2,0,RBL,Rebellion Esports,selesai,Janaaqt,/mobilelegends/Hadess,GFID
+10,2,21,1661077800,Bigetron by Vitality,BTR,1,2,RRQ,RRQ Hoshi,selesai,Alberttt,/mobilelegends/Alberttt,RRQ
+10,3,26,1661500800,AURA Fire,AURA,2,1,AE,Alter Ego,selesai,god1va,/mobilelegends/God1va,AURA
+10,3,26,1661509800,EVOS,EVOS,2,1,ONIC,ONIC,selesai,Sutsujin,/mobilelegends/Sutsujin,EVOS
+10,3,27,1661580000,Rebellion Esports,RBL,2,1,AURA,AURA Fire,selesai,HAIZZ,/mobilelegends/Haiz,RBL
+10,3,27,1661589000,Bigetron by Vitality,BTR,1,2,AE,Alter Ego,selesai,Udil,/mobilelegends/Udil,AE
+10,3,27,1661598000,RRQ Hoshi,RRQ,0,2,EVOS,EVOS,selesai,Sutsujin,/mobilelegends/Sutsujin,EVOS
+10,3,28,1661673600,Geek Fam ID,GFID,0,2,ONIC,ONIC,selesai,CW,/mobilelegends/CW,ONIC
+10,3,28,1661682600,RRQ Hoshi,RRQ,0,2,RBL,Rebellion Esports,selesai,HAIZZ,/mobilelegends/Haiz,RBL
+10,4,2,1662105600,AURA Fire,AURA,2,1,GFID,Geek Fam ID,selesai,Kabuki,/mobilelegends/Kabuki,AURA
+10,4,2,1662114600,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,CW,/mobilelegends/CW,ONIC
+10,4,3,1662184800,AURA Fire,AURA,2,0,RRQ,RRQ Hoshi,selesai,FACEHUGGER,/mobilelegends/Facehugger,AURA
+10,4,3,1662193800,EVOS,EVOS,1,2,AE,Alter Ego,selesai,Udil,/mobilelegends/Udil,AE
+10,4,3,1662202800,Geek Fam ID,GFID,1,2,BTR,Bigetron by Vitality,selesai,Markyyyyy,/mobilelegends/Markyyyyy,BTR
+10,4,4,1662278400,Rebellion Esports,RBL,0,2,EVOS,EVOS,selesai,Sutsujin,/mobilelegends/Sutsujin,EVOS
+10,4,4,1662287400,Alter Ego,AE,1,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+10,5,9,1662710400,AURA Fire,AURA,2,1,EVOS,EVOS,selesai,Kabuki,/mobilelegends/Kabuki,AURA
+10,5,9,1662719400,RRQ Hoshi,RRQ,2,0,BTR,Bigetron by Vitality,selesai,Skylar,/mobilelegends/Skylar,RRQ
+10,5,10,1662789600,Geek Fam ID,GFID,2,0,AE,Alter Ego,selesai,Caderaa,/mobilelegends/Caderaa,GFID
+10,5,10,1662798600,Bigetron by Vitality,BTR,2,1,RBL,Rebellion Esports,selesai,Kyy,/mobilelegends/Kyy,BTR
+10,5,10,1662807600,RRQ Hoshi,RRQ,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+10,5,11,1662883200,Rebellion Esports,RBL,2,0,AE,Alter Ego,selesai,Fearless,/mobilelegends/Fearless,RBL
+10,5,11,1662892200,ONIC,ONIC,2,1,AURA,AURA Fire,selesai,CW,/mobilelegends/CW,ONIC
+10,6,16,1663315200,Rebellion Esports,RBL,1,2,ONIC,ONIC,selesai,CW,/mobilelegends/CW,ONIC
+10,6,16,1663326900,Alter Ego,AE,2,0,EVOS,EVOS,selesai,Nino,/mobilelegends/Nino,AE
+10,6,17,1663394400,RRQ Hoshi,RRQ,2,0,GFID,Geek Fam ID,selesai,Alberttt,/mobilelegends/Alberttt,RRQ
+10,6,17,1663405200,AURA Fire,AURA,0,2,BTR,Bigetron by Vitality,selesai,MAXXX,/mobilelegends/Maxx,BTR
+10,6,17,1663416000,EVOS,EVOS,0,2,RBL,Rebellion Esports,selesai,Fearless,/mobilelegends/Fearless,RBL
+10,6,18,1663488000,Bigetron by Vitality,BTR,2,1,GFID,Geek Fam ID,selesai,MAXXX,/mobilelegends/Maxx,BTR
+10,6,18,1663499700,RRQ Hoshi,RRQ,2,0,AURA,AURA Fire,selesai,Clayyy,/mobilelegends/Clayyy,RRQ
+10,7,23,1663920000,Alter Ego,AE,2,0,BTR,Bigetron by Vitality,selesai,Nino,/mobilelegends/Nino,AE
+10,7,23,1663931700,Geek Fam ID,GFID,2,1,AURA,AURA Fire,selesai,Lzuraaa,/mobilelegends/Lzuraa,GFID
+10,7,24,1663999200,Bigetron by Vitality,BTR,2,1,ONIC,ONIC,selesai,Kyy,/mobilelegends/Kyy,BTR
+10,7,24,1664010000,RRQ Hoshi,RRQ,2,1,AE,Alter Ego,selesai,Skylar,/mobilelegends/Skylar,RRQ
+10,7,24,1664020800,EVOS,EVOS,1,2,GFID,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GFID
+10,7,25,1664092800,Rebellion Esports,RBL,2,0,RRQ,RRQ Hoshi,selesai,Dyrennn,/mobilelegends/Dyrennn,RBL
+10,7,25,1664104500,ONIC,ONIC,2,1,EVOS,EVOS,selesai,Kairi,/mobilelegends/Kairi,ONIC
+10,8,30,1664524800,Alter Ego,AE,2,0,AURA,AURA Fire,selesai,LeoMurphy,/mobilelegends/Leomurphy,AE
+10,8,30,1664536500,EVOS,EVOS,0,2,BTR,Bigetron by Vitality,selesai,Markyyyyy,/mobilelegends/Markyyyyy,BTR
+10,8,1,1664604000,ONIC,ONIC,2,1,GFID,Geek Fam ID,selesai,Butsss,/mobilelegends/Butss,ONIC
+10,8,1,1664614800,AURA Fire,AURA,1,2,RBL,Rebellion Esports,selesai,SwayLow,/mobilelegends/SwayLow,RBL
+10,8,1,1664625600,EVOS,EVOS,0,2,RRQ,RRQ Hoshi,selesai,VYN,/mobilelegends/VYN,RRQ
+10,8,2,1664697600,Rebellion Esports,RBL,1,2,GFID,Geek Fam ID,selesai,Janaaqt,/mobilelegends/Hadess,GFID
+10,8,2,1664709300,ONIC,ONIC,2,1,AE,Alter Ego,selesai,Kairi,/mobilelegends/Kairi,ONIC
+11,1,1,1676617200,AURA Fire,AURA,1,2,RBL,Rebellion Esports,selesai,Haiz,/mobilelegends/Haiz,RBL
+11,1,1,1676628000,RRQ Hoshi,RRQ,2,0,BTR,Bigetron by Vitality,selesai,Skylar,/mobilelegends/Skylar,RRQ
+11,1,1,1676638800,Geek Fam ID,GEEK,1,2,ONIC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+11,1,2,1676692800,Alter Ego,AE,0,2,RRQ,RRQ Hoshi,selesai,Lemon,/mobilelegends/Lemon,RRQ
+11,1,2,1676703600,AURA Fire,AURA,0,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+11,1,2,1676714400,Rebellion Esports,RBL,0,2,EVOS,EVOS,selesai,Branz,/mobilelegends/Branz,EVOS
+11,1,2,1676725200,Bigetron by Vitality,BTR,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+11,1,3,1676793600,EVOS,EVOS,2,0,AE,Alter Ego,selesai,Branz,/mobilelegends/Branz,EVOS
+11,1,3,1676804400,Bigetron by Vitality,BTR,2,1,AURA,AURA Fire,selesai,Gamora,/mobilelegends/Gamora,BTR
+11,2,1,1677222000,EVOS,EVOS,2,1,GEEK,Geek Fam ID,selesai,Tazz,/mobilelegends/Tazz,EVOS
+11,2,1,1677232800,ONIC,ONIC,2,0,RRQ,RRQ Hoshi,selesai,Kairi,/mobilelegends/Kairi,ONIC
+11,2,1,1677243600,Alter Ego,AE,2,0,RBL,Rebellion Esports,selesai,PAI,/mobilelegends/Pai,AE
+11,2,2,1677297600,RRQ Hoshi,RRQ,2,0,AURA,AURA Fire,selesai,Skylar,/mobilelegends/Skylar,RRQ
+11,2,2,1677308400,ONIC,ONIC,2,1,AE,Alter Ego,selesai,CW,/mobilelegends/CW,ONIC
+11,2,2,1677319200,EVOS,EVOS,1,2,BTR,Bigetron by Vitality,selesai,Morenoo,/mobilelegends/Moreno,BTR
+11,2,2,1677330000,Geek Fam ID,GEEK,0,2,RBL,Rebellion Esports,selesai,Swaylow,/mobilelegends/SwayLow,RBL
+11,2,3,1677398400,AURA Fire,AURA,1,2,ONIC,ONIC,selesai,CW,/mobilelegends/CW,ONIC
+11,2,3,1677411000,RRQ Hoshi,RRQ,2,1,EVOS,EVOS,selesai,Skylar,/mobilelegends/Skylar,RRQ
+11,3,1,1677826800,Geek Fam ID,GEEK,2,0,AE,Alter Ego,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+11,3,1,1677837600,Rebellion Esports,RBL,2,1,BTR,Bigetron by Vitality,selesai,Haiz,/mobilelegends/Haiz,RBL
+11,3,1,1677848400,EVOS,EVOS,2,1,AURA,AURA Fire,selesai,Branz,/mobilelegends/Branz,EVOS
+11,3,2,1677902400,Bigetron by Vitality,BTR,1,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+11,3,2,1677913200,Rebellion Esports,RBL,0,2,RRQ,RRQ Hoshi,selesai,Alberttt,/mobilelegends/Alberttt,RRQ
+11,3,2,1677924000,Alter Ego,AE,0,2,AURA,AURA Fire,selesai,Kabuki,/mobilelegends/Kabuki,AURA
+11,3,2,1677934800,ONIC,ONIC,2,1,EVOS,EVOS,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+11,3,3,1678003200,Alter Ego,AE,0,2,BTR,Bigetron by Vitality,selesai,Kyy,/mobilelegends/Kyy,BTR
+11,3,3,1678014000,ONIC,ONIC,2,0,RBL,Rebellion Esports,selesai,Kairi,/mobilelegends/Kairi,ONIC
+11,4,1,1678431600,Geek Fam ID,GEEK,2,1,RRQ,RRQ Hoshi,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+11,4,1,1678442400,Alter Ego,AE,2,0,EVOS,EVOS,selesai,Nino,/mobilelegends/Nino,AE
+11,4,1,1678453200,Rebellion Esports,RBL,2,0,AURA,AURA Fire,selesai,Haiz,/mobilelegends/Haiz,RBL
+11,4,2,1678507200,RRQ Hoshi,RRQ,1,2,AE,Alter Ego,selesai,Nino,/mobilelegends/Nino,AE
+11,4,2,1678518000,Geek Fam ID,GEEK,2,1,AURA,AURA Fire,selesai,LUKE,/mobilelegends/Luke,GEEK
+11,4,2,1678528800,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,CW,/mobilelegends/CW,ONIC
+11,4,2,1678539600,EVOS,EVOS,2,0,RBL,Rebellion Esports,selesai,Hijumee,/mobilelegends/Hijumee,EVOS
+11,4,3,1678608000,ONIC,ONIC,2,1,GEEK,Geek Fam ID,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+11,4,3,1678618800,Bigetron by Vitality,BTR,2,1,RRQ,RRQ Hoshi,selesai,Kyy,/mobilelegends/Kyy,BTR
+11,5,1,1679036400,Geek Fam ID,GEEK,2,0,EVOS,EVOS,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+11,5,1,1679047200,AURA Fire,AURA,0,2,BTR,Bigetron by Vitality,selesai,Morenoo,/mobilelegends/Moreno,BTR
+11,5,1,1679058000,RRQ Hoshi,RRQ,2,1,ONIC,ONIC,selesai,Clayyy,/mobilelegends/Clayyy,RRQ
+11,5,2,1679112000,Bigetron by Vitality,BTR,1,2,EVOS,EVOS,selesai,Branz,/mobilelegends/Branz,EVOS
+11,5,2,1679122800,Alter Ego,AE,0,2,ONIC,ONIC,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+11,5,2,1679133600,Rebellion Esports,RBL,1,2,GEEK,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+11,5,3,1679212800,Rebellion Esports,RBL,1,2,AE,Alter Ego,selesai,Rasy,/mobilelegends/Rasy,AE
+11,5,3,1679223600,ONIC,ONIC,2,1,AURA,AURA Fire,selesai,Kairi,/mobilelegends/Kairi,ONIC
+11,6,1,1679558400,EVOS,EVOS,1,2,RRQ,RRQ Hoshi,selesai,Clayyy,/mobilelegends/Clayyy,RRQ
+11,6,1,1679571000,Alter Ego,AE,2,1,GEEK,Geek Fam ID,selesai,Rasy,/mobilelegends/Rasy,AE
+11,6,2,1679639400,Bigetron by Vitality,BTR,2,0,RBL,Rebellion Esports,selesai,Super KENN,/mobilelegends/Super_Kenn,BTR
+11,6,2,1679650200,AURA Fire,AURA,0,2,EVOS,EVOS,selesai,Branz,/mobilelegends/Branz,EVOS
+11,6,2,1679664600,RRQ Hoshi,RRQ,1,2,GEEK,Geek Fam ID,selesai,LUKE,/mobilelegends/Luke,GEEK
+11,6,3,1679720400,EVOS,EVOS,0,2,ONIC,ONIC,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+11,6,3,1679731200,RRQ Hoshi,RRQ,2,1,RBL,Rebellion Esports,selesai,Alberttt,/mobilelegends/Alberttt,RRQ
+11,6,3,1679743800,AURA Fire,AURA,1,2,AE,Alter Ego,selesai,Rasy,/mobilelegends/Rasy,AE
+11,6,3,1679754600,Geek Fam ID,GEEK,0,2,BTR,Bigetron by Vitality,selesai,Morenoo,/mobilelegends/Moreno,BTR
+11,6,4,1679803200,AURA Fire,AURA,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+11,6,4,1679817600,Rebellion Esports,RBL,0,2,ONIC,ONIC,selesai,CW,/mobilelegends/CW,ONIC
+11,6,4,1679830200,Bigetron by Vitality,BTR,2,0,AE,Alter Ego,selesai,Super KENN,/mobilelegends/Super_Kenn,BTR
+12,1,1,1689240600,AURA Fire,AURA,1,2,DEWA,Dewa United Esports,selesai,Watt,/mobilelegends/Watt,DEWA
+12,1,1,1689250800,Rebellion Esports,RBL,2,1,AE,Alter Ego,selesai,SwayLow,/mobilelegends/SwayLow,RBL
+12,1,2,1689330600,Bigetron by Vitality,BTR,2,1,GEEK,Geek Fam ID,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+12,1,2,1689340200,AURA Fire,AURA,0,2,RRQ,RRQ Hoshi,selesai,Clay,/mobilelegends/Clayyy,RRQ
+12,1,3,1689408000,Alter Ego,AE,0,2,BTR,Bigetron by Vitality,selesai,Xorizo,/mobilelegends/Xorizo,BTR
+12,1,3,1689417000,Dewa United Esports,DEWA,2,1,RBL,Rebellion Esports,selesai,Watt,/mobilelegends/Watt,DEWA
+12,1,3,1689427800,RRQ Hoshi,RRQ,2,1,ONIC,ONIC,selesai,Clay,/mobilelegends/Clayyy,RRQ
+12,1,4,1689499800,Geek Fam ID,GEEK,0,2,ONIC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,ONIC
+12,1,4,1689508800,Rebellion Esports,RBL,0,2,RRQ,RRQ Hoshi,selesai,Ferxiic,/mobilelegends/Ferxiic,RRQ
+12,2,1,1690450200,Bigetron by Vitality,BTR,2,0,DEWA,Dewa United Esports,selesai,VYN,/mobilelegends/VYN,BTR
+12,2,1,1690459200,ONIC,ONIC,2,0,AE,Alter Ego,selesai,Alberttt,/mobilelegends/Alberttt,ONIC
+12,2,2,1690540200,EVOS,EVOS,2,1,GEEK,Geek Fam ID,selesai,DreamS,/mobilelegends/Dreams,EVOS
+12,2,2,1690551000,Dewa United Esports,DEWA,0,2,ONIC,ONIC,selesai,Butsss,/mobilelegends/Butss,ONIC
+12,2,3,1690617600,AURA Fire,AURA,0,2,RBL,Rebellion Esports,selesai,AudyTzy,/mobilelegends/AudyTzy,RBL
+12,2,3,1690626600,Geek Fam ID,GEEK,2,0,AE,Alter Ego,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+12,2,3,1690635600,EVOS,EVOS,1,2,RRQ,RRQ Hoshi,selesai,Naomi,/mobilelegends/Naomi,RRQ
+12,2,4,1690709400,Alter Ego,AE,0,2,EVOS,EVOS,selesai,Tazz,/mobilelegends/Tazz,EVOS
+12,2,4,1690718400,RRQ Hoshi,RRQ,2,0,BTR,Bigetron by Vitality,selesai,Naomi,/mobilelegends/Naomi,RRQ
+12,3,1,1691055000,Bigetron by Vitality,BTR,0,2,AURA,AURA Fire,selesai,Aran,/mobilelegends/Aran,AURA
+12,3,1,1691064000,EVOS,EVOS,2,0,DEWA,Dewa United Esports,selesai,VaanStrong,/mobilelegends/Ivann,EVOS
+12,3,2,1691145000,Dewa United Esports,DEWA,2,0,GEEK,Geek Fam ID,selesai,Keyz,/mobilelegends/Keyz,DEWA
+12,3,2,1691154000,AURA Fire,AURA,2,0,ONIC,ONIC,selesai,Aran,/mobilelegends/Aran,AURA
+12,3,3,1691222400,Rebellion Esports,RBL,0,2,BTR,Bigetron by Vitality,selesai,Xorizo,/mobilelegends/Xorizo,BTR
+12,3,3,1691231400,Geek Fam ID,GEEK,2,1,RRQ,RRQ Hoshi,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+12,3,3,1691242200,ONIC,ONIC,2,0,EVOS,EVOS,selesai,Kairi,/mobilelegends/Kairi,ONIC
+12,3,4,1691314200,ONIC,ONIC,2,1,RBL,Rebellion Esports,selesai,Kairi,/mobilelegends/Kairi,ONIC
+12,3,4,1691325000,EVOS,EVOS,2,1,AURA,AURA Fire,selesai,Fluffy,/mobilelegends/Fluffy,EVOS
+12,4,1,1691659800,Alter Ego,AE,2,0,DEWA,Dewa United Esports,selesai,PAI,/mobilelegends/Pai,AE
+12,4,1,1691668800,AURA Fire,AURA,2,0,GEEK,Geek Fam ID,selesai,VAN,/mobilelegends/VAN,AURA
+12,4,2,1691749800,Rebellion Esports,RBL,2,0,EVOS,EVOS,selesai,AudyTzy,/mobilelegends/AudyTzy,RBL
+12,4,2,1691758800,Bigetron by Vitality,BTR,0,2,ONIC,ONIC,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+12,4,3,1691827200,EVOS,EVOS,1,2,BTR,Bigetron by Vitality,selesai,Kenn,/mobilelegends/Kenn,BTR
+12,4,3,1691837100,Geek Fam ID,GEEK,2,0,RBL,Rebellion Esports,selesai,Nnael,/mobilelegends/Nnael,GEEK
+12,4,3,1691845200,RRQ Hoshi,RRQ,0,2,AE,Alter Ego,selesai,Rasy,/mobilelegends/Rasy,AE
+12,4,4,1691919000,Alter Ego,AE,2,0,AURA,AURA Fire,selesai,Rasy,/mobilelegends/Rasy,AE
+12,4,4,1691928000,Dewa United Esports,DEWA,0,2,RRQ,RRQ Hoshi,selesai,Banana,/mobilelegends/Banana,RRQ
+12,5,1,1692264600,Dewa United Esports,DEWA,0,2,AURA,AURA Fire,selesai,VAN,/mobilelegends/VAN,AURA
+12,5,1,1692273600,Alter Ego,AE,1,2,RBL,Rebellion Esports,selesai,AudyTzy,/mobilelegends/AudyTzy,RBL
+12,5,2,1692354600,Geek Fam ID,GEEK,2,0,BTR,Bigetron by Vitality,selesai,Nnael,/mobilelegends/Nnael,GEEK
+12,5,2,1692363600,Alter Ego,AE,1,2,RRQ,RRQ Hoshi,selesai,Clay,/mobilelegends/Clayyy,RRQ
+12,5,3,1692432000,ONIC,ONIC,0,2,GEEK,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+12,5,3,1692441000,Bigetron by Vitality,BTR,1,2,AE,Alter Ego,selesai,Nino,/mobilelegends/Nino,AE
+12,5,3,1692451800,RRQ Hoshi,RRQ,2,1,AURA,AURA Fire,selesai,Naomi,/mobilelegends/Naomi,RRQ
+12,5,4,1692523800,Rebellion Esports,RBL,0,2,DEWA,Dewa United Esports,selesai,Dyx0n,/mobilelegends/Dyx0n,DEWA
+12,5,4,1692532800,Alter Ego,AE,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+12,6,1,1694079000,RRQ Hoshi,RRQ,1,2,RBL,Rebellion Esports,selesai,AudyTzy,/mobilelegends/AudyTzy,RBL
+12,6,1,1694089800,Dewa United Esports,DEWA,2,1,BTR,Bigetron by Vitality,selesai,Shacco,/mobilelegends/Shacco,DEWA
+12,6,2,1694169000,Geek Fam ID,GEEK,2,0,EVOS,EVOS,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+12,6,2,1694178000,ONIC,ONIC,2,1,DEWA,Dewa United Esports,selesai,CW,/mobilelegends/CW,ONIC
+12,6,3,1694246400,EVOS,EVOS,1,2,AE,Alter Ego,selesai,Rasy,/mobilelegends/Rasy,AE
+12,6,3,1694256300,Rebellion Esports,RBL,2,0,AURA,AURA Fire,selesai,Karss,/mobilelegends/Karss,RBL
+12,6,3,1694264400,ONIC,ONIC,2,0,RRQ,RRQ Hoshi,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+12,6,4,1694338200,Bigetron by Vitality,BTR,1,2,RRQ,RRQ Hoshi,selesai,Banana,/mobilelegends/Banana,RRQ
+12,6,4,1694347200,Dewa United Esports,DEWA,2,1,EVOS,EVOS,selesai,Dyx0n,/mobilelegends/Dyx0n,DEWA
+12,7,1,1694683800,AURA Fire,AURA,0,2,BTR,Bigetron by Vitality,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+12,7,1,1694692800,Alter Ego,AE,1,2,GEEK,Geek Fam ID,selesai,Luke,/mobilelegends/Luke,GEEK
+12,7,2,1694773800,Geek Fam ID,GEEK,0,2,DEWA,Dewa United Esports,selesai,Watt,/mobilelegends/Watt,DEWA
+12,7,2,1694782800,ONIC,ONIC,2,0,AURA,AURA Fire,selesai,Kairi,/mobilelegends/Kairi,ONIC
+12,7,3,1694851200,Bigetron by Vitality,BTR,0,2,RBL,Rebellion Esports,selesai,AudyTzy,/mobilelegends/AudyTzy,RBL
+12,7,3,1694860200,Dewa United Esports,DEWA,1,2,AE,Alter Ego,selesai,Udil,/mobilelegends/Udil,AE
+12,7,3,1694871000,RRQ Hoshi,RRQ,2,0,EVOS,EVOS,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+12,7,4,1694943000,Rebellion Esports,RBL,0,2,ONIC,ONIC,selesai,Butsss,/mobilelegends/Butss,ONIC
+12,7,4,1694952000,AURA Fire,AURA,0,2,EVOS,EVOS,selesai,Sutsujin,/mobilelegends/Sutsujin,EVOS
+12,8,1,1695288600,RRQ Hoshi,RRQ,0,2,GEEK,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+12,8,1,1695297600,EVOS,EVOS,2,0,RBL,Rebellion Esports,selesai,VaanStrong,/mobilelegends/Ivann,EVOS
+12,8,2,1695378600,Geek Fam ID,GEEK,2,1,AURA,AURA Fire,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+12,8,2,1695389400,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+12,8,3,1695456000,Rebellion Esports,RBL,1,2,GEEK,Geek Fam ID,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+12,8,3,1695465900,AURA Fire,AURA,2,1,AE,Alter Ego,selesai,Aran,/mobilelegends/Aran,AURA
+12,8,3,1695476700,EVOS,EVOS,1,2,ONIC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,ONIC
+12,8,4,1695547800,Bigetron by Vitality,BTR,2,0,EVOS,EVOS,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+12,8,4,1695556800,RRQ Hoshi,RRQ,2,1,DEWA,Dewa United Esports,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+13,1,8,1709884800,Alter Ego,AE,2,0,EVOS,EVOS,selesai,Tazz,/mobilelegends/Tazz,AE
+13,1,8,1709897400,Dewa United Esports,DEWA,2,0,RBL,Rebellion Esports,selesai,Drian,/mobilelegends/Drian,DEWA
+13,1,9,1709973900,Geek Fam ID,GEEK,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,1,9,1709983800,Rebellion Esports,RBL,1,2,AE,Alter Ego,selesai,Tazz,/mobilelegends/Tazz,AE
+13,1,9,1709994000,AURA Fire,AURA,0,2,DEWA,Dewa United Esports,selesai,Kimura,/mobilelegends/Kimura,DEWA
+13,1,10,1710057600,ONIC,ONIC,2,0,GEEK,Geek Fam ID,selesai,CW,/mobilelegends/CW,ONIC
+13,1,10,1710070200,RRQ Hoshi,RRQ,2,1,AURA,AURA Fire,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,1,10,1710080400,Bigetron by Vitality,BTR,2,0,EVOS,EVOS,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,2,15,1710489600,Rebellion Esports,RBL,2,0,RRQ,RRQ Hoshi,selesai,Vincentt,/mobilelegends/Vincentt,RBL
+13,2,15,1710502200,EVOS,EVOS,0,2,AURA,AURA Fire,selesai,Yawi,/mobilelegends/Yawi,AURA
+13,2,16,1710576000,Bigetron by Vitality,BTR,1,2,AE,Alter Ego,selesai,Cr1te,/mobilelegends/Cr1te,AE
+13,2,16,1710588600,RRQ Hoshi,RRQ,0,2,ONIC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,ONIC
+13,2,16,1710598800,EVOS,EVOS,1,2,GEEK,Geek Fam ID,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+13,2,17,1710662400,Alter Ego,AE,1,2,ONIC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+13,2,17,1710675000,Dewa United Esports,DEWA,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,2,17,1710685200,AURA Fire,AURA,2,0,RBL,Rebellion Esports,selesai,Yawi,/mobilelegends/Yawi,AURA
+13,3,22,1711094400,ONIC,ONIC,1,2,AURA,AURA Fire,selesai,Yehezkiel,/mobilelegends/Yehezkiel,AURA
+13,3,22,1711107000,EVOS,EVOS,2,1,DEWA,Dewa United Esports,selesai,Claw Kun,/mobilelegends/Claw_Kun,EVOS
+13,3,23,1711180800,AURA Fire,AURA,1,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,3,23,1711193400,RRQ Hoshi,RRQ,2,1,EVOS,EVOS,selesai,Irrad,/mobilelegends/Irrad,RRQ
+13,3,23,1711203600,Geek Fam ID,GEEK,2,1,AE,Alter Ego,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+13,3,24,1711267200,Rebellion Esports,RBL,2,1,ONIC,ONIC,selesai,Karss,/mobilelegends/Karss,RBL
+13,3,24,1711279800,Bigetron by Vitality,BTR,2,1,RRQ,RRQ Hoshi,selesai,Moreno,/mobilelegends/Moreno,BTR
+13,3,24,1711290000,Dewa United Esports,DEWA,1,2,GEEK,Geek Fam ID,selesai,Hazle,/mobilelegends/Hazle,GEEK
+13,4,29,1711699200,ONIC,ONIC,1,2,DEWA,Dewa United Esports,selesai,Keyz,/mobilelegends/Keyz,DEWA
+13,4,29,1711711800,Bigetron by Vitality,BTR,2,0,RBL,Rebellion Esports,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+13,4,30,1711785600,AURA Fire,AURA,2,0,GEEK,Geek Fam ID,selesai,Gugun,/mobilelegends/Gugun,AURA
+13,4,30,1711798200,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+13,4,30,1711808400,RRQ Hoshi,RRQ,2,0,AE,Alter Ego,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,4,31,1711872000,Rebellion Esports,RBL,1,2,EVOS,EVOS,selesai,Anavel,/mobilelegends/Anavel,EVOS
+13,4,31,1711884600,Geek Fam ID,GEEK,2,1,RRQ,RRQ Hoshi,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+13,4,31,1711894800,Alter Ego,AE,2,0,DEWA,Dewa United Esports,selesai,Tazz,/mobilelegends/Tazz,AE
+13,5,19,1713513600,Geek Fam ID,GEEK,1,2,RBL,Rebellion Esports,selesai,Deee,/mobilelegends/Deee,RBL
+13,5,19,1713524400,EVOS,EVOS,2,0,ONIC,ONIC,selesai,Branz,/mobilelegends/Branz,EVOS
+13,5,20,1713600000,Dewa United Esports,DEWA,2,1,RRQ,RRQ Hoshi,selesai,Drian,/mobilelegends/Drian,DEWA
+13,5,20,1713610800,Alter Ego,AE,1,2,AURA,AURA Fire,selesai,Yehezkiel,/mobilelegends/Yehezkiel,AURA
+13,5,20,1713621000,EVOS,EVOS,2,1,BTR,Bigetron by Vitality,selesai,DreamS,/mobilelegends/Dreams,EVOS
+13,5,21,1713686400,Alter Ego,AE,1,2,RBL,Rebellion Esports,selesai,Karss,/mobilelegends/Karss,RBL
+13,5,21,1713697200,Geek Fam ID,GEEK,1,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+13,5,21,1713708900,Dewa United Esports,DEWA,0,2,AURA,AURA Fire,selesai,Gugun,/mobilelegends/Gugun,AURA
+13,6,26,1714118400,Bigetron by Vitality,BTR,2,0,GEEK,Geek Fam ID,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,6,26,1714129200,AURA Fire,AURA,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,6,27,1714204800,Geek Fam ID,GEEK,2,1,EVOS,EVOS,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+13,6,27,1714215600,Rebellion Esports,RBL,2,1,DEWA,Dewa United Esports,selesai,Deee,/mobilelegends/Deee,RBL
+13,6,27,1714225800,ONIC,ONIC,2,1,AE,Alter Ego,selesai,Kairi,/mobilelegends/Kairi,ONIC
+13,6,28,1714291200,Dewa United Esports,DEWA,1,2,ONIC,ONIC,selesai,CW,/mobilelegends/CW,ONIC
+13,6,28,1714302000,Alter Ego,AE,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,6,28,1714312200,RRQ Hoshi,RRQ,2,0,RBL,Rebellion Esports,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,7,3,1714723200,Rebellion Esports,RBL,2,0,AURA,AURA Fire,selesai,Karss,/mobilelegends/Karss,RBL
+13,7,3,1714734000,Bigetron by Vitality,BTR,2,0,DEWA,Dewa United Esports,selesai,Kyy,/mobilelegends/Kyy,BTR
+13,7,4,1714809600,AURA Fire,AURA,1,2,ONIC,ONIC,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+13,7,4,1714822200,EVOS,EVOS,2,1,AE,Alter Ego,selesai,Anavel,/mobilelegends/Anavel,EVOS
+13,7,4,1714833000,RRQ Hoshi,RRQ,0,2,BTR,Bigetron by Vitality,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+13,7,5,1714896000,Dewa United Esports,DEWA,1,2,EVOS,EVOS,selesai,Anavel,/mobilelegends/Anavel,EVOS
+13,7,5,1714907700,Alter Ego,AE,0,2,GEEK,Geek Fam ID,selesai,Luke,/mobilelegends/Luke,GEEK
+13,7,5,1714917000,ONIC,ONIC,2,0,RRQ,RRQ Hoshi,selesai,CW,/mobilelegends/CW,ONIC
+13,8,10,1715328000,Geek Fam ID,GEEK,2,1,DEWA,Dewa United Esports,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+13,8,10,1715338800,Bigetron by Vitality,BTR,2,0,AURA,AURA Fire,selesai,Kenn,/mobilelegends/Super_Kenn,BTR
+13,8,11,1715414400,Dewa United Esports,DEWA,0,2,AE,Alter Ego,selesai,Rasy,/mobilelegends/Rasy,AE
+13,8,11,1715425200,EVOS,EVOS,2,1,RRQ,RRQ Hoshi,selesai,Claw Kun,/mobilelegends/Claw_Kun,EVOS
+13,8,11,1715435400,ONIC,ONIC,2,0,RBL,Rebellion Esports,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+13,8,12,1715500800,RRQ Hoshi,RRQ,0,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+13,8,12,1715511600,Rebellion Esports,RBL,1,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,8,12,1715521800,AURA Fire,AURA,2,0,EVOS,EVOS,selesai,Kabuki,/mobilelegends/Kabuki,AURA
+13,9,17,1715932800,Geek Fam ID,GEEK,2,1,AURA,AURA Fire,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+13,9,17,1715943600,RRQ Hoshi,RRQ,2,0,DEWA,Dewa United Esports,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,9,18,1716019200,EVOS,EVOS,2,1,RBL,Rebellion Esports,selesai,Fluffy,/mobilelegends/Fluffy,EVOS
+13,9,18,1716030000,Alter Ego,AE,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+13,9,18,1716040200,Bigetron by Vitality,BTR,2,0,ONIC,ONIC,selesai,EMANN,/mobilelegends/EMANN,BTR
+13,9,19,1716105600,AURA Fire,AURA,2,0,AE,Alter Ego,selesai,Yawi,/mobilelegends/Yawi,AURA
+13,9,19,1716116400,ONIC,ONIC,2,1,EVOS,EVOS,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+13,9,19,1716126600,Rebellion Esports,RBL,1,2,GEEK,Geek Fam ID,selesai,Luke,/mobilelegends/Luke,GEEK
+14,1,9,1723191300,ONIC,FNOC,2,0,TLID,Team Liquid ID,selesai,Lutpiii,/mobilelegends/Lutpiii,FNOC
+14,1,9,1723202100,EVOS,EVOS,1,2,DEWA,Dewa United Esports,selesai,Reyy,/mobilelegends/Reyy,DEWA
+14,1,10,1723277700,Team Liquid ID,TLID,0,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+14,1,10,1723288500,RRQ Hoshi,RRQ,2,0,EVOS,EVOS,selesai,Idok,/mobilelegends/Idok,RRQ
+14,1,10,1723299300,Geek Fam ID,GEEK,1,2,AE,Alter Ego,selesai,Nnael,/mobilelegends/Nnael,AE
+14,1,11,1723364100,Rebellion Esports,RBL,1,2,FNOC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,FNOC
+14,1,11,1723374900,Bigetron by Vitality,BTR,2,1,RRQ,RRQ Hoshi,selesai,Kyy,/mobilelegends/Kyy,BTR
+14,1,11,1723385700,Dewa United Esports,DEWA,2,0,GEEK,Geek Fam ID,selesai,Xorizo,/mobilelegends/Xorizo,DEWA
+14,2,16,1723796100,Rebellion Esports,RBL,0,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+14,2,16,1723806900,EVOS,EVOS,1,2,TLID,Team Liquid ID,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,2,17,1723882500,Bigetron by Vitality,BTR,2,0,AE,Alter Ego,selesai,EMANN,/mobilelegends/EMANN,BTR
+14,2,17,1723893300,RRQ Hoshi,RRQ,2,0,FNOC,ONIC,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+14,2,17,1723904100,EVOS,EVOS,1,2,GEEK,Geek Fam ID,selesai,Mas4ko,/mobilelegends/Mas4Ko,GEEK
+14,2,18,1723968900,Dewa United Esports,DEWA,0,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+14,2,18,1723979700,Alter Ego,AE,0,2,FNOC,ONIC,selesai,Kairi,/mobilelegends/Kairi,FNOC
+14,2,18,1723990500,Team Liquid ID,TLID,2,0,RBL,Rebellion Esports,selesai,Yehezkiel,/mobilelegends/Yehezkiel,TLID
+14,3,23,1724400900,ONIC,FNOC,1,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+14,3,23,1724411700,Dewa United Esports,DEWA,2,0,RBL,Rebellion Esports,selesai,Muezzaa,/mobilelegends/Muezzaa,DEWA
+14,3,24,1724484600,Geek Fam ID,GEEK,2,1,BTR,Bigetron by Vitality,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+14,3,24,1724495400,Alter Ego,AE,1,2,EVOS,EVOS,selesai,DreamS,/mobilelegends/Dreams,EVOS
+14,3,24,1724506200,Team Liquid ID,TLID,2,0,DEWA,Dewa United Esports,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,3,25,1724571000,Rebellion Esports,RBL,1,2,AE,Alter Ego,selesai,Nnael,/mobilelegends/Nnael,AE
+14,3,25,1724581800,RRQ Hoshi,RRQ,2,0,TLID,Team Liquid ID,selesai,Skylar,/mobilelegends/Skylar,RRQ
+14,3,25,1724592600,Bigetron by Vitality,BTR,2,1,EVOS,EVOS,selesai,Moreno,/mobilelegends/Moreno,BTR
+14,4,30,1725005700,ONIC,FNOC,2,1,DEWA,Dewa United Esports,selesai,Kiboy,/mobilelegends/Kiboy,FNOC
+14,4,30,1725016500,Bigetron by Vitality,BTR,2,1,RBL,Rebellion Esports,selesai,EMANN,/mobilelegends/EMANN,BTR
+14,4,31,1725089400,Team Liquid ID,TLID,2,1,GEEK,Geek Fam ID,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+14,4,31,1725100200,ONIC,FNOC,2,1,BTR,Bigetron by Vitality,selesai,Kairi,/mobilelegends/Kairi,FNOC
+14,4,31,1725111000,RRQ Hoshi,RRQ,2,1,AE,Alter Ego,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+14,4,1,1725175800,Rebellion Esports,RBL,2,0,EVOS,EVOS,selesai,Matt,/mobilelegends/Matt,RBL
+14,4,1,1725186600,Geek Fam ID,GEEK,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+14,4,1,1725197400,Alter Ego,AE,2,0,DEWA,Dewa United Esports,selesai,Nnael,/mobilelegends/Nnael,AE
+14,5,6,1725610500,Geek Fam ID,GEEK,2,0,RBL,Rebellion Esports,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+14,5,6,1725621300,EVOS,EVOS,0,2,FNOC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,FNOC
+14,5,7,1725694200,Dewa United Esports,DEWA,1,2,RRQ,RRQ Hoshi,selesai,Skylar,/mobilelegends/Skylar,RRQ
+14,5,7,1725705000,Alter Ego,AE,0,2,TLID,Team Liquid ID,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+14,5,7,1725715800,EVOS,EVOS,0,2,BTR,Bigetron by Vitality,selesai,Luke,/mobilelegends/Luke,BTR
+14,5,8,1725780600,Alter Ego,AE,2,0,RBL,Rebellion Esports,selesai,Nnael,/mobilelegends/Nnael,AE
+14,5,8,1725791400,Geek Fam ID,GEEK,2,0,FNOC,ONIC,selesai,Veldora,/mobilelegends/Vell,GEEK
+14,5,8,1725802200,Dewa United Esports,DEWA,1,2,TLID,Team Liquid ID,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,6,13,1726215300,Bigetron by Vitality,BTR,2,1,DEWA,Dewa United Esports,selesai,EMANN,/mobilelegends/EMANN,BTR
+14,6,13,1726226100,Rebellion Esports,RBL,1,2,TLID,Team Liquid ID,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+14,6,14,1726299000,Dewa United Esports,DEWA,2,0,EVOS,EVOS,selesai,Xorizo,/mobilelegends/Xorizo,DEWA
+14,6,14,1726309800,Alter Ego,AE,1,2,GEEK,Geek Fam ID,selesai,Vincentt,/mobilelegends/Vincentt,GEEK
+14,6,14,1726320600,ONIC,FNOC,0,2,RRQ,RRQ Hoshi,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+14,6,15,1726385400,EVOS,EVOS,0,2,AE,Alter Ego,selesai,Nnael,/mobilelegends/Nnael,AE
+14,6,15,1726396200,Team Liquid ID,TLID,2,0,FNOC,ONIC,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,6,15,1726407000,RRQ Hoshi,RRQ,2,1,BTR,Bigetron by Vitality,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+14,7,20,1726820100,Geek Fam ID,GEEK,2,0,DEWA,Dewa United Esports,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+14,7,20,1726830900,Bigetron by Vitality,BTR,0,2,TLID,Team Liquid ID,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+14,7,21,1726903800,Dewa United Esports,DEWA,2,0,AE,Alter Ego,selesai,Muezzaa,/mobilelegends/Muezzaa,DEWA
+14,7,21,1726914600,EVOS,EVOS,2,1,RRQ,RRQ Hoshi,selesai,Anavel,/mobilelegends/Anavel,EVOS
+14,7,21,1726925400,ONIC,FNOC,0,2,RBL,Rebellion Esports,selesai,Karss,/mobilelegends/Karss,RBL
+14,7,22,1726990200,RRQ Hoshi,RRQ,2,0,GEEK,Geek Fam ID,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+14,7,22,1727001000,Rebellion Esports,RBL,0,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+14,7,22,1727011800,Team Liquid ID,TLID,2,1,EVOS,EVOS,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,8,27,1727424900,Geek Fam ID,GEEK,0,2,TLID,Team Liquid ID,selesai,Faviannn,/mobilelegends/Faviannn,TLID
+14,8,27,1727435700,RRQ Hoshi,RRQ,2,0,DEWA,Dewa United Esports,selesai,Rinz,/mobilelegends/Rinz,RRQ
+14,8,28,1727508600,EVOS,EVOS,2,1,RBL,Rebellion Esports,selesai,Anavel,/mobilelegends/Anavel,EVOS
+14,8,28,1727519400,Alter Ego,AE,2,0,RRQ,RRQ Hoshi,selesai,Nnael,/mobilelegends/Nnael,AE
+14,8,28,1727530200,Bigetron by Vitality,BTR,1,2,FNOC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,FNOC
+14,8,29,1727595000,Team Liquid ID,TLID,2,1,AE,Alter Ego,selesai,Aran,/mobilelegends/Aran,TLID
+14,8,29,1727605800,ONIC,FNOC,2,0,EVOS,EVOS,selesai,CW,/mobilelegends/CW,FNOC
+14,8,29,1727616600,Rebellion Esports,RBL,1,2,GEEK,Geek Fam ID,selesai,Gobs,/mobilelegends/Gobs,GEEK
+14,9,4,1728029700,Bigetron by Vitality,BTR,2,0,GEEK,Geek Fam ID,selesai,EMANN,/mobilelegends/EMANN,BTR
+14,9,4,1728040500,Rebellion Esports,RBL,2,1,DEWA,Dewa United Esports,selesai,SwayLow,/mobilelegends/SwayLow,RBL
+14,9,5,1728113400,Geek Fam ID,GEEK,2,1,EVOS,EVOS,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+14,9,5,1728124200,Team Liquid ID,TLID,1,2,RRQ,RRQ Hoshi,selesai,Idok,/mobilelegends/Idok,RRQ
+14,9,5,1728135000,ONIC,FNOC,2,0,AE,Alter Ego,selesai,Kairi,/mobilelegends/Kairi,FNOC
+14,9,6,1728199800,Dewa United Esports,DEWA,1,2,FNOC,ONIC,selesai,Rezzz,/mobilelegends/Rezzz,FNOC
+14,9,6,1728210600,Alter Ego,AE,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+14,9,6,1728221400,RRQ Hoshi,RRQ,2,0,RBL,Rebellion Esports,selesai,Hazle,/mobilelegends/Hazle,RRQ
+15,1,1,1741335300,Natus Vincere,NAVI,0,2,RRQ,RRQ Hoshi,selesai,Idok,/mobilelegends/Idok,RRQ
+15,1,1,1741346100,EVOS,EVOS,2,1,TLID,Team Liquid ID,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+15,1,2,1741419000,EVOS,EVOS,2,0,GEEK,Geek Fam ID,selesai,Kyy,/mobilelegends/Kyy,EVOS
+15,1,2,1741429800,Bigetron by Vitality,BTR,2,0,AE,Alter Ego,selesai,EMANN,/mobilelegends/EMANN,BTR
+15,1,2,1741440600,RRQ Hoshi,RRQ,2,0,ONIC,ONIC,selesai,Toyy,/mobilelegends/Toyy,RRQ
+15,1,3,1741505400,Dewa United Esports,DEWA,2,1,BTR,Bigetron by Vitality,selesai,Reyy,/mobilelegends/Reyy,DEWA
+15,1,3,1741516200,Alter Ego,AE,2,1,ONIC,ONIC,selesai,Hijumee,/mobilelegends/Hijumee,AE
+15,1,3,1741527000,Team Liquid ID,TLID,2,1,NAVI,Natus Vincere,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+15,2,1,1741940100,ONIC,ONIC,1,2,GEEK,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+15,2,1,1741950900,Dewa United Esports,DEWA,2,0,NAVI,Natus Vincere,selesai,Maybe,/mobilelegends/Maybeee,DEWA
+15,2,2,1742023800,Natus Vincere,NAVI,1,2,AE,Alter Ego,selesai,Nino,/mobilelegends/Nino,AE
+15,2,2,1742034600,RRQ Hoshi,RRQ,2,0,TLID,Team Liquid ID,selesai,Idok,/mobilelegends/Idok,RRQ
+15,2,2,1742045400,Bigetron by Vitality,BTR,1,2,EVOS,EVOS,selesai,Erlan,/mobilelegends/Erlan,EVOS
+15,2,3,1742110200,Geek Fam ID,GEEK,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+15,2,3,1742121000,Alter Ego,AE,2,0,EVOS,EVOS,selesai,Rinee,/mobilelegends/Rinee,AE
+15,2,3,1742131800,Team Liquid ID,TLID,2,0,DEWA,Dewa United Esports,selesai,Kyou,/mobilelegends/Kyou,TLID
+15,3,1,1742544900,ONIC,ONIC,2,1,DEWA,Dewa United Esports,selesai,Kairi,/mobilelegends/Kairi,ONIC
+15,3,1,1742560200,Natus Vincere,NAVI,0,2,EVOS,EVOS,selesai,Kyy,/mobilelegends/Kyy,EVOS
+15,3,2,1742628600,Team Liquid ID,TLID,1,2,GEEK,Geek Fam ID,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+15,3,2,1742639400,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,Savero,/mobilelegends/Savero,ONIC
+15,3,2,1742650200,RRQ Hoshi,RRQ,2,1,AE,Alter Ego,selesai,Idok,/mobilelegends/Idok,RRQ
+15,3,3,1742715000,Bigetron by Vitality,BTR,2,1,NAVI,Natus Vincere,selesai,Anavel,/mobilelegends/Anavel,BTR
+15,3,3,1742725800,Geek Fam ID,GEEK,1,2,RRQ,RRQ Hoshi,selesai,Idok,/mobilelegends/Idok,RRQ
+15,3,3,1742736600,Alter Ego,AE,2,1,DEWA,Dewa United Esports,selesai,Rinee,/mobilelegends/Rinee,AE
+15,4,1,1744964100,Natus Vincere,NAVI,1,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+15,4,1,1744974900,EVOS,EVOS,1,2,DEWA,Dewa United Esports,selesai,Maybe,/mobilelegends/Maybeee,DEWA
+15,4,2,1745047800,Team Liquid ID,TLID,1,2,BTR,Bigetron by Vitality,selesai,Anavel,/mobilelegends/Anavel,BTR
+15,4,2,1745058600,RRQ Hoshi,RRQ,2,1,EVOS,EVOS,selesai,Hazle,/mobilelegends/Hazle,RRQ
+15,4,2,1745069400,Geek Fam ID,GEEK,2,1,AE,Alter Ego,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+15,4,3,1745134200,ONIC,ONIC,1,2,TLID,Team Liquid ID,selesai,Yehezkiel,/mobilelegends/Yehezkiel,TLID
+15,4,3,1745145000,Bigetron by Vitality,BTR,2,0,RRQ,RRQ Hoshi,selesai,Moreno,/mobilelegends/Moreno,BTR
+15,4,3,1745155800,Dewa United Esports,DEWA,1,2,GEEK,Geek Fam ID,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+15,5,1,1745568900,Geek Fam ID,GEEK,2,0,NAVI,Natus Vincere,selesai,Caderaa,/mobilelegends/Caderaa,GEEK
+15,5,1,1745579700,EVOS,EVOS,2,0,ONIC,ONIC,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+15,5,2,1745652600,Dewa United Esports,DEWA,0,2,RRQ,RRQ Hoshi,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+15,5,2,1745663400,Alter Ego,AE,1,2,TLID,Team Liquid ID,selesai,Yehezkiel,/mobilelegends/Yehezkiel,TLID
+15,5,2,1745674200,EVOS,EVOS,1,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+15,5,3,1745739000,Alter Ego,AE,2,1,NAVI,Natus Vincere,selesai,Rinee,/mobilelegends/Rinee,AE
+15,5,3,1745749800,Geek Fam ID,GEEK,1,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+15,5,3,1745760600,Dewa United Esports,DEWA,1,2,TLID,Team Liquid ID,selesai,Kyou,/mobilelegends/Kyou,TLID
+15,6,1,1746173700,Natus Vincere,NAVI,0,2,DEWA,Dewa United Esports,selesai,Octa,/mobilelegends/Octa,DEWA
+15,6,1,1746184500,Alter Ego,AE,0,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+15,6,2,1746257400,EVOS,EVOS,0,2,AE,Alter Ego,selesai,Hijumee,/mobilelegends/Hijumee,AE
+15,6,2,1746268200,Team Liquid ID,TLID,0,2,ONIC,ONIC,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+15,6,2,1746279000,RRQ Hoshi,RRQ,2,1,BTR,Bigetron by Vitality,selesai,Idok,/mobilelegends/Idok,RRQ
+15,6,3,1746343800,Natus Vincere,NAVI,0,2,TLID,Team Liquid ID,selesai,AeronnShikii,/mobilelegends/AeronnShikii,TLID
+15,6,3,1746354600,ONIC,ONIC,2,1,RRQ,RRQ Hoshi,selesai,Kairi,/mobilelegends/Kairi,ONIC
+15,6,3,1746365400,Geek Fam ID,GEEK,2,1,EVOS,EVOS,selesai,Maykids,/mobilelegends/Maykids,GEEK
+15,7,1,1746778500,Geek Fam ID,GEEK,2,0,DEWA,Dewa United Esports,selesai,Maykids,/mobilelegends/Maykids,GEEK
+15,7,1,1746789300,Bigetron by Vitality,BTR,1,2,TLID,Team Liquid ID,selesai,Widy,/mobilelegends/Widy,TLID
+15,7,2,1746862200,Dewa United Esports,DEWA,0,2,AE,Alter Ego,selesai,Rinee,/mobilelegends/Rinee,AE
+15,7,2,1746873000,EVOS,EVOS,0,2,RRQ,RRQ Hoshi,selesai,Idok,/mobilelegends/Idok,RRQ
+15,7,2,1746883800,ONIC,ONIC,2,0,NAVI,Natus Vincere,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+15,7,3,1746948600,RRQ Hoshi,RRQ,2,1,GEEK,Geek Fam ID,selesai,Idok,/mobilelegends/Idok,RRQ
+15,7,3,1746959400,Natus Vincere,NAVI,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+15,7,3,1746970200,Team Liquid ID,TLID,2,1,EVOS,EVOS,selesai,Widy,/mobilelegends/Widy,TLID
+15,8,1,1747383300,Team Liquid ID,TLID,0,2,AE,Alter Ego,selesai,Arfy,/mobilelegends/Arfy,AE
+15,8,1,1747394100,Bigetron by Vitality,BTR,2,0,DEWA,Dewa United Esports,selesai,EMANN,/mobilelegends/EMANN,BTR
+15,8,2,1747467000,Geek Fam ID,GEEK,2,1,TLID,Team Liquid ID,selesai,Maykids,/mobilelegends/Maykids,GEEK
+15,8,2,1747477800,Alter Ego,AE,1,2,RRQ,RRQ Hoshi,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+15,8,2,1747488600,Bigetron by Vitality,BTR,2,1,ONIC,ONIC,selesai,EMANN,/mobilelegends/EMANN,BTR
+15,8,3,1747553400,RRQ Hoshi,RRQ,0,2,DEWA,Dewa United Esports,selesai,Xorizo,/mobilelegends/Xorizo,DEWA
+15,8,3,1747564200,ONIC,ONIC,2,0,EVOS,EVOS,selesai,Kairi,/mobilelegends/Kairi,ONIC
+15,8,3,1747575000,Natus Vincere,NAVI,0,2,GEEK,Geek Fam ID,selesai,Maykids,/mobilelegends/Maykids,GEEK
+15,9,1,1747988100,Bigetron by Vitality,BTR,1,2,GEEK,Geek Fam ID,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+15,9,1,1747998900,Dewa United Esports,DEWA,1,2,ONIC,ONIC,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+15,9,2,1748071800,EVOS,EVOS,2,1,NAVI,Natus Vincere,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+15,9,2,1748082600,Team Liquid ID,TLID,2,0,RRQ,RRQ Hoshi,selesai,Widy,/mobilelegends/Widy,TLID
+15,9,2,1748093400,ONIC,ONIC,2,0,AE,Alter Ego,selesai,Sanz,/mobilelegends/S_A_N_Z,ONIC
+15,9,3,1748158200,Dewa United Esports,DEWA,0,2,EVOS,EVOS,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+15,9,3,1748169000,Alter Ego,AE,2,0,BTR,Bigetron by Vitality,selesai,Nino,/mobilelegends/Nino,AE
+15,9,3,1748179800,RRQ Hoshi,RRQ,2,0,NAVI,Natus Vincere,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+16,1,1,1755850500,ONIC,ONIC,2,0,DEWA,Dewa United Esports,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+16,1,1,1755861300,Natus Vincere,NAVI,0,2,EVOS,EVOS,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+16,1,2,1755933300,Team Liquid ID,TLID,1,2,GEEK,Geek Fam ID,selesai,Gobs,/mobilelegends/Gobs,GEEK
+16,1,2,1755944100,ONIC,ONIC,2,0,BTR,Bigetron by Vitality,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+16,1,2,1755954900,RRQ Hoshi,RRQ,2,1,AE,Alter Ego,selesai,Idok,/mobilelegends/Idok,RRQ
+16,1,3,1756019700,Bigetron by Vitality,BTR,1,2,NAVI,Natus Vincere,selesai,Karss,/mobilelegends/Karss,NAVI
+16,1,3,1756030500,Geek Fam ID,GEEK,2,0,RRQ,RRQ Hoshi,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+16,1,3,1756041300,Alter Ego,AE,2,0,DEWA,Dewa United Esports,selesai,Cyruz,/mobilelegends/Cyruz,AE
+16,2,1,1756455300,ONIC,ONIC,2,0,GEEK,Geek Fam ID,selesai,Kairi,/mobilelegends/Kairi,ONIC
+16,2,1,1756466100,Dewa United Esports,DEWA,2,0,NAVI,Natus Vincere,selesai,QINN,/mobilelegends/QINN,DEWA
+16,2,2,1756538100,Geek Fam ID,GEEK,0,2,BTR,Bigetron by Vitality,selesai,Nnael,/mobilelegends/Nnael,BTR
+16,2,2,1756548900,Alter Ego,AE,2,1,EVOS,EVOS,selesai,Arfy,/mobilelegends/Arfy,AE
+16,2,2,1756559700,Team Liquid ID,TLID,1,2,DEWA,Dewa United Esports,selesai,QINN,/mobilelegends/QINN,DEWA
+16,2,3,1756624500,Natus Vincere,NAVI,2,0,AE,Alter Ego,selesai,UK1R,/mobilelegends/UK1R,NAVI
+16,2,3,1756635300,RRQ Hoshi,RRQ,2,0,TLID,Team Liquid ID,selesai,Idok,/mobilelegends/Idok,RRQ
+16,2,3,1756646100,Bigetron by Vitality,BTR,2,1,EVOS,EVOS,selesai,Shogun,/mobilelegends/Shogun,BTR
+16,3,1,1757060100,Natus Vincere,NAVI,0,2,RRQ,RRQ Hoshi,selesai,Idok,/mobilelegends/Idok,RRQ
+16,3,1,1757070900,EVOS,EVOS,2,0,TLID,Team Liquid ID,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+16,3,2,1757142900,EVOS,EVOS,2,0,GEEK,Geek Fam ID,selesai,Rendyy,/mobilelegends/index.php?title=Rendyy&action=edit&redlink=1,EVOS
+16,3,2,1757153700,Bigetron by Vitality,BTR,2,1,AE,Alter Ego,selesai,EMANN,/mobilelegends/EMANN,BTR
+16,3,2,1757164500,RRQ Hoshi,RRQ,0,2,ONIC,ONIC,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+16,3,3,1757229300,Dewa United Esports,DEWA,1,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+16,3,3,1757240100,Alter Ego,AE,1,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+16,3,3,1757250900,Team Liquid ID,TLID,0,2,NAVI,Natus Vincere,selesai,Andoryuuu,/mobilelegends/Andoryuuu,NAVI
+16,4,1,1757664900,Natus Vincere,NAVI,1,2,ONIC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+16,4,1,1757675700,EVOS,EVOS,2,0,DEWA,Dewa United Esports,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+16,4,2,1757747700,Team Liquid ID,TLID,0,2,BTR,Bigetron by Vitality,selesai,Finn,/mobilelegends/Finn,BTR
+16,4,2,1757758500,RRQ Hoshi,RRQ,2,0,EVOS,EVOS,selesai,Sutsujin,/mobilelegends/Sutsujin,RRQ
+16,4,2,1757769300,Geek Fam ID,GEEK,0,2,AE,Alter Ego,selesai,Arfy,/mobilelegends/Arfy,AE
+16,4,3,1757834100,ONIC,ONIC,2,0,TLID,Team Liquid ID,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+16,4,3,1757844900,Bigetron by Vitality,BTR,2,1,RRQ,RRQ Hoshi,selesai,Shogun,/mobilelegends/Shogun,BTR
+16,4,3,1757855700,Dewa United Esports,DEWA,2,1,GEEK,Geek Fam ID,selesai,Reyy,/mobilelegends/Reyy,DEWA
+16,5,1,1758269700,Geek Fam ID,GEEK,0,2,NAVI,Natus Vincere,selesai,Karss,/mobilelegends/Karss,NAVI
+16,5,1,1758280500,EVOS,EVOS,1,2,ONIC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+16,5,2,1758352500,Dewa United Esports,DEWA,2,0,RRQ,RRQ Hoshi,selesai,Muezza,/mobilelegends/Muezzaa,DEWA
+16,5,2,1758363300,Alter Ego,AE,2,1,TLID,Team Liquid ID,selesai,Arfy,/mobilelegends/Arfy,AE
+16,5,2,1758374100,EVOS,EVOS,0,2,BTR,Bigetron by Vitality,selesai,Nnael,/mobilelegends/Nnael,BTR
+16,5,3,1758438900,Alter Ego,AE,2,1,NAVI,Natus Vincere,selesai,Yazukee,/mobilelegends/Yazukee,AE
+16,5,3,1758449700,Geek Fam ID,GEEK,0,2,ONIC,ONIC,selesai,Lutpiii,/mobilelegends/Lutpiii,ONIC
+16,5,3,1758460500,Dewa United Esports,DEWA,2,0,TLID,Team Liquid ID,selesai,QINN,/mobilelegends/QINN,DEWA
+16,6,1,1758874500,Natus Vincere,NAVI,0,2,DEWA,Dewa United Esports,selesai,QINN,/mobilelegends/QINN,DEWA
+16,6,1,1758885300,Alter Ego,AE,2,0,GEEK,Geek Fam ID,selesai,Nino,/mobilelegends/Nino,AE
+16,6,2,1758957300,EVOS,EVOS,1,2,AE,Alter Ego,selesai,alekk,/mobilelegends/Alekk,AE
+16,6,2,1758968100,Team Liquid ID,TLID,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+16,6,2,1758978900,RRQ Hoshi,RRQ,1,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+16,6,3,1759043700,Natus Vincere,NAVI,2,1,TLID,Team Liquid ID,selesai,Karss,/mobilelegends/Karss,NAVI
+16,6,3,1759054500,ONIC,ONIC,2,0,RRQ,RRQ Hoshi,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+16,6,3,1759065300,Geek Fam ID,GEEK,0,2,EVOS,EVOS,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+16,7,1,1759479300,Geek Fam ID,GEEK,2,0,DEWA,Dewa United Esports,selesai,Gobs,/mobilelegends/Gobs,GEEK
+16,7,1,1759490100,Bigetron by Vitality,BTR,0,2,TLID,Team Liquid ID,selesai,Aran,/mobilelegends/Aran,TLID
+16,7,2,1759562100,Dewa United Esports,DEWA,2,0,AE,Alter Ego,selesai,Muezza,/mobilelegends/Muezzaa,DEWA
+16,7,2,1759572900,EVOS,EVOS,2,1,RRQ,RRQ Hoshi,selesai,Alberttt,/mobilelegends/Alberttt,EVOS
+16,7,2,1759583700,ONIC,ONIC,2,0,NAVI,Natus Vincere,selesai,Kairi,/mobilelegends/Kairi,ONIC
+16,7,3,1759648500,RRQ Hoshi,RRQ,0,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+16,7,3,1759659300,Natus Vincere,NAVI,0,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+16,7,3,1759670100,Team Liquid ID,TLID,1,2,EVOS,EVOS,selesai,RoundeL,/mobilelegends/RoundeL,EVOS
+16,8,1,1760084100,Team Liquid ID,TLID,2,1,AE,Alter Ego,selesai,Widy,/mobilelegends/Widy,TLID
+16,8,1,1760094900,Bigetron by Vitality,BTR,2,0,DEWA,Dewa United Esports,selesai,Shogun,/mobilelegends/Shogun,BTR
+16,8,2,1760166900,Geek Fam ID,GEEK,1,2,TLID,Team Liquid ID,selesai,Widy,/mobilelegends/Widy,TLID
+16,8,2,1760177700,Alter Ego,AE,2,0,RRQ,RRQ Hoshi,selesai,Hijumee,/mobilelegends/Hijumee,AE
+16,8,2,1760188500,Bigetron by Vitality,BTR,2,0,ONIC,ONIC,selesai,EMANN,/mobilelegends/EMANN,BTR
+16,8,3,1760253300,RRQ Hoshi,RRQ,2,0,DEWA,Dewa United Esports,selesai,Rinz,/mobilelegends/Rinz,RRQ
+16,8,3,1760264100,ONIC,ONIC,2,0,EVOS,EVOS,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+16,8,3,1760274900,Natus Vincere,NAVI,2,0,GEEK,Geek Fam ID,selesai,Andoryuuu,/mobilelegends/Andoryuuu,NAVI
+16,9,1,1760688900,Bigetron by Vitality,BTR,0,2,GEEK,Geek Fam ID,selesai,Baloyskie,/mobilelegends/Baloyskie,GEEK
+16,9,1,1760699700,Dewa United Esports,DEWA,0,2,ONIC,ONIC,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+16,9,2,1760771700,EVOS,EVOS,2,1,NAVI,Natus Vincere,selesai,Kyy,/mobilelegends/Kyy,EVOS
+16,9,2,1760782500,Team Liquid ID,TLID,2,0,RRQ,RRQ Hoshi,selesai,Yehezkiel,/mobilelegends/Yehezkiel,TLID
+16,9,2,1760793300,ONIC,ONIC,1,2,AE,Alter Ego,selesai,Yazukee,/mobilelegends/Yazukee,AE
+16,9,3,1760858100,Dewa United Esports,DEWA,2,0,EVOS,EVOS,selesai,QINN,/mobilelegends/QINN,DEWA
+16,9,3,1760868900,Alter Ego,AE,1,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+16,9,3,1760879700,RRQ Hoshi,RRQ,2,1,NAVI,Natus Vincere,selesai,Dyrennn,/mobilelegends/Dyrennn,RRQ
+17,1,1,1774599300,Bigetron by Vitality,BTR,2,1,AE,Alter Ego,selesai,EMANN,/mobilelegends/EMANN,BTR
+17,1,1,1774610100,Natus Vincere,NAVI,2,0,RRQ,RRQ Hoshi,selesai,Xyve,/mobilelegends/Xyve,NAVI
+17,1,2,1774682100,EVOS,EVOS,2,0,GEEK,Geek Fam ID,selesai,Albert,/mobilelegends/Alberttt,EVOS
+17,1,2,1774692900,Alter Ego,AE,0,2,ONIC,ONIC,selesai,Kelra,/mobilelegends/Kelra,ONIC
+17,1,2,1774703700,Team Liquid ID,TLID,2,1,NAVI,Natus Vincere,selesai,Kyou,/mobilelegends/Kyou,TLID
+17,1,3,1774768500,Dewa United Esports,DEWA,2,0,BTR,Bigetron by Vitality,selesai,Muezza,/mobilelegends/Muezzaa,DEWA
+17,1,3,1774779300,EVOS,EVOS,0,2,TLID,Team Liquid ID,selesai,Aran,/mobilelegends/Aran,TLID
+17,1,3,1774790100,RRQ Hoshi,RRQ,0,2,ONIC,ONIC,selesai,Kelra,/mobilelegends/Kelra,ONIC
+17,2,1,1775204100,ONIC,ONIC,2,0,GEEK,Geek Fam ID,selesai,Kairi,/mobilelegends/Kairi,ONIC
+17,2,1,1775214900,Dewa United Esports,DEWA,2,0,NAVI,Natus Vincere,selesai,Muezza,/mobilelegends/Muezzaa,DEWA
+17,2,2,1775286900,Geek Fam ID,GEEK,2,0,BTR,Bigetron by Vitality,selesai,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,GEEK
+17,2,2,1775297700,Alter Ego,AE,2,1,EVOS,EVOS,selesai,Arfy,/mobilelegends/Arfy,AE
+17,2,2,1775308500,Team Liquid ID,TLID,2,1,DEWA,Dewa United Esports,selesai,Lyoni,/mobilelegends/Lyoni,TLID
+17,2,3,1775373300,Natus Vincere,NAVI,1,2,AE,Alter Ego,selesai,Yazukee,/mobilelegends/Yazukee,AE
+17,2,3,1775384100,RRQ Hoshi,RRQ,0,2,TLID,Team Liquid ID,selesai,Lyoni,/mobilelegends/Lyoni,TLID
+17,2,3,1775394900,Bigetron by Vitality,BTR,2,1,EVOS,EVOS,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,3,1,1775808900,ONIC,ONIC,2,1,DEWA,Dewa United Esports,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+17,3,1,1775819700,Natus Vincere,NAVI,0,2,EVOS,EVOS,selesai,Albert,/mobilelegends/Alberttt,EVOS
+17,3,2,1775891700,Team Liquid ID,TLID,0,2,GEEK,Geek Fam ID,selesai,KennzyySkie,/mobilelegends/KennzyySkie,GEEK
+17,3,2,1775902500,ONIC,ONIC,1,2,BTR,Bigetron by Vitality,selesai,EMANN,/mobilelegends/EMANN,BTR
+17,3,2,1775913300,RRQ Hoshi,RRQ,1,2,AE,Alter Ego,selesai,Arfy,/mobilelegends/Arfy,AE
+17,3,3,1775978100,Bigetron by Vitality,BTR,1,2,NAVI,Natus Vincere,selesai,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,NAVI
+17,3,3,1775988900,Geek Fam ID,GEEK,2,1,RRQ,RRQ Hoshi,selesai,Aboy,/mobilelegends/A_B_O_Y,GEEK
+17,3,3,1775999700,Alter Ego,AE,0,2,DEWA,Dewa United Esports,selesai,Dolynn,/mobilelegends/index.php?title=Dolynn&action=edit&redlink=1,DEWA
+17,4,1,1776413700,Natus Vincere,NAVI,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+17,4,1,1776424500,EVOS,EVOS,2,0,DEWA,Dewa United Esports,selesai,Luke,/mobilelegends/Luke,EVOS
+17,4,2,1776496500,Team Liquid ID,TLID,1,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,4,2,1776507300,RRQ Hoshi,RRQ,0,2,EVOS,EVOS,selesai,Erlan,/mobilelegends/Erlan,EVOS
+17,4,2,1776518100,Geek Fam ID,GEEK,1,2,AE,Alter Ego,selesai,Arfy,/mobilelegends/Arfy,AE
+17,4,3,1776582900,ONIC,ONIC,2,0,TLID,Team Liquid ID,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+17,4,3,1776593700,Bigetron by Vitality,BTR,2,1,RRQ,RRQ Hoshi,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,4,3,1776604500,Dewa United Esports,DEWA,2,0,GEEK,Geek Fam ID,selesai,Dolynn,/mobilelegends/index.php?title=Dolynn&action=edit&redlink=1,DEWA
+17,5,1,1777018500,Geek Fam ID,GEEK,0,2,NAVI,Natus Vincere,selesai,Xyve,/mobilelegends/Xyve,NAVI
+17,5,1,1777029300,EVOS,EVOS,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+17,5,2,1777101300,Dewa United Esports,DEWA,2,0,RRQ,RRQ Hoshi,selesai,Octa,/mobilelegends/Octa,DEWA
+17,5,2,1777112100,Alter Ego,AE,1,2,TLID,Team Liquid ID,selesai,Kevinn,/mobilelegends/index.php?title=JOOOOO&action=edit&redlink=1,TLID
+17,5,2,1777122900,EVOS,EVOS,0,2,BTR,Bigetron by Vitality,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,5,3,1777187700,Alter Ego,AE,2,1,NAVI,Natus Vincere,selesai,Nino,/mobilelegends/Nino,AE
+17,5,3,1777198500,Geek Fam ID,GEEK,2,1,ONIC,ONIC,selesai,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,GEEK
+17,5,3,1777209300,Dewa United Esports,DEWA,2,0,TLID,Team Liquid ID,selesai,QINN,/mobilelegends/QINN,DEWA
+17,6,1,1777623300,Natus Vincere,NAVI,1,2,DEWA,Dewa United Esports,selesai,Dolynn,/mobilelegends/index.php?title=Dolynn&action=edit&redlink=1,DEWA
+17,6,1,1777634100,Alter Ego,AE,2,1,GEEK,Geek Fam ID,selesai,alekk,/mobilelegends/Alekk,AE
+17,6,2,1777706100,EVOS,EVOS,2,1,AE,Alter Ego,selesai,Kyy,/mobilelegends/Kyy,EVOS
+17,6,2,1777716900,Team Liquid ID,TLID,0,2,ONIC,ONIC,selesai,Kairi,/mobilelegends/Kairi,ONIC
+17,6,2,1777727700,RRQ Hoshi,RRQ,2,0,BTR,Bigetron by Vitality,selesai,Dan,/mobilelegends/Dan,RRQ
+17,6,3,1777792500,Natus Vincere,NAVI,1,2,TLID,Team Liquid ID,selesai,Aran,/mobilelegends/Aran,TLID
+17,6,3,1777803300,ONIC,ONIC,2,0,RRQ,RRQ Hoshi,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+17,6,3,1777814100,Geek Fam ID,GEEK,2,0,EVOS,EVOS,selesai,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,GEEK
+17,7,1,1778228100,Geek Fam ID,GEEK,1,2,DEWA,Dewa United Esports,selesai,QINN,/mobilelegends/QINN,DEWA
+17,7,1,1778238900,Bigetron by Vitality,BTR,0,2,TLID,Team Liquid ID,selesai,Kevinn,/mobilelegends/index.php?title=JOOOOO&action=edit&redlink=1,TLID
+17,7,2,1778310900,Dewa United Esports,DEWA,1,2,AE,Alter Ego,selesai,Nino,/mobilelegends/Nino,AE
+17,7,2,1778321700,EVOS,EVOS,2,0,RRQ,RRQ Hoshi,selesai,Albert,/mobilelegends/Alberttt,EVOS
+17,7,2,1778332500,ONIC,ONIC,2,0,NAVI,Natus Vincere,selesai,S A N Z,/mobilelegends/S_A_N_Z,ONIC
+17,7,3,1778397300,RRQ Hoshi,RRQ,0,2,GEEK,Geek Fam ID,selesai,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,GEEK
+17,7,3,1778408100,Natus Vincere,NAVI,2,1,BTR,Bigetron by Vitality,selesai,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,NAVI
+17,7,3,1778418900,Team Liquid ID,TLID,0,2,EVOS,EVOS,selesai,Albert,/mobilelegends/Alberttt,EVOS
+17,8,1,1778832900,Bigetron by Vitality,BTR,0,2,GEEK,Geek Fam ID,selesai,Nazara,/mobilelegends/index.php?title=Nazara&action=edit&redlink=1,GEEK
+17,8,1,1778843700,Dewa United Esports,DEWA,0,2,ONIC,ONIC,selesai,Kelra,/mobilelegends/Kelra,ONIC
+17,8,2,1778915700,EVOS,EVOS,0,2,NAVI,Natus Vincere,selesai,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,NAVI
+17,8,2,1778926500,Team Liquid ID,TLID,2,0,RRQ,RRQ Hoshi,selesai,Aran,/mobilelegends/Aran,TLID
+17,8,2,1778937300,ONIC,ONIC,2,1,AE,Alter Ego,selesai,Kairi,/mobilelegends/Kairi,ONIC
+17,8,3,1779002100,Dewa United Esports,DEWA,0,2,EVOS,EVOS,selesai,Pheww,/mobilelegends/Pheww,EVOS
+17,8,3,1779012900,Alter Ego,AE,0,2,BTR,Bigetron by Vitality,selesai,Finn,/mobilelegends/Finn,BTR
+17,8,3,1779023700,RRQ Hoshi,RRQ,0,2,NAVI,Natus Vincere,selesai,Aphro,/mobilelegends/index.php?title=Aphro&action=edit&redlink=1,NAVI
+17,9,1,1779437700,Bigetron by Vitality,BTR,2,1,DEWA,Dewa United Esports,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,9,1,1779448500,Team Liquid ID,TLID,2,0,AE,Alter Ego,selesai,Kevinn,/mobilelegends/index.php?title=Kevinn&action=edit&redlink=1,TLID
+17,9,2,1779520500,Geek Fam ID,GEEK,0,2,TLID,Team Liquid ID,selesai,Drichel,/mobilelegends/index.php?title=Drichel&action=edit&redlink=1,TLID
+17,9,2,1779531300,Alter Ego,AE,1,2,RRQ,RRQ Hoshi,selesai,Super Kenn,/mobilelegends/Super_Kenn,RRQ
+17,9,2,1779542100,Bigetron by Vitality,BTR,2,1,ONIC,ONIC,selesai,Moreno,/mobilelegends/Moreno,BTR
+17,9,3,1779606900,RRQ Hoshi,RRQ,1,2,DEWA,Dewa United Esports,selesai,QINN,/mobilelegends/QINN,DEWA
+17,9,3,1779617700,ONIC,ONIC,2,0,EVOS,EVOS,selesai,Kiboy,/mobilelegends/Kiboy,ONIC
+17,9,3,1779628500,Natus Vincere,NAVI,1,2,GEEK,Geek Fam ID,selesai,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,GEEK

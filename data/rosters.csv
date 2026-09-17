@@ -1,0 +1,810 @@
+﻿season,tim,grup,role,role_asli,pemain,link,negara,catatan
+10,Alter Ego,Main,EXP,EXP Lane,Pai,/mobilelegends/Pai,Indonesia,
+10,Alter Ego,Main,Jungle,Jungler,Celiboy,/mobilelegends/Celiboy,Indonesia,
+10,Alter Ego,Main,Mid,Middle,Udil,/mobilelegends/Udil,Indonesia,
+10,Alter Ego,Main,Gold,Gold Lane,Nino,/mobilelegends/Nino,Indonesia,
+10,Alter Ego,Main,Roam,Roamer,LeoMurphy,/mobilelegends/Leomurphy,Indonesia,
+10,Alter Ego,Subs,Jungle,Jungler,KidsZ,/mobilelegends/KidsZ,Indonesia,
+10,Alter Ego,Subs,Gold,Gold Lane,Ahmad,/mobilelegends/Ahmad,Indonesia,
+10,Alter Ego,Subs,Roam,Roamer,DevKoch,/mobilelegends/DevKoch,Indonesia,
+10,Alter Ego,Staff,,,Caesius,/mobilelegends/Caesius,Indonesia,Coach
+10,Alter Ego,Staff,,,Arss,/mobilelegends/Arss,Indonesia,Analyst
+10,AURA Fire,Main,EXP,EXP Lane,Fluffy,/mobilelegends/Fluffy,Indonesia,
+10,AURA Fire,Main,Jungle,Jungler,H i g h,/mobilelegends/High,Indonesia,
+10,AURA Fire,Main,Mid,Middle,FACEHUGGER,/mobilelegends/Facehugger,Indonesia,
+10,AURA Fire,Main,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+10,AURA Fire,Main,Roam,Roamer,god1va,/mobilelegends/God1va,Indonesia,
+10,AURA Fire,Subs,Gold,Gold Lane,Caid,/mobilelegends/Caid,Indonesia,
+10,AURA Fire,Subs,Roam,Roamer,Druuu,/mobilelegends/Druu,Indonesia,
+10,AURA Fire,Staff,,,Tezet,/mobilelegends/Tezet,Indonesia,Coach
+10,AURA Fire,Staff,,,Fifty One Fifty,/mobilelegends/index.php?title=Fifty_One_Fifty&action=edit&redlink=1,Indonesia,Analyst
+10,AURA Fire,Staff,,,Pahlevii,/mobilelegends/Pahlevi,Indonesia,Analyst
+10,Bigetron Alpha,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+10,Bigetron Alpha,Main,Jungle,Jungler,MAXXX,/mobilelegends/Maxx,Indonesia,
+10,Bigetron Alpha,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,
+10,Bigetron Alpha,Main,Gold,Gold Lane,Markyyyyy,/mobilelegends/Markyyyyy,Philippines,
+10,Bigetron Alpha,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+10,Bigetron Alpha,Subs,EXP,EXP Lane,Rippo,/mobilelegends/Rippo,Malaysia,
+10,Bigetron Alpha,Subs,Mid,Middle,Falah,/mobilelegends/Falah,Indonesia,
+10,Bigetron Alpha,Subs,Gold,Gold Lane,SakeN,/mobilelegends/Saken,Indonesia,
+10,Bigetron Alpha,Former,Gold,Gold Lane,Matt,/mobilelegends/Matt,Indonesia,Left
+10,Bigetron Alpha,Staff,,,Vrendon Lin,/mobilelegends/Vren,Philippines,Coach
+10,Bigetron Alpha,Staff,,,Starlest,/mobilelegends/index.php?title=Starlest&action=edit&redlink=1,Indonesia,Analyst
+10,Bigetron Alpha,Staff,,,Mozia,/mobilelegends/Mozia,Indonesia,Analyst
+10,EVOS Legends,Main,EXP,EXP Lane,Pendragon,/mobilelegends/Pendragon,Indonesia,
+10,EVOS Legends,Main,Jungle,Jungler,Sutsujin,/mobilelegends/Sutsujin,Indonesia,
+10,EVOS Legends,Main,Mid,Middle,Tazz,/mobilelegends/Tazz,Indonesia,
+10,EVOS Legends,Main,Gold,Gold Lane,Clover,/mobilelegends/Clover,Indonesia,
+10,EVOS Legends,Main,Roam,Roamer,DreamS,/mobilelegends/Dreams,Indonesia,
+10,EVOS Legends,Subs,EXP,EXP Lane,Saykots,/mobilelegends/Saykots,Indonesia,
+10,EVOS Legends,Subs,Mid,Middle,Cr1te,/mobilelegends/Cr1te,Indonesia,
+10,EVOS Legends,Former,EXP,EXP Lane,Dlar,/mobilelegends/Dlar,Philippines,Left
+10,EVOS Legends,Former,Jungle,Jungler,Ferxiic,/mobilelegends/Ferxiic,Indonesia,Left
+10,EVOS Legends,Former,Roam,Roamer,Bajan,/mobilelegends/Bajan,Indonesia,Left
+10,EVOS Legends,Former,Roam,Roamer,VaanStrong,/mobilelegends/Ivann,Indonesia,Left
+10,EVOS Legends,Staff,,,Zeys,/mobilelegends/Zeys,Singapore,Head Coach
+10,EVOS Legends,Staff,,,TaxStump,/mobilelegends/TaxStump,Indonesia,Assistant Coach
+10,EVOS Legends,Staff,,,Vellion,/mobilelegends/index.php?title=Vellion&action=edit&redlink=1,Indonesia,Assistant Coach
+10,EVOS Legends,Staff,,,Age,/mobilelegends/Age,Indonesia,Analyst
+10,Geek Fam ID,Main,EXP,EXP Lane,LUKE,/mobilelegends/Luke,Indonesia,
+10,Geek Fam ID,Main,Jungle,Jungler,Janaaqt,/mobilelegends/Hadess,Philippines,
+10,Geek Fam ID,Main,Mid,Middle,Lzuraaa,/mobilelegends/Lzuraa,Indonesia,
+10,Geek Fam ID,Main,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+10,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+10,Geek Fam ID,Subs,Gold,Gold Lane,Renesmee,/mobilelegends/Renesmee,Indonesia,
+10,Geek Fam ID,Former,EXP,EXP Lane,Adam,/mobilelegends/Schwann,Indonesia,Left
+10,Geek Fam ID,Former,Jungle,Jungler,Hanz,/mobilelegends/Hanz,Indonesia,Left
+10,Geek Fam ID,Former,Roam,Roamer,Rupture,/mobilelegends/Rupture,Indonesia,Left
+10,Geek Fam ID,Former,Roam,Roamer,Manskuy,/mobilelegends/index.php?title=Manskuy&action=edit&redlink=1,Indonesia,Left
+10,Geek Fam ID,Staff,,,Ruben,/mobilelegends/Ruben,Indonesia,Coach
+10,ONIC Esports,Main,EXP,EXP Lane,Butsss,/mobilelegends/Butss,Indonesia,
+10,ONIC Esports,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+10,ONIC Esports,Main,Mid,Middle,S A N Z,/mobilelegends/S_A_N_Z,Indonesia,
+10,ONIC Esports,Main,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+10,ONIC Esports,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+10,ONIC Esports,Subs,Mid,Middle,Drian,/mobilelegends/Drian,Indonesia,
+10,ONIC Esports,Subs,Roam,Roamer,SamoHT,/mobilelegends/SamoHt,Indonesia,
+10,ONIC Esports,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Head Coach
+10,ONIC Esports,Staff,,,Mars,/mobilelegends/Mars,Indonesia,Assistant Coach
+10,ONIC Esports,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Analyst
+10,Rebellion Zion,Main,EXP,EXP Lane,Dyrennn,/mobilelegends/Dyrennn,Indonesia,
+10,Rebellion Zion,Main,Jungle,Jungler,Fearless,/mobilelegends/Fearless,Indonesia,
+10,Rebellion Zion,Main,Mid,Middle,SwayLow,/mobilelegends/SwayLow,Indonesia,
+10,Rebellion Zion,Main,Gold,Gold Lane,HAIZZ,/mobilelegends/Haiz,Indonesia,
+10,Rebellion Zion,Main,Roam,Roamer,Widjanarko,/mobilelegends/Widjanarko,Indonesia,
+10,Rebellion Zion,Subs,Roam,Roamer,VALL,/mobilelegends/Val,Indonesia,
+10,Rebellion Zion,Former,Gold,Gold Lane,JiiSaa,/mobilelegends/JiiSaa,Indonesia,Left
+10,Rebellion Zion,Staff,,,Cikoo,/mobilelegends/Cikoo,Indonesia,Coach
+10,Rebellion Zion,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Analyst
+10,RRQ Hoshi,Main,EXP,EXP Lane,R7,/mobilelegends/R7,Indonesia,
+10,RRQ Hoshi,Main,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+10,RRQ Hoshi,Main,Mid,Middle,Clayyy,/mobilelegends/Clayyy,Indonesia,
+10,RRQ Hoshi,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+10,RRQ Hoshi,Main,Roam,Roamer,VYN,/mobilelegends/VYN,Indonesia,
+10,RRQ Hoshi,Subs,EXP,EXP Lane,Banana,/mobilelegends/Banana,Indonesia,
+10,RRQ Hoshi,Subs,Mid,Middle,Lemon,/mobilelegends/Lemon,Indonesia,
+10,RRQ Hoshi,Former,Mid,Middle,Psychoo,/mobilelegends/Psychoo,Indonesia,Left
+10,RRQ Hoshi,Former,Roam,Roamer,Violence,/mobilelegends/Violence,Indonesia,Left
+10,RRQ Hoshi,Staff,,,Fiel,/mobilelegends/Fiel,Philippines,Head Coach
+10,RRQ Hoshi,Staff,,,Arcadia,/mobilelegends/Arcadia,Indonesia,Assistant Coach
+10,RRQ Hoshi,Staff,,,Acil,/mobilelegends/Adi,Indonesia,Analyst
+11,Alter Ego,Main,EXP,EXP Lane,PAI,/mobilelegends/Pai,Indonesia,
+11,Alter Ego,Main,Jungle,Jungler,Celiboy,/mobilelegends/Celiboy,Indonesia,
+11,Alter Ego,Main,Mid,Middle,Udil,/mobilelegends/Udil,Indonesia,
+11,Alter Ego,Main,Gold,Gold Lane,Nino,/mobilelegends/Nino,Indonesia,
+11,Alter Ego,Main,Roam,Roamer,Rasy,/mobilelegends/Rasy,Indonesia,
+11,Alter Ego,Subs,Jungle,Jungler,KidsZ,/mobilelegends/KidsZ,Indonesia,
+11,Alter Ego,Subs,Gold,Gold Lane,R a i z e L,/mobilelegends/RaizeL,Indonesia,
+11,Alter Ego,Subs,Roam,Roamer,Psychoo,/mobilelegends/Psychoo,Indonesia,
+11,Alter Ego,Staff,,,Nafari,/mobilelegends/Nafari,Indonesia,Head Coach
+11,Alter Ego,Staff,,,Caesius,/mobilelegends/Caesius,Indonesia,Assistant Coach
+11,Alter Ego,Staff,,,Arss,/mobilelegends/Arss,Indonesia,Analyst
+11,AURA Fire,Main,EXP,EXP Lane,Fluffy,/mobilelegends/Fluffy,Indonesia,
+11,AURA Fire,Main,Jungle,Jungler,VAN,/mobilelegends/VAN,Indonesia,
+11,AURA Fire,Main,Mid,Middle,FACEHUGGER,/mobilelegends/Facehugger,Indonesia,
+11,AURA Fire,Main,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+11,AURA Fire,Main,Roam,Roamer,god1va,/mobilelegends/God1va,Indonesia,
+11,AURA Fire,Subs,Gold,Gold Lane,Caid,/mobilelegends/Caid,Indonesia,
+11,AURA Fire,Subs,Flex,Flex,H i g h,/mobilelegends/High,Indonesia,
+11,AURA Fire,Staff,,,Reza,/mobilelegends/Pahlevi,Indonesia,Coach
+11,AURA Fire,Staff,,,CL,/mobilelegends/index.php?title=CL&action=edit&redlink=1,Indonesia,Analyst
+11,Bigetron Alpha,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+11,Bigetron Alpha,Main,Jungle,Jungler,Super KENN,/mobilelegends/Super_Kenn,Indonesia,
+11,Bigetron Alpha,Main,Mid,Middle,Morenoo,/mobilelegends/Moreno,Indonesia,
+11,Bigetron Alpha,Main,Gold,Gold Lane,Saken,/mobilelegends/Saken,Indonesia,
+11,Bigetron Alpha,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+11,Bigetron Alpha,Subs,EXP,EXP Lane,VyrNoCure,/mobilelegends/VyrNoCure,Indonesia,
+11,Bigetron Alpha,Subs,Jungle,Jungler,Maxxx,/mobilelegends/Maxx,Indonesia,
+11,Bigetron Alpha,Subs,Mid,Middle,Gamora,/mobilelegends/Gamora,Indonesia,
+11,Bigetron Alpha,Subs,Gold,Gold Lane,Markyyyyy,/mobilelegends/Markyyyyy,Philippines,
+11,Bigetron Alpha,Former,Jungle,Jungler,Just Garrr,/mobilelegends/Just_Garrr,Indonesia,Left
+11,Bigetron Alpha,Staff,,,Razeboy,/mobilelegends/Razeboy,Indonesia,Head Coach
+11,Bigetron Alpha,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Assistant Coach
+11,Bigetron Alpha,Staff,,,Pauloxpert,/mobilelegends/Pauuu,Philippines,Technical Coach
+11,EVOS Legends,Main,EXP,EXP Lane,Saykots,/mobilelegends/Saykots,Indonesia,
+11,EVOS Legends,Main,Jungle,Jungler,Tazz,/mobilelegends/Tazz,Indonesia,
+11,EVOS Legends,Main,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,
+11,EVOS Legends,Main,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+11,EVOS Legends,Main,Roam,Roamer,DreamS,/mobilelegends/Dreams,Indonesia,
+11,EVOS Legends,Subs,EXP,EXP Lane,Pendragon,/mobilelegends/Pendragon,Indonesia,
+11,EVOS Legends,Subs,EXP,EXP Lane,Dlar,/mobilelegends/Dlar,Philippines,DNP
+11,EVOS Legends,Subs,Jungle,Jungler,Ferxiic,/mobilelegends/Ferxiic,Indonesia,
+11,EVOS Legends,Staff,,,Age,/mobilelegends/Age,Indonesia,Coach
+11,EVOS Legends,Staff,,,TaxStump,/mobilelegends/TaxStump,Indonesia,Analyst
+11,Geek Slate,Main,EXP,EXP Lane,LUKE,/mobilelegends/Luke,Indonesia,
+11,Geek Slate,Main,Jungle,Jungler,Janaaqt,/mobilelegends/Hadess,Philippines,
+11,Geek Slate,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+11,Geek Slate,Main,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+11,Geek Slate,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+11,Geek Slate,Subs,EXP,EXP Lane,Matt,/mobilelegends/Matt,Indonesia,
+11,Geek Slate,Staff,,,Renz,/mobilelegends/Renz,Indonesia,Coach
+11,ONIC,Main,EXP,EXP Lane,Butsss,/mobilelegends/Butss,Indonesia,
+11,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+11,ONIC,Main,Mid,Middle,S A N Z,/mobilelegends/S_A_N_Z,Indonesia,
+11,ONIC,Main,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+11,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+11,ONIC,Subs,Mid,Middle,Drian,/mobilelegends/Drian,Indonesia,
+11,ONIC,Subs,Roam,Roamer,SamoHt,/mobilelegends/SamoHt,Indonesia,DNP
+11,ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Head Coach
+11,ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Analyst
+11,Rebellion Zion,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+11,Rebellion Zion,Main,Jungle,Jungler,Vincentt,/mobilelegends/Vincentt,Indonesia,
+11,Rebellion Zion,Main,Mid,Middle,Swaylow,/mobilelegends/SwayLow,Indonesia,
+11,Rebellion Zion,Main,Gold,Gold Lane,Haiz,/mobilelegends/Haiz,Indonesia,
+11,Rebellion Zion,Main,Roam,Roamer,Widjanarko,/mobilelegends/Widjanarko,Indonesia,
+11,Rebellion Zion,Subs,EXP,EXP Lane,Bigmac,/mobilelegends/index.php?title=Bigmac&action=edit&redlink=1,Indonesia,
+11,Rebellion Zion,Former,EXP,EXP Lane,SAEP,/mobilelegends/SAEP,Indonesia,Left
+11,Rebellion Zion,Staff,,,Cikoo,/mobilelegends/Cikoo,Indonesia,Coach
+11,Rebellion Zion,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Analyst
+11,Rex Regum Qeon,Main,EXP,EXP Lane,Lemon,/mobilelegends/Lemon,Indonesia,
+11,Rex Regum Qeon,Main,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+11,Rex Regum Qeon,Main,Mid,Middle,Clayyy,/mobilelegends/Clayyy,Indonesia,
+11,Rex Regum Qeon,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+11,Rex Regum Qeon,Main,Roam,Roamer,VYN,/mobilelegends/VYN,Indonesia,
+11,Rex Regum Qeon,Subs,EXP,EXP Lane,Banana,/mobilelegends/Banana,Indonesia,
+11,Rex Regum Qeon,Subs,Mid,Middle,RENBO,/mobilelegends/Renbo,Indonesia,
+11,Rex Regum Qeon,Former,,,Arcadia,/mobilelegends/Arcadia,Philippines,Left
+11,Rex Regum Qeon,Former,,,Fiel,/mobilelegends/Fiel,Indonesia,Left
+11,Rex Regum Qeon,Staff,,,Bangduk,/mobilelegends/Bangduk,Indonesia,Coach
+11,Rex Regum Qeon,Staff,,,Rave,/mobilelegends/Rave,Indonesia,Analyst
+12,Alter Ego,Main,EXP,EXP Lane,PAI,/mobilelegends/Pai,Indonesia,
+12,Alter Ego,Main,Jungle,Jungler,Celiboy,/mobilelegends/Celiboy,Indonesia,
+12,Alter Ego,Main,Mid,Middle,Udil,/mobilelegends/Udil,Indonesia,
+12,Alter Ego,Main,Gold,Gold Lane,Nino,/mobilelegends/Nino,Indonesia,
+12,Alter Ego,Main,Roam,Roamer,Rasy,/mobilelegends/Rasy,Indonesia,
+12,Alter Ego,Subs,Jungle,Jungler,Variety,/mobilelegends/Variety,Indonesia,DNP
+12,Alter Ego,Subs,Roam,Roamer,Rekt,/mobilelegends/Rekt,Indonesia,
+12,Alter Ego,Staff,,,Caesius,/mobilelegends/Caesius,Indonesia,Head Coach
+12,Alter Ego,Staff,,,Nafari,/mobilelegends/Nafari,Indonesia,Analyst
+12,Alter Ego,Staff,,,Arss,/mobilelegends/Arss,Indonesia,Analyst
+12,AURA Fire,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,
+12,AURA Fire,Main,Jungle,Jungler,VAN,/mobilelegends/VAN,Indonesia,
+12,AURA Fire,Main,Mid,Middle,Syn,/mobilelegends/Yehezkiel,Indonesia,
+12,AURA Fire,Main,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+12,AURA Fire,Main,Roam,Roamer,High,/mobilelegends/High,Indonesia,
+12,AURA Fire,Subs,EXP,EXP Lane,Kimura,/mobilelegends/Kimura,Indonesia,
+12,AURA Fire,Subs,Mid,Middle,Facehugger,/mobilelegends/Facehugger,Indonesia,
+12,AURA Fire,Subs,Roam,Roamer,SamoHT,/mobilelegends/SamoHt,Indonesia,
+12,AURA Fire,Staff,,,Pahlevi,/mobilelegends/Pahlevi,Indonesia,Coach
+12,AURA Fire,Staff,,,SaintDeLucaz,/mobilelegends/SaintDeLucaz,Indonesia,Coach
+12,Bigetron Alpha,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+12,Bigetron Alpha,Main,Jungle,Jungler,Kenn,/mobilelegends/Super_Kenn,Indonesia,
+12,Bigetron Alpha,Main,Mid,Middle,Morenoo,/mobilelegends/Moreno,Indonesia,
+12,Bigetron Alpha,Main,Gold,Gold Lane,Xyve,/mobilelegends/Xyve,Indonesia,
+12,Bigetron Alpha,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+12,Bigetron Alpha,Subs,EXP,EXP Lane,Narashi,/mobilelegends/Narashi,Indonesia,
+12,Bigetron Alpha,Subs,Roam,Roamer,VYN,/mobilelegends/VYN,Indonesia,
+12,Bigetron Alpha,Former,Gold,Gold Lane,Saken,/mobilelegends/Saken,Indonesia,Left
+12,Bigetron Alpha,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Head Coach
+12,Bigetron Alpha,Staff,,,Razeboy,/mobilelegends/Razeboy,Indonesia,Analyst
+12,Bigetron Alpha,Staff,,,Falah,/mobilelegends/Falah,Indonesia,Coach
+12,Dewa United Esports,Main,EXP,EXP Lane,Dyx0n,/mobilelegends/Dyx0n,Indonesia,
+12,Dewa United Esports,Main,Jungle,Jungler,Lanaya,/mobilelegends/Lanaya,Indonesia,
+12,Dewa United Esports,Main,Mid,Middle,Keyz,/mobilelegends/Keyz,Indonesia,
+12,Dewa United Esports,Main,Gold,Gold Lane,Watt,/mobilelegends/Watt,Indonesia,
+12,Dewa United Esports,Main,Roam,Roamer,Shacco,/mobilelegends/Shacco,Indonesia,
+12,Dewa United Esports,Subs,EXP,EXP Lane,Pendragon,/mobilelegends/Pendragon,Indonesia,
+12,Dewa United Esports,Subs,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+12,Dewa United Esports,Subs,Roam,Roamer,LeoMurphy,/mobilelegends/Leomurphy,Indonesia,
+12,Dewa United Esports,Staff,,,Jacklee,/mobilelegends/Jacklee,Indonesia,Head Coach
+12,Dewa United Esports,Staff,,,Paddington,/mobilelegends/Paddington,Indonesia,Analyst
+12,EVOS Legends,Main,EXP,EXP Lane,Veldora,/mobilelegends/Vell,Indonesia,
+12,EVOS Legends,Main,Jungle,Jungler,Sutsujin,/mobilelegends/Sutsujin,Indonesia,
+12,EVOS Legends,Main,Mid,Middle,Cr1te,/mobilelegends/Cr1te,Indonesia,
+12,EVOS Legends,Main,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+12,EVOS Legends,Main,Roam,Roamer,VaanStrong,/mobilelegends/Ivann,Indonesia,
+12,EVOS Legends,Subs,EXP,EXP Lane,Fluffy,/mobilelegends/Fluffy,Indonesia,
+12,EVOS Legends,Subs,Jungle,Jungler,Tazz,/mobilelegends/Tazz,Indonesia,
+12,EVOS Legends,Subs,Gold,Gold Lane,Douma,/mobilelegends/Erlan,Indonesia,
+12,EVOS Legends,Former,EXP,EXP Lane,Dlar,/mobilelegends/Dlar,Philippines,Left
+12,EVOS Legends,Former,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,Left
+12,EVOS Legends,Former,Roam,Roamer,DreamS,/mobilelegends/Dreams,Indonesia,Left
+12,EVOS Legends,Staff,,,Age,/mobilelegends/Age,Indonesia,Head Coach
+12,EVOS Legends,Staff,,,Caleb,/mobilelegends/Caleb,Indonesia,Assistant Coach
+12,EVOS Legends,Staff,,,TaxStump,/mobilelegends/TaxStump,Indonesia,Analyst
+12,Geek Fam ID,Main,EXP,EXP Lane,Luke,/mobilelegends/Luke,Indonesia,
+12,Geek Fam ID,Main,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+12,Geek Fam ID,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+12,Geek Fam ID,Main,Gold,Gold Lane,Markyyyyy,/mobilelegends/Markyyyyy,Philippines,
+12,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+12,Geek Fam ID,Subs,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+12,Geek Fam ID,Former,,,Renz,/mobilelegends/Renz,Indonesia,Left
+12,Geek Fam ID,Staff,,,Ervan,/mobilelegends/Erpang,Indonesia,Coach
+12,ONIC,Main,EXP,EXP Lane,Butsss,/mobilelegends/Butss,Indonesia,
+12,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+12,ONIC,Main,Mid,Middle,Sanz,/mobilelegends/S_A_N_Z,Indonesia,
+12,ONIC,Main,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+12,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+12,ONIC,Subs,Flex,Flex,Drian,/mobilelegends/Drian,Indonesia,
+12,ONIC,Subs,Flex,Flex,Alberttt,/mobilelegends/Alberttt,Indonesia,
+12,ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Head Coach
+12,ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Analyst
+12,Rebellion Zion,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+12,Rebellion Zion,Main,Jungle,Jungler,Vincentt,/mobilelegends/Vincentt,Indonesia,
+12,Rebellion Zion,Main,Mid,Middle,SwayLow,/mobilelegends/SwayLow,Indonesia,
+12,Rebellion Zion,Main,Gold,Gold Lane,Haiz,/mobilelegends/Haiz,Indonesia,
+12,Rebellion Zion,Main,Roam,Roamer,AudyTzy,/mobilelegends/AudyTzy,Indonesia,
+12,Rebellion Zion,Subs,Mid,Middle,Renbuu,/mobilelegends/Renbuu,Indonesia,
+12,Rebellion Zion,Staff,,,Cikoo,/mobilelegends/Cikoo,Indonesia,Head Coach
+12,Rebellion Zion,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Analyst
+12,Rex Regum Qeon,Main,EXP,EXP Lane,Banana,/mobilelegends/Banana,Indonesia,
+12,Rex Regum Qeon,Main,Jungle,Jungler,Ferxiic,/mobilelegends/Ferxiic,Indonesia,
+12,Rex Regum Qeon,Main,Mid,Middle,Clay,/mobilelegends/Clayyy,Indonesia,
+12,Rex Regum Qeon,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+12,Rex Regum Qeon,Main,Roam,Roamer,Naomi,/mobilelegends/Naomi,Myanmar,
+12,Rex Regum Qeon,Subs,EXP,EXP Lane,Dyrennn,/mobilelegends/Dyrennn,Indonesia,
+12,Rex Regum Qeon,Subs,Mid,Middle,Lemon,/mobilelegends/Lemon,Indonesia,
+12,Rex Regum Qeon,Subs,Gold,Gold Lane,Xinnn,/mobilelegends/XINNN,Indonesia,DNP
+12,Rex Regum Qeon,Former,Flex,Flex,Cipuy,/mobilelegends/Renbo,Indonesia,Left
+12,Rex Regum Qeon,Staff,,,Zaya,/mobilelegends/Sayargyi,Myanmar,Head Coach
+12,Rex Regum Qeon,Staff,,,Rave,/mobilelegends/Rave,Indonesia,Analyst
+13,Alter Ego,Main,EXP,EXP Lane,Pai,/mobilelegends/Pai,Indonesia,
+13,Alter Ego,Main,Jungle,Jungler,Tazz,/mobilelegends/Tazz,Indonesia,
+13,Alter Ego,Main,Mid,Middle,Cr1te,/mobilelegends/Cr1te,Indonesia,
+13,Alter Ego,Main,Gold,Gold Lane,Nino,/mobilelegends/Nino,Indonesia,
+13,Alter Ego,Main,Roam,Roamer,Rasy,/mobilelegends/Rasy,Indonesia,
+13,Alter Ego,Subs,EXP,EXP Lane,Munsters,/mobilelegends/Munsters,Indonesia,DNP
+13,Alter Ego,Subs,Mid,Middle,Celiboy,/mobilelegends/Celiboy,Indonesia,
+13,Alter Ego,Subs,Gold,Gold Lane,Haiz,/mobilelegends/Haiz,Indonesia,
+13,Alter Ego,Subs,Roam,Roamer,R E K T,/mobilelegends/Rekt,Indonesia,
+13,Alter Ego,Former,Mid,Middle,RoundeL,/mobilelegends/RoundeL,Indonesia,Left
+13,Alter Ego,Staff,,,Nafari,/mobilelegends/Nafari,Indonesia,Head Coach
+13,Alter Ego,Staff,,,Arss,/mobilelegends/Arss,Indonesia,Assistant Coach
+13,Alter Ego,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Analyst
+13,Liquid Aura,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,
+13,Liquid Aura,Main,Jungle,Jungler,Gugun,/mobilelegends/Gugun,Indonesia,
+13,Liquid Aura,Main,Mid,Middle,YehezKiel,/mobilelegends/Yehezkiel,Indonesia,
+13,Liquid Aura,Main,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+13,Liquid Aura,Main,Roam,Roamer,Yawi,/mobilelegends/Yawi,Philippines,
+13,Liquid Aura,Subs,Jungle,Jungler,High,/mobilelegends/High,Indonesia,DNP
+13,Liquid Aura,Staff,,,SaintDeLucaz,/mobilelegends/SaintDeLucaz,Indonesia,Head Coach
+13,Liquid Aura,Staff,,,Pahlevi,/mobilelegends/Pahlevi,Indonesia,Assistant Coach
+13,Liquid Aura,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst
+13,Bigetron Alpha,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+13,Bigetron Alpha,Main,Jungle,Jungler,Kenn,/mobilelegends/Super_Kenn,Indonesia,
+13,Bigetron Alpha,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,
+13,Bigetron Alpha,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+13,Bigetron Alpha,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+13,Bigetron Alpha,Subs,EXP,EXP Lane,Lord JM,/mobilelegends/JM,Philippines,
+13,Bigetron Alpha,Former,Roam,Roamer,VYN,/mobilelegends/VYN,Indonesia,Left
+13,Bigetron Alpha,Former,,,Falah,/mobilelegends/Falah,Indonesia,Left
+13,Bigetron Alpha,Staff,,,Khezcute,/mobilelegends/Khezcute,Indonesia,Head Coach
+13,Bigetron Alpha,Staff,,,Razeboy,/mobilelegends/Razeboy,Indonesia,Assistant Coach
+13,Bigetron Alpha,Staff,,,NMM,/mobilelegends/NMM,Indonesia,Analyst
+13,Dewa United Esports,Main,EXP,EXP Lane,Dyx0n,/mobilelegends/Dyx0n,Indonesia,
+13,Dewa United Esports,Main,Jungle,Jungler,Garry,/mobilelegends/Just_Garrr,Indonesia,
+13,Dewa United Esports,Main,Mid,Middle,Keyz,/mobilelegends/Keyz,Indonesia,
+13,Dewa United Esports,Main,Gold,Gold Lane,Watt,/mobilelegends/Watt,Indonesia,
+13,Dewa United Esports,Main,Roam,Roamer,Drian,/mobilelegends/Drian,Indonesia,
+13,Dewa United Esports,Subs,EXP,EXP Lane,Kimura,/mobilelegends/Kimura,Indonesia,
+13,Dewa United Esports,Subs,Jungle,Jungler,Lanaya,/mobilelegends/Lanaya,Indonesia,
+13,Dewa United Esports,Subs,Roam,Roamer,Shacco,/mobilelegends/Shacco,Indonesia,DNP
+13,Dewa United Esports,Staff,,,Caesius,/mobilelegends/Caesius,Indonesia,Coach
+13,Dewa United Esports,Staff,,,Jacklee,/mobilelegends/Jacklee,Indonesia,Analyst
+13,EVOS Glory,Main,EXP,EXP Lane,Fluffy,/mobilelegends/Fluffy,Indonesia,
+13,EVOS Glory,Main,Jungle,Jungler,Anavel,/mobilelegends/Anavel,Indonesia,
+13,EVOS Glory,Main,Mid,Middle,Claw Kun,/mobilelegends/Claw_Kun,Indonesia,
+13,EVOS Glory,Main,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+13,EVOS Glory,Main,Roam,Roamer,DreamS,/mobilelegends/Dreams,Indonesia,
+13,EVOS Glory,Subs,Jungle,Jungler,VAN,/mobilelegends/VAN,Indonesia,
+13,EVOS Glory,Subs,Gold,Gold Lane,Natco,/mobilelegends/Natco,Indonesia,
+13,EVOS Glory,Subs,Gold,Gold Lane,Super Red,/mobilelegends/Super_Red,Philippines,
+13,EVOS Glory,Subs,Roam,Roamer,Panser,/mobilelegends/Panser,Indonesia,DNP
+13,EVOS Glory,Former,EXP,EXP Lane,Veldora,/mobilelegends/Vell,Indonesia,Left
+13,EVOS Glory,Former,Mid,Middle,Warlord,/mobilelegends/Warlord,Indonesia,Left
+13,EVOS Glory,Former,Gold,Gold Lane,Alditto,/mobilelegends/index.php?title=Alditto&action=edit&redlink=1,Indonesia,Left
+13,EVOS Glory,Former,Roam,Roamer,VaanStrong,/mobilelegends/Ivann,Indonesia,Left
+13,EVOS Glory,Staff,,,G,/mobilelegends/G,Indonesia,Head Coach
+13,EVOS Glory,Staff,,,Caleb,/mobilelegends/Caleb,Indonesia,Assistant Coach
+13,EVOS Glory,Staff,,,Age,/mobilelegends/Age,Indonesia,Assistant Coach
+13,EVOS Glory,Staff,,,Theo,/mobilelegends/Theo,Philippines,Analyst
+13,Geek Fam ID,Main,EXP,EXP Lane,Luke,/mobilelegends/Luke,Indonesia,
+13,Geek Fam ID,Main,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+13,Geek Fam ID,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+13,Geek Fam ID,Main,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+13,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+13,Geek Fam ID,Subs,Jungle,Jungler,Hazle,/mobilelegends/Hazle,Indonesia,
+13,Geek Fam ID,Subs,Gold,Gold Lane,Markyyyyy,/mobilelegends/Markyyyyy,Philippines,
+13,Geek Fam ID,Staff,,,Bluffzy,/mobilelegends/Bluffzy,Philippines,Head Coach
+13,Geek Fam ID,Staff,,,Wuraaaah,/mobilelegends/Wuraaaah,Philippines,Assistant Coach
+13,Fnatic ONIC,Main,EXP,EXP Lane,Lutpiii,/mobilelegends/Lutpiii,Indonesia,
+13,Fnatic ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+13,Fnatic ONIC,Main,Mid,Middle,Sanz,/mobilelegends/S_A_N_Z,Indonesia,
+13,Fnatic ONIC,Main,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+13,Fnatic ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+13,Fnatic ONIC,Subs,EXP,EXP Lane,Butsss,/mobilelegends/Butss,Indonesia,
+13,Fnatic ONIC,Subs,Gold,Gold Lane,Alberttt,/mobilelegends/Alberttt,Indonesia,
+13,Fnatic ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Head Coach
+13,Fnatic ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Coach
+13,Rebellion Esports,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+13,Rebellion Esports,Main,Jungle,Jungler,Vincentt,/mobilelegends/Vincentt,Indonesia,
+13,Rebellion Esports,Main,Mid,Middle,SwayLow,/mobilelegends/SwayLow,Indonesia,
+13,Rebellion Esports,Main,Gold,Gold Lane,Deee,/mobilelegends/Deee,Indonesia,
+13,Rebellion Esports,Main,Roam,Roamer,AudyTzy,/mobilelegends/AudyTzy,Indonesia,
+13,Rebellion Esports,Subs,Gold,Gold Lane,Moai,/mobilelegends/Moai,Indonesia,
+13,Rebellion Esports,Staff,,,Cikoo,/mobilelegends/Cikoo,Indonesia,Coach
+13,Rebellion Esports,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Analyst
+13,RRQ Hoshi,Main,EXP,EXP Lane,Donn,/mobilelegends/Donn,Indonesia,
+13,RRQ Hoshi,Main,Jungle,Jungler,Irrad,/mobilelegends/Irrad,Philippines,
+13,RRQ Hoshi,Main,Mid,Middle,Clay,/mobilelegends/Clayyy,Indonesia,
+13,RRQ Hoshi,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+13,RRQ Hoshi,Main,Roam,Roamer,VYN,/mobilelegends/VYN,Indonesia,
+13,RRQ Hoshi,Subs,EXP,EXP Lane,Banana,/mobilelegends/Banana,Indonesia,
+13,RRQ Hoshi,Subs,Jungle,Jungler,Ferxiic,/mobilelegends/Ferxiic,Indonesia,
+13,RRQ Hoshi,Subs,Mid,Middle,Lemon,/mobilelegends/Lemon,Indonesia,
+13,RRQ Hoshi,Subs,Gold,Gold Lane,Bunnyqt,/mobilelegends/Bunnyqt,Indonesia,
+13,RRQ Hoshi,Subs,Roam,Roamer,Brusko,/mobilelegends/Brusko,Philippines,
+13,RRQ Hoshi,Former,Mid,Middle,Octa,/mobilelegends/Octa,Indonesia,Left
+13,RRQ Hoshi,Staff,,,Vren,/mobilelegends/Vren,Philippines,Head Coach
+13,RRQ Hoshi,Staff,,,Zaya,/mobilelegends/Sayargyi,Myanmar,Assistant Coach
+14,Alter Ego,Main,EXP,EXP Lane,Nino,/mobilelegends/Nino,Indonesia,
+14,Alter Ego,Main,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+14,Alter Ego,Main,Mid,Middle,RoundeL,/mobilelegends/RoundeL,Indonesia,
+14,Alter Ego,Main,Gold,Gold Lane,Haiz,/mobilelegends/Haiz,Indonesia,
+14,Alter Ego,Main,Roam,Roamer,Owennn,/mobilelegends/Alekk,Indonesia,
+14,Alter Ego,Subs,Jungle,Jungler,Gebe,/mobilelegends/Gebe,Indonesia,DNP
+14,Alter Ego,Staff,,,Rekt,/mobilelegends/Rekt,Indonesia,Head Coach
+14,Alter Ego,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Coach
+14,Alter Ego,Staff,,,Styx,/mobilelegends/Styx,Indonesia,Analyst
+14,Bigetron Alpha,Main,EXP,EXP Lane,Luke,/mobilelegends/Luke,Indonesia,
+14,Bigetron Alpha,Main,Jungle,Jungler,Kenn,/mobilelegends/Super_Kenn,Indonesia,
+14,Bigetron Alpha,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,
+14,Bigetron Alpha,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+14,Bigetron Alpha,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+14,Bigetron Alpha,Subs,Roam,Roamer,Finn,/mobilelegends/Finn,Indonesia,
+14,Bigetron Alpha,Staff,,,Wuraaaah,/mobilelegends/Wuraaaah,Philippines,Head Coach
+14,Bigetron Alpha,Staff,,,Theonael,/mobilelegends/Theonael,Indonesia,Assistant Coach
+14,Dewa United Esports,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+14,Dewa United Esports,Main,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+14,Dewa United Esports,Main,Mid,Middle,Keyz,/mobilelegends/Keyz,Indonesia,
+14,Dewa United Esports,Main,Gold,Gold Lane,Azuraa,/mobilelegends/Azuraa,Indonesia,
+14,Dewa United Esports,Main,Roam,Roamer,Muezzaa,/mobilelegends/Muezzaa,Indonesia,
+14,Dewa United Esports,Subs,EXP,EXP Lane,Kimura,/mobilelegends/Kimura,Indonesia,DNP
+14,Dewa United Esports,Subs,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,
+14,Dewa United Esports,Subs,Gold,Gold Lane,Watt,/mobilelegends/Watt,Indonesia,
+14,Dewa United Esports,Staff,,,Raizan,/mobilelegends/Raizan,Indonesia,Head Coach
+14,Dewa United Esports,Staff,,,Ervan,/mobilelegends/Erpang,Indonesia,Analyst
+14,EVOS Glory,Main,EXP,EXP Lane,Saykots,/mobilelegends/Saykots,Indonesia,
+14,EVOS Glory,Main,Jungle,Jungler,Anavel,/mobilelegends/Anavel,Indonesia,
+14,EVOS Glory,Main,Mid,Middle,Claw Kun,/mobilelegends/Claw_Kun,Indonesia,
+14,EVOS Glory,Main,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+14,EVOS Glory,Main,Roam,Roamer,DreamS,/mobilelegends/Dreams,Indonesia,
+14,EVOS Glory,Subs,Jungle,Jungler,Van,/mobilelegends/VAN,Indonesia,
+14,EVOS Glory,Subs,Mid,Middle,Depezett,/mobilelegends/Bondolz,Indonesia,
+14,EVOS Glory,Subs,Gold,Gold Lane,Natco,/mobilelegends/Natco,Indonesia,
+14,EVOS Glory,Subs,Roam,Roamer,Alevaa,/mobilelegends/index.php?title=Alevaa&action=edit&redlink=1,Indonesia,
+14,EVOS Glory,Former,EXP,EXP Lane,Fluffy,/mobilelegends/Fluffy,Indonesia,Left
+14,EVOS Glory,Former,Gold,Gold Lane,Douma,/mobilelegends/Erlan,Indonesia,Left
+14,EVOS Glory,Former,Roam,Roamer,Panser,/mobilelegends/Panser,Indonesia,Left
+14,EVOS Glory,Former,,,G,/mobilelegends/G,Indonesia,Left
+14,EVOS Glory,Former,,,Naitomea,/mobilelegends/Naitomea,Indonesia,Left
+14,EVOS Glory,Staff,,,Age,/mobilelegends/Age,Indonesia,Head Coach
+14,EVOS Glory,Staff,,,Caleb,/mobilelegends/Caleb,Indonesia,Assistant Coach
+14,Fnatic ONIC,Main,EXP,EXP Lane,Rezzz,/mobilelegends/Rezzz,Indonesia,
+14,Fnatic ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+14,Fnatic ONIC,Main,Mid,Middle,Sanz,/mobilelegends/S_A_N_Z,Indonesia,
+14,Fnatic ONIC,Main,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+14,Fnatic ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+14,Fnatic ONIC,Subs,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+14,Fnatic ONIC,Subs,Flex,Flex,Marsha,/mobilelegends/Marsha,Indonesia,DNP
+14,Fnatic ONIC,Former,EXP,EXP Lane,Lutpiii,/mobilelegends/Lutpiii,Indonesia,Left
+14,Fnatic ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Head Coach
+14,Fnatic ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Assistant Coach
+14,Fnatic ONIC,Staff,,,Zetsuna,/mobilelegends/index.php?title=Zetsuna&action=edit&redlink=1,Indonesia,Analyst
+14,Geek Fam ID,Main,EXP,EXP Lane,Veldora,/mobilelegends/Vell,Indonesia,
+14,Geek Fam ID,Main,Jungle,Jungler,Vincentt,/mobilelegends/Vincentt,Indonesia,
+14,Geek Fam ID,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+14,Geek Fam ID,Main,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+14,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+14,Geek Fam ID,Subs,EXP,EXP Lane,Gobs,/mobilelegends/Gobs,Indonesia,
+14,Geek Fam ID,Subs,Gold,Gold Lane,Mas4ko,/mobilelegends/Mas4Ko,Indonesia,
+14,Geek Fam ID,Staff,,,Bluffzy,/mobilelegends/Bluffzy,Philippines,Head Coach
+14,Geek Fam ID,Staff,,,Dora,/mobilelegends/Dora,Indonesia,Analyst
+14,Rebellion Esports,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+14,Rebellion Esports,Main,Jungle,Jungler,Aether,/mobilelegends/Aether,Indonesia,
+14,Rebellion Esports,Main,Mid,Middle,SwayLow,/mobilelegends/SwayLow,Indonesia,
+14,Rebellion Esports,Main,Gold,Gold Lane,Matt,/mobilelegends/Matt,Indonesia,
+14,Rebellion Esports,Main,Roam,Roamer,X Win,/mobilelegends/X_Win,Indonesia,
+14,Rebellion Esports,Subs,Jungle,Jungler,Ryyo,/mobilelegends/Ryyo,Indonesia,
+14,Rebellion Esports,Subs,Roam,Roamer,Audycs,/mobilelegends/AudyTzy,Indonesia,
+14,Rebellion Esports,Staff,,,Farr,/mobilelegends/Raiden,Indonesia,Coach
+14,Rebellion Esports,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Analyst
+14,RRQ Hoshi,Main,EXP,EXP Lane,Dyrennn,/mobilelegends/Dyrennn,Indonesia,
+14,RRQ Hoshi,Main,Jungle,Jungler,Sutsujin,/mobilelegends/Sutsujin,Indonesia,
+14,RRQ Hoshi,Main,Mid,Middle,Rinz,/mobilelegends/Rinz,Indonesia,
+14,RRQ Hoshi,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+14,RRQ Hoshi,Main,Roam,Roamer,Idok,/mobilelegends/Idok,Indonesia,
+14,RRQ Hoshi,Subs,Jungle,Jungler,Hazle,/mobilelegends/Hazle,Indonesia,
+14,RRQ Hoshi,Staff,,,Khezcute,/mobilelegends/Khezcute,Indonesia,Head Coach
+14,RRQ Hoshi,Staff,,,NMM,/mobilelegends/NMM,Indonesia,Analyst
+14,Team Liquid ID,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,
+14,Team Liquid ID,Main,Jungle,Jungler,Faviannn,/mobilelegends/Faviannn,Indonesia,
+14,Team Liquid ID,Main,Mid,Middle,Yehezkiel,/mobilelegends/Yehezkiel,Indonesia,
+14,Team Liquid ID,Main,Gold,Gold Lane,AeronnShikii,/mobilelegends/AeronnShikii,Indonesia,
+14,Team Liquid ID,Main,Roam,Roamer,Widy,/mobilelegends/Widy,Indonesia,
+14,Team Liquid ID,Subs,EXP,EXP Lane,Jeymz,/mobilelegends/Jeymz,Philippines,
+14,Team Liquid ID,Subs,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+14,Team Liquid ID,Subs,Roam,Roamer,Yawi,/mobilelegends/Yawi,Philippines,
+14,Team Liquid ID,Former,Jungle,Jungler,Gugun,/mobilelegends/Gugun,Indonesia,Left
+14,Team Liquid ID,Former,Mid,Middle,Ritchi,/mobilelegends/Ritchi,Indonesia,Left
+14,Team Liquid ID,Staff,,,SaintDeLucaz,/mobilelegends/SaintDeLucaz,Indonesia,Head Coach
+14,Team Liquid ID,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst
+15,Alter Ego,Main,EXP,EXP Lane,Nino,/mobilelegends/Nino,Indonesia,
+15,Alter Ego,Main,Jungle,Jungler,Rinee,/mobilelegends/Rinee,Indonesia,
+15,Alter Ego,Main,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,
+15,Alter Ego,Main,Gold,Gold Lane,Arfy,/mobilelegends/Arfy,Indonesia,
+15,Alter Ego,Main,Roam,Roamer,Dreams,/mobilelegends/Dreams,Indonesia,
+15,Alter Ego,Subs,Jungle,Jungler,Kyzenn,/mobilelegends/index.php?title=Kyzenn&action=edit&redlink=1,Indonesia,DNP
+15,Alter Ego,Former,Jungle,Jungler,Gebe,/mobilelegends/Gebe,Indonesia,Left
+15,Alter Ego,Former,Gold,Gold Lane,Haiz,/mobilelegends/Haiz,Indonesia,Left
+15,Alter Ego,Staff,,,Xepher,/mobilelegends/Xepher,Indonesia,Head Coach
+15,Alter Ego,Staff,,,Rekt,/mobilelegends/Rekt,Indonesia,Coach
+15,Alter Ego,Staff,,,Nafari,/mobilelegends/Nafari,Indonesia,Analyst
+15,Bigetron Esports,Main,EXP,EXP Lane,Luke,/mobilelegends/Luke,Indonesia,
+15,Bigetron Esports,Main,Jungle,Jungler,Anavel,/mobilelegends/Anavel,Indonesia,
+15,Bigetron Esports,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,
+15,Bigetron Esports,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+15,Bigetron Esports,Main,Roam,Roamer,Light,/mobilelegends/Light,Philippines,
+15,Bigetron Esports,Subs,Roam,Roamer,Finn,/mobilelegends/Finn,Indonesia,
+15,Bigetron Esports,Subs,,,Barbossa,/mobilelegends/Barbossa,Indonesia,DNP
+15,Bigetron Esports,Former,Jungle,Jungler,Kenn,/mobilelegends/Super_Kenn,Indonesia,Left
+15,Bigetron Esports,Staff,,,E2MAX,/mobilelegends/E2MAX,Philippines,Head Coach
+15,Bigetron Esports,Staff,,,Tazy,/mobilelegends/Tazy,Indonesia,Assistant Coach
+15,Bigetron Esports,Staff,,,Theonael,/mobilelegends/Theonael,Indonesia,Analyst
+15,Bigetron Esports,Staff,,,Barbossa,/mobilelegends/Barbossa,Indonesia,Analyst
+15,Dewa United Esports,Main,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+15,Dewa United Esports,Main,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+15,Dewa United Esports,Main,Mid,Middle,Octa,/mobilelegends/Octa,Indonesia,
+15,Dewa United Esports,Main,Gold,Gold Lane,Maybe,/mobilelegends/Maybeee,Indonesia,
+15,Dewa United Esports,Main,Roam,Roamer,Muezzaa,/mobilelegends/Muezzaa,Indonesia,
+15,Dewa United Esports,Subs,EXP,EXP Lane,Rezzz,/mobilelegends/Rezzz,Indonesia,
+15,Dewa United Esports,Subs,Jungle,Jungler,Vanz,/mobilelegends/Vanz,Indonesia,
+15,Dewa United Esports,Subs,Mid,Middle,Spencer,/mobilelegends/Spencer,Indonesia,
+15,Dewa United Esports,Subs,Gold,Gold Lane,Azuraa,/mobilelegends/Azuraa,Indonesia,
+15,Dewa United Esports,Subs,Roam,Roamer,KESUUU,/mobilelegends/KESUUU,Indonesia,
+15,Dewa United Esports,Staff,,,BomBi,/mobilelegends/index.php?title=BomBi&action=edit&redlink=1,Philippines,Head Coach
+15,Dewa United Esports,Staff,,,Watt,/mobilelegends/Watt,Indonesia,Coach
+15,Dewa United Esports,Staff,,,Super Kurt,/mobilelegends/Super_Kurt,Philippines,Analyst
+15,EVOS,Main,EXP,EXP Lane,Regii,/mobilelegends/Fluffy,Indonesia,
+15,EVOS,Main,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+15,EVOS,Main,Mid,Middle,SwayLow,/mobilelegends/SwayLow,Indonesia,
+15,EVOS,Main,Gold,Gold Lane,Erlan,/mobilelegends/Erlan,Indonesia,
+15,EVOS,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+15,EVOS,Subs,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+15,EVOS,Subs,Flex,Flex,Natco,/mobilelegends/Natco,Indonesia,
+15,EVOS,Former,Mid,Middle,Depezett,/mobilelegends/Bondolz,Indonesia,Left
+15,EVOS,Staff,,,Aville,/mobilelegends/Aville,Indonesia,Head Coach
+15,EVOS,Staff,,,Caleb,/mobilelegends/Caleb,Indonesia,Analyst
+15,EVOS,Staff,,,TaxStump,/mobilelegends/TaxStump,Indonesia,Analyst
+15,Geek Fam ID,Main,EXP,EXP Lane,Gobs,/mobilelegends/Gobs,Indonesia,
+15,Geek Fam ID,Main,Jungle,Jungler,Maykids,/mobilelegends/Maykids,Indonesia,
+15,Geek Fam ID,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+15,Geek Fam ID,Main,Gold,Gold Lane,KennzyySkie,/mobilelegends/KennzyySkie,Indonesia,
+15,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+15,Geek Fam ID,Subs,Gold,Gold Lane,Caderaa,/mobilelegends/Caderaa,Indonesia,
+15,Geek Fam ID,Staff,,,Bluffzy,/mobilelegends/Bluffzy,Philippines,Head Coach
+15,Geek Fam ID,Staff,,,Dora,/mobilelegends/Dora,Indonesia,Coach
+15,Natus Vincere,Main,EXP,EXP Lane,bq syaii,/mobilelegends/Bq_syaii,Indonesia,
+15,Natus Vincere,Main,Jungle,Jungler,woshipaul,/mobilelegends/Woshipaul,Indonesia,
+15,Natus Vincere,Main,Mid,Middle,xMagic,/mobilelegends/XMagic,Indonesia,
+15,Natus Vincere,Main,Gold,Gold Lane,Xyve,/mobilelegends/Xyve,Indonesia,
+15,Natus Vincere,Main,Roam,Roamer,Karss,/mobilelegends/Karss,Indonesia,
+15,Natus Vincere,Subs,EXP,EXP Lane,Febbb,/mobilelegends/Febbb,Indonesia,
+15,Natus Vincere,Subs,Jungle,Jungler,Aether,/mobilelegends/Aether,Indonesia,
+15,Natus Vincere,Subs,Roam,Roamer,HanafiTzy,/mobilelegends/HanafiTzy,Indonesia,
+15,Natus Vincere,Former,Gold,Gold Lane,Zeonn,/mobilelegends/index.php?title=Zeonn&action=edit&redlink=1,Indonesia,Left
+15,Natus Vincere,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Head Coach
+15,Natus Vincere,Staff,,,Raiden,/mobilelegends/Raiden,Indonesia,Analyst
+15,ONIC,Main,EXP,EXP Lane,Lutpiii,/mobilelegends/Lutpiii,Indonesia,
+15,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+15,ONIC,Main,Mid,Middle,Sanz,/mobilelegends/S_A_N_Z,Indonesia,
+15,ONIC,Main,Gold,Gold Lane,Savero,/mobilelegends/Savero,Indonesia,
+15,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+15,ONIC,Subs,EXP,EXP Lane,Ryota,/mobilelegends/Ryota,Philippines,
+15,ONIC,Subs,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+15,ONIC,Subs,Gold,Gold Lane,CW,/mobilelegends/CW,Indonesia,
+15,ONIC,Former,EXP,EXP Lane,Rezzz,/mobilelegends/Rezzz,Indonesia,Left
+15,ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Head Coach
+15,ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Assistant Coach
+15,ONIC,Staff,,,Paddington,/mobilelegends/Paddington,Indonesia,Analyst
+15,RRQ Hoshi,Main,EXP,EXP Lane,Dyrennn,/mobilelegends/Dyrennn,Indonesia,
+15,RRQ Hoshi,Main,Jungle,Jungler,Sutsujin,/mobilelegends/Sutsujin,Indonesia,
+15,RRQ Hoshi,Main,Mid,Middle,Rinz,/mobilelegends/Rinz,Indonesia,
+15,RRQ Hoshi,Main,Gold,Gold Lane,Toyy,/mobilelegends/Toyy,Indonesia,
+15,RRQ Hoshi,Main,Roam,Roamer,Idok,/mobilelegends/Idok,Indonesia,
+15,RRQ Hoshi,Subs,Jungle,Jungler,Chenn,/mobilelegends/Chenn,Indonesia,
+15,RRQ Hoshi,Former,Jungle,Jungler,Hazle,/mobilelegends/Hazle,Indonesia,Left
+15,RRQ Hoshi,Staff,,,Khezcute,/mobilelegends/Khezcute,Indonesia,Head Coach
+15,RRQ Hoshi,Staff,,,Rave,/mobilelegends/Rave,Indonesia,Assistant Coach
+15,RRQ Hoshi,Staff,,,NMM,/mobilelegends/NMM,Indonesia,Analyst
+15,Team Liquid ID,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,
+15,Team Liquid ID,Main,Jungle,Jungler,Faviannn,/mobilelegends/Faviannn,Indonesia,
+15,Team Liquid ID,Main,Mid,Middle,Yehezkiel,/mobilelegends/Yehezkiel,Indonesia,
+15,Team Liquid ID,Main,Gold,Gold Lane,Kyou,/mobilelegends/Kyou,Indonesia,
+15,Team Liquid ID,Main,Roam,Roamer,Widy,/mobilelegends/Widy,Indonesia,
+15,Team Liquid ID,Subs,Gold,Gold Lane,AeronnShikii,/mobilelegends/AeronnShikii,Indonesia,
+15,Team Liquid ID,Staff,,,SaintDeLucaz,/mobilelegends/SaintDeLucaz,Indonesia,Head Coach
+15,Team Liquid ID,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst
+16,Alter Ego,Main,EXP,EXP Lane,Nino,/mobilelegends/Nino,Indonesia,
+16,Alter Ego,Main,Jungle,Jungler,Yazukee,/mobilelegends/Yazukee,Indonesia,
+16,Alter Ego,Main,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,
+16,Alter Ego,Main,Gold,Gold Lane,Arfy,/mobilelegends/Arfy,Indonesia,
+16,Alter Ego,Main,Roam,Roamer,alekk,/mobilelegends/Alekk,Indonesia,
+16,Alter Ego,Subs,Jungle,Jungler,Rinee,/mobilelegends/Rinee,Indonesia,
+16,Alter Ego,Subs,Mid,Middle,Cyruz,/mobilelegends/Cyruz,Indonesia,
+16,Alter Ego,Subs,Roam,Roamer,Ivann,/mobilelegends/Ivann,Indonesia,
+16,Alter Ego,Staff,,,Xepher,/mobilelegends/Xepher,Indonesia,Head Coach
+16,Alter Ego,Staff,,,Styx,/mobilelegends/Styx,Indonesia,Assistant Coach
+16,Bigetron by Vitality,Main,EXP,EXP Lane,Shogun,/mobilelegends/Shogun,Indonesia,
+16,Bigetron by Vitality,Main,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+16,Bigetron by Vitality,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,
+16,Bigetron by Vitality,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+16,Bigetron by Vitality,Main,Roam,Roamer,Finn,/mobilelegends/Finn,Indonesia,
+16,Bigetron by Vitality,Subs,Jungle,Jungler,Ronn,/mobilelegends/Ronn,Indonesia,
+16,Bigetron by Vitality,Staff,,,Bam,/mobilelegends/Bam,Philippines,Head Coach
+16,Bigetron by Vitality,Staff,,,Erpang,/mobilelegends/Erpang,Indonesia,Assistant Coach
+16,Bigetron by Vitality,Staff,,,Barbossa,/mobilelegends/Barbossa,Indonesia,Analyst
+16,Dewa United Esports,Main,EXP,EXP Lane,QINN,/mobilelegends/QINN,Philippines,
+16,Dewa United Esports,Main,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+16,Dewa United Esports,Main,Mid,Middle,Octa,/mobilelegends/Octa,Indonesia,
+16,Dewa United Esports,Main,Gold,Gold Lane,Maybeee,/mobilelegends/Maybeee,Indonesia,
+16,Dewa United Esports,Main,Roam,Roamer,Muezza,/mobilelegends/Muezzaa,Indonesia,
+16,Dewa United Esports,Subs,EXP,EXP Lane,Markk,/mobilelegends/index.php?title=Markk&action=edit&redlink=1,Indonesia,
+16,Dewa United Esports,Subs,Jungle,Jungler,Vanz,/mobilelegends/Vanz,Indonesia,
+16,Dewa United Esports,Staff,,,Right,/mobilelegends/Right,Philippines,Head Coach
+16,Dewa United Esports,Staff,,,Aceng,/mobilelegends/Wongcoco,Indonesia,Analyst
+16,EVOS,Main,EXP,EXP Lane,Rendyy,/mobilelegends/index.php?title=Rendyy&action=edit&redlink=1,Indonesia,
+16,EVOS,Main,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+16,EVOS,Main,Mid,Middle,Swaylow,/mobilelegends/SwayLow,Indonesia,
+16,EVOS,Main,Gold,Gold Lane,Erlan,/mobilelegends/Erlan,Indonesia,
+16,EVOS,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+16,EVOS,Subs,EXP,EXP Lane,Xorizo,/mobilelegends/Xorizo,Indonesia,
+16,EVOS,Subs,Mid,Middle,RoundeL,/mobilelegends/RoundeL,Indonesia,
+16,EVOS,Subs,Gold,Gold Lane,Branz,/mobilelegends/Branz,Indonesia,
+16,EVOS,Staff,,,VYN,/mobilelegends/VYN,Indonesia,Coach
+16,EVOS,Staff,,,Bravo,/mobilelegends/Bravo,Indonesia,Analyst
+16,Geek Fam ID,Main,EXP,EXP Lane,Gobs,/mobilelegends/Gobs,Indonesia,
+16,Geek Fam ID,Main,Jungle,Jungler,Maykids,/mobilelegends/Maykids,Indonesia,
+16,Geek Fam ID,Main,Mid,Middle,A B O Y,/mobilelegends/A_B_O_Y,Indonesia,
+16,Geek Fam ID,Main,Gold,Gold Lane,KennzyySkie,/mobilelegends/KennzyySkie,Indonesia,
+16,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,
+16,Geek Fam ID,Subs,Gold,Gold Lane,Zeltron,/mobilelegends/index.php?title=Zeltron&action=edit&redlink=1,Indonesia,
+16,Geek Fam ID,Staff,,,Dora,/mobilelegends/Dora,Indonesia,Head Coach
+16,Geek Fam ID,Staff,,,Bluffzy,/mobilelegends/Bluffzy,Philippines,Assistant Coach
+16,Natus Vincere,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+16,Natus Vincere,Main,Jungle,Jungler,Andoryuuu,/mobilelegends/Andoryuuu,Philippines,
+16,Natus Vincere,Main,Mid,Middle,UK1R,/mobilelegends/UK1R,Philippines,
+16,Natus Vincere,Main,Gold,Gold Lane,Xyve,/mobilelegends/Xyve,Indonesia,
+16,Natus Vincere,Main,Roam,Roamer,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,Indonesia,
+16,Natus Vincere,Subs,Jungle,Jungler,woshipaul,/mobilelegends/Woshipaul,Indonesia,
+16,Natus Vincere,Subs,Mid,Middle,xMagic,/mobilelegends/XMagic,Indonesia,
+16,Natus Vincere,Former,Flex,Flex,Kazeemen,/mobilelegends/index.php?title=Kazeemen&action=edit&redlink=1,Indonesia,Left
+16,Natus Vincere,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Coach
+16,Natus Vincere,Staff,,,Jacklee,/mobilelegends/Jacklee,Indonesia,Assistant Coach
+16,ONIC,Main,EXP,EXP Lane,Lutpiii,/mobilelegends/Lutpiii,Indonesia,
+16,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+16,ONIC,Main,Mid,Middle,S A N Z,/mobilelegends/S_A_N_Z,Indonesia,
+16,ONIC,Main,Gold,Gold Lane,Skylar,/mobilelegends/Skylar,Indonesia,
+16,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+16,ONIC,Subs,Gold,Gold Lane,Savero,/mobilelegends/Savero,Indonesia,
+16,ONIC,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Head Coach
+16,ONIC,Staff,,,CW,/mobilelegends/CW,Indonesia,Assistant Coach
+16,ONIC,Staff,,,Paddington,/mobilelegends/Paddington,Indonesia,Analyst
+16,RRQ Hoshi,Main,EXP,EXP Lane,Dyrennn,/mobilelegends/Dyrennn,Indonesia,
+16,RRQ Hoshi,Main,Jungle,Jungler,Sutsujin,/mobilelegends/Sutsujin,Indonesia,
+16,RRQ Hoshi,Main,Mid,Middle,Rinz,/mobilelegends/Rinz,Indonesia,
+16,RRQ Hoshi,Main,Gold,Gold Lane,Toyy,/mobilelegends/Toyy,Indonesia,
+16,RRQ Hoshi,Main,Roam,Roamer,Idok,/mobilelegends/Idok,Indonesia,
+16,RRQ Hoshi,Subs,EXP,EXP Lane,Rezzz,/mobilelegends/Rezzz,Indonesia,
+16,RRQ Hoshi,Subs,Jungle,Jungler,Zunesh,/mobilelegends/index.php?title=Zunesh&action=edit&redlink=1,Indonesia,
+16,RRQ Hoshi,Subs,Jungle,Jungler,Ferxiic,/mobilelegends/Ferxiic,Indonesia,
+16,RRQ Hoshi,Staff,,,Khezcute,/mobilelegends/Khezcute,Indonesia,Head Coach
+16,RRQ Hoshi,Staff,,,Rave,/mobilelegends/Rave,Indonesia,Assistant Coach
+16,RRQ Hoshi,Staff,,,NMM,/mobilelegends/NMM,Indonesia,Analyst
+16,Team Liquid ID,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,
+16,Team Liquid ID,Main,Jungle,Jungler,JOOOOO,/mobilelegends/index.php?title=JOOOOO&action=edit&redlink=1,Indonesia,
+16,Team Liquid ID,Main,Mid,Middle,Yehezkiel,/mobilelegends/Yehezkiel,Indonesia,
+16,Team Liquid ID,Main,Gold,Gold Lane,Kabuki,/mobilelegends/Kabuki,Indonesia,
+16,Team Liquid ID,Main,Roam,Roamer,Widy,/mobilelegends/Widy,Indonesia,
+16,Team Liquid ID,Subs,Mid,Middle,Faviannn,/mobilelegends/Faviannn,Indonesia,
+16,Team Liquid ID,Subs,Gold,Gold Lane,Kyou,/mobilelegends/Kyou,Indonesia,
+16,Team Liquid ID,Subs,Gold,Gold Lane,AeronnShikii,/mobilelegends/AeronnShikii,Indonesia,DNP
+16,Team Liquid ID,Former,Roam,Roamer,Firzaa,/mobilelegends/index.php?title=Firzaa&action=edit&redlink=1,Indonesia,Left
+16,Team Liquid ID,Staff,,,SaintDeLucaz,/mobilelegends/SaintDeLucaz,Indonesia,Head Coach
+16,Team Liquid ID,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst
+17,Alter Ego,Main,EXP,EXP Lane,Nino,/mobilelegends/Nino,Indonesia,Captain
+17,Alter Ego,Main,Jungle,Jungler,Yazukee,/mobilelegends/Yazukee,Indonesia,
+17,Alter Ego,Main,Mid,Middle,Hijumee,/mobilelegends/Hijumee,Indonesia,
+17,Alter Ego,Main,Gold,Gold Lane,Arfy,/mobilelegends/Arfy,Indonesia,
+17,Alter Ego,Main,Roam,Roamer,alekk,/mobilelegends/Alekk,Indonesia,
+17,Alter Ego,Subs,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,
+17,Alter Ego,Subs,Mid,Middle,Cyruz,/mobilelegends/Cyruz,Indonesia,
+17,Alter Ego,Staff,,,Xepher,/mobilelegends/Xepher,Indonesia,Head Coach
+17,Alter Ego,Staff,,,Styx,/mobilelegends/Styx,Indonesia,Assistant Coach
+17,Bigetron by Vitality,Main,EXP,EXP Lane,Shogun,/mobilelegends/Shogun,Indonesia,Vice Captain
+17,Bigetron by Vitality,Main,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+17,Bigetron by Vitality,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,Captain
+17,Bigetron by Vitality,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+17,Bigetron by Vitality,Main,Roam,Roamer,Finn,/mobilelegends/Finn,Indonesia,
+17,Bigetron by Vitality,Subs,Mid,Middle,RYZAA,/mobilelegends/Ryzaa,Indonesia,
+17,Bigetron by Vitality,Subs,Gold,Gold Lane,Cliveee,/mobilelegends/Pinnn,Indonesia,
+17,Bigetron by Vitality,Former,EXP,EXP Lane,Lynchh,/mobilelegends/Lynchh,Indonesia,Left
+17,Bigetron by Vitality,Staff,,,Theonael,/mobilelegends/Theonael,Indonesia,Head Coach
+17,Bigetron by Vitality,Staff,,,K Dot,/mobilelegends/K_Dot,Indonesia,Assistant Coach
+17,Bigetron by Vitality,Staff,,,Erpang,/mobilelegends/Erpang,Indonesia,Analyst
+17,Bigetron by Vitality,Staff,,,Her,/mobilelegends/Her,Indonesia,Analyst
+17,Dewa United Esports,Main,EXP,EXP Lane,QINN,/mobilelegends/QINN,Philippines,
+17,Dewa United Esports,Main,Jungle,Jungler,Dolynn,/mobilelegends/index.php?title=Dolynn&action=edit&redlink=1,Indonesia,
+17,Dewa United Esports,Main,Mid,Middle,Octa,/mobilelegends/Octa,Indonesia,
+17,Dewa United Esports,Main,Gold,Gold Lane,Maybe,/mobilelegends/Maybeee,Indonesia,
+17,Dewa United Esports,Main,Roam,Roamer,Muezza,/mobilelegends/Muezzaa,Indonesia,
+17,Dewa United Esports,Subs,Jungle,Jungler,Kayn,/mobilelegends/index.php?title=Kayn&action=edit&redlink=1,Philippines,
+17,Dewa United Esports,Subs,Roam,Roamer,Kesu,/mobilelegends/KESUUU,Indonesia,
+17,Dewa United Esports,Staff,,,Right,/mobilelegends/Right,Philippines,Head Coach
+17,Dewa United Esports,Staff,,,Raiden,/mobilelegends/Raiden,Indonesia,Assistant Coach
+17,Dewa United Esports,Staff,,,Aceng,/mobilelegends/Wongcoco,Indonesia,Analyst
+17,EVOS,Main,EXP,EXP Lane,Luke,/mobilelegends/Luke,Indonesia,
+17,EVOS,Main,Jungle,Jungler,Albert,/mobilelegends/Alberttt,Indonesia,
+17,EVOS,Main,Mid,Middle,Pheww,/mobilelegends/Pheww,Philippines,
+17,EVOS,Main,Gold,Gold Lane,Erlan,/mobilelegends/Erlan,Indonesia,
+17,EVOS,Main,Roam,Roamer,Kyy,/mobilelegends/Kyy,Indonesia,
+17,EVOS,Subs,EXP,EXP Lane,Vell,/mobilelegends/Vell,Indonesia,
+17,EVOS,Subs,Mid,Middle,Treacky,/mobilelegends/index.php?title=Treacky&action=edit&redlink=1,Indonesia,
+17,EVOS,Subs,Roam,Roamer,EgaTzy,/mobilelegends/EgaTzy,Indonesia,
+17,EVOS,Staff,,,VYN,/mobilelegends/VYN,Indonesia,Head Coach
+17,EVOS,Staff,,,Bravo,/mobilelegends/Bravo,Indonesia,Analyst
+17,Geek Fam ID,Main,EXP,EXP Lane,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,Indonesia,
+17,Geek Fam ID,Main,Jungle,Jungler,Nazara,/mobilelegends/index.php?title=Nazara&action=edit&redlink=1,Indonesia,
+17,Geek Fam ID,Main,Mid,Middle,Aboy,/mobilelegends/A_B_O_Y,Indonesia,
+17,Geek Fam ID,Main,Gold,Gold Lane,KennzyySkie,/mobilelegends/KennzyySkie,Indonesia,
+17,Geek Fam ID,Main,Roam,Roamer,Baloyskie,/mobilelegends/Baloyskie,Philippines,Captain
+17,Geek Fam ID,Subs,Roam,Roamer,Asune,/mobilelegends/index.php?title=Asune&action=edit&redlink=1,Indonesia,DNP
+17,Geek Fam ID,Former,EXP,EXP Lane,Ye3,/mobilelegends/Ye3,Malaysia,Left
+17,Geek Fam ID,Former,Jungle,Jungler,Maykids,/mobilelegends/Maykids,Indonesia,Left
+17,Geek Fam ID,Staff,,,MxMoore,/mobilelegends/index.php?title=MxMoore&action=edit&redlink=1,Indonesia,Head Coach
+17,Geek Fam ID,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Assistant Coach
+17,Geek Fam ID,Staff,,,Frizzyyy,/mobilelegends/index.php?title=Frizzyyy&action=edit&redlink=1,Indonesia,Analyst
+17,Natus Vincere,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,
+17,Natus Vincere,Main,Jungle,Jungler,Andoryuuu,/mobilelegends/Andoryuuu,Philippines,
+17,Natus Vincere,Main,Mid,Middle,UK1R,/mobilelegends/UK1R,Philippines,
+17,Natus Vincere,Main,Gold,Gold Lane,Xyve,/mobilelegends/Xyve,Indonesia,
+17,Natus Vincere,Main,Roam,Roamer,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,Indonesia,
+17,Natus Vincere,Subs,Jungle,Jungler,H a n,/mobilelegends/index.php?title=H_a_n&action=edit&redlink=1,Indonesia,DNP
+17,Natus Vincere,Subs,Mid,Middle,xMagic,/mobilelegends/XMagic,Indonesia,DNP
+17,Natus Vincere,Subs,Mid,Middle,Jiizee,/mobilelegends/index.php?title=Jizeezeze&action=edit&redlink=1,Indonesia,
+17,Natus Vincere,Subs,Gold,Gold Lane,Zeonn,/mobilelegends/index.php?title=Zeonn&action=edit&redlink=1,Indonesia,
+17,Natus Vincere,Staff,,,YnoT,/mobilelegends/YnoT,Philippines,Head Coach
+17,Natus Vincere,Staff,,,Jacklee,/mobilelegends/Jacklee,Indonesia,Assistant Coach
+17,ONIC,Main,EXP,EXP Lane,Lutpii,/mobilelegends/Lutpiii,Indonesia,
+17,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+17,ONIC,Main,Mid,Middle,S A N Z,/mobilelegends/S_A_N_Z,Indonesia,
+17,ONIC,Main,Gold,Gold Lane,Kelra,/mobilelegends/Kelra,Philippines,
+17,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,
+17,ONIC,Subs,Roam,Roamer,SamueL,/mobilelegends/SamueL,Indonesia,DNP
+17,ONIC,Staff,,,CW,/mobilelegends/CW,Indonesia,Head Coach
+17,ONIC,Staff,,,Yeb,/mobilelegends/Yeb,Philippines,Assistant Coach
+17,ONIC,Staff,,,Paddington,/mobilelegends/Paddington,Indonesia,Analyst
+17,RRQ Hoshi,Main,EXP,EXP Lane,Dan,/mobilelegends/Dan,Philippines,
+17,RRQ Hoshi,Main,Jungle,Jungler,Super Kenn,/mobilelegends/Super_Kenn,Indonesia,
+17,RRQ Hoshi,Main,Mid,Middle,Yehezkiel,/mobilelegends/Yehezkiel,Indonesia,
+17,RRQ Hoshi,Main,Gold,Gold Lane,Toyy,/mobilelegends/Toyy,Indonesia,
+17,RRQ Hoshi,Main,Roam,Roamer,Idok,/mobilelegends/Idok,Indonesia,
+17,RRQ Hoshi,Subs,Mid,Middle,Rinz,/mobilelegends/Rinz,Indonesia,
+17,RRQ Hoshi,Subs,Gold,Gold Lane,Kuroky,/mobilelegends/index.php?title=KurooKy&action=edit&redlink=1,Indonesia,
+17,RRQ Hoshi,Staff,,,Khezcute,/mobilelegends/Khezcute,Indonesia,Head Coach
+17,RRQ Hoshi,Staff,,,NMM,/mobilelegends/NMM,Indonesia,Assistant Coach
+17,RRQ Hoshi,Staff,,,Pauuu,/mobilelegends/Pauuu,Philippines,Analyst
+17,Team Liquid ID,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,Captain
+17,Team Liquid ID,Main,Jungle,Jungler,Kevinn,/mobilelegends/index.php?title=JOOOOO&action=edit&redlink=1,Indonesia,
+17,Team Liquid ID,Main,Mid,Middle,Drichel,/mobilelegends/index.php?title=Drichel&action=edit&redlink=1,Indonesia,
+17,Team Liquid ID,Main,Gold,Gold Lane,Kyou,/mobilelegends/Kyou,Indonesia,
+17,Team Liquid ID,Main,Roam,Roamer,Lyoni,/mobilelegends/Lyoni,Indonesia,
+17,Team Liquid ID,Subs,EXP,EXP Lane,Aredlavv,/mobilelegends/index.php?title=Aredlavv&action=edit&redlink=1,Indonesia,DNP
+17,Team Liquid ID,Staff,,,Honjaw,/mobilelegends/index.php?title=Honjaw&action=edit&redlink=1,Indonesia,Head Coach
+17,Team Liquid ID,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst
+18,Alter Ego,Main,EXP,EXP Lane,Nino,/mobilelegends/Nino,Indonesia,Captain
+18,Alter Ego,Main,Jungle,Jungler,Affan,/mobilelegends/Yazukee,Indonesia,
+18,Alter Ego,Main,Mid,Middle,Dalvin,/mobilelegends/Hijumee,Indonesia,
+18,Alter Ego,Main,Gold,Gold Lane,Dingarai,/mobilelegends/Arfy,Indonesia,
+18,Alter Ego,Main,Roam,Roamer,Alexander,/mobilelegends/Alekk,Indonesia,
+18,Alter Ego,Subs,Jungle,Jungler,Reyy,/mobilelegends/Reyy,Indonesia,DNP
+18,Alter Ego,Subs,Mid,Middle,Halim,/mobilelegends/Cyruz,Indonesia,DNP
+18,Alter Ego,Subs,Roam,Roamer,Ivann,/mobilelegends/Ivann,Indonesia,DNP
+18,Alter Ego,Staff,,,Xepher,/mobilelegends/Xepher,Indonesia,Head Coach
+18,Alter Ego,Staff,,,Styx,/mobilelegends/Styx,Indonesia,Assistant Coach
+18,Bigetron by Vitality,Main,EXP,EXP Lane,Shogun,/mobilelegends/Shogun,Indonesia,Vice Captain
+18,Bigetron by Vitality,Main,Jungle,Jungler,Nnael,/mobilelegends/Nnael,Indonesia,
+18,Bigetron by Vitality,Main,Mid,Middle,Moreno,/mobilelegends/Moreno,Indonesia,Captain
+18,Bigetron by Vitality,Main,Gold,Gold Lane,EMANN,/mobilelegends/EMANN,Philippines,
+18,Bigetron by Vitality,Main,Roam,Roamer,Finn,/mobilelegends/Finn,Indonesia,
+18,Bigetron by Vitality,Subs,Flex,Flex,Miguel,/mobilelegends/index.php?title=Miguel_(Indonesian_player)&action=edit&redlink=1,Indonesia,DNP
+18,Bigetron by Vitality,Staff,,,K Dot,/mobilelegends/K_Dot,Indonesia,Head Coach
+18,Bigetron by Vitality,Staff,,,Rubenhood,/mobilelegends/index.php?title=Rubenhood&action=edit&redlink=1,Indonesia,Assistant Coach
+18,Bigetron by Vitality,Staff,,,Her,/mobilelegends/Her,Indonesia,Analyst
+18,EVOS,Main,EXP,EXP Lane,Rendyy,/mobilelegends/index.php?title=Rendyy&action=edit&redlink=1,Indonesia,
+18,EVOS,Main,Jungle,Jungler,Alberttt,/mobilelegends/Alberttt,Indonesia,
+18,EVOS,Main,Mid,Middle,Ryzaa,/mobilelegends/Ryzaa,Indonesia,
+18,EVOS,Main,Gold,Gold Lane,Erlan,/mobilelegends/Erlan,Indonesia,
+18,EVOS,Main,Roam,Roamer,Muezza,/mobilelegends/Muezzaa,Indonesia,
+18,EVOS,Subs,EXP,EXP Lane,Vell,/mobilelegends/Vell,Indonesia,
+18,EVOS,Former,Mid,Middle,DrianW,/mobilelegends/index.php?title=DrianW&action=edit&redlink=1,Indonesia,Left
+18,EVOS,Former,,,Bravo,/mobilelegends/Bravo,Indonesia,Left
+18,EVOS,Staff,,,Aldo,/mobilelegends/Aldo,Indonesia,Head Coach
+18,EVOS,Staff,,,SamoHt,/mobilelegends/SamoHt,Indonesia,Analyst
+18,Dewa United Esports,Main,EXP,EXP Lane,QINN,/mobilelegends/QINN,Philippines,
+18,Dewa United Esports,Main,Jungle,Jungler,Hazle,/mobilelegends/Hazle,Indonesia,
+18,Dewa United Esports,Main,Mid,Middle,Octa,/mobilelegends/Octa,Indonesia,
+18,Dewa United Esports,Main,Gold,Gold Lane,Maybeee,/mobilelegends/Maybeee,Indonesia,
+18,Dewa United Esports,Main,Roam,Roamer,Itoshi Kesu,/mobilelegends/KESUUU,Indonesia,
+18,Dewa United Esports,Subs,Roam,Roamer,Shanee,/mobilelegends/Shane,Indonesia,
+18,Dewa United Esports,Subs,Flex,Flex,RuL Good,/mobilelegends/index.php?title=RuL_Good&action=edit&redlink=1,Indonesia,DNP
+18,Dewa United Esports,Former,Jungle,Jungler,Kayn,/mobilelegends/index.php?title=Kayn&action=edit&redlink=1,Philippines,Left
+18,Dewa United Esports,Staff,,,Right,/mobilelegends/Right,Philippines,Head Coach
+18,Dewa United Esports,Staff,,,Link,/mobilelegends/Link,Philippines,Assistant Coach
+18,Dewa United Esports,Staff,,,Laufeyson,/mobilelegends/Okky,Indonesia,Analyst
+18,Geek Fam ID,Main,EXP,EXP Lane,MarceL,/mobilelegends/index.php?title=MarceL&action=edit&redlink=1,Indonesia,
+18,Geek Fam ID,Main,Jungle,Jungler,Nazara,/mobilelegends/index.php?title=Nazara&action=edit&redlink=1,Indonesia,
+18,Geek Fam ID,Main,Mid,Middle,A B O Y,/mobilelegends/A_B_O_Y,Indonesia,Captain
+18,Geek Fam ID,Main,Gold,Gold Lane,KennzyySkie,/mobilelegends/KennzyySkie,Indonesia,
+18,Geek Fam ID,Main,Roam,Roamer,Frenzyy,/mobilelegends/index.php?title=Frenzyy&action=edit&redlink=1,Indonesia,
+18,Geek Fam ID,Subs,EXP,EXP Lane,Febriii,/mobilelegends/index.php?title=Febriii&action=edit&redlink=1,Indonesia,
+18,Geek Fam ID,Subs,Jungle,Jungler,Maykids,/mobilelegends/Maykids,Indonesia,
+18,Geek Fam ID,Former,Roam,Roamer,AudyTzy,/mobilelegends/AudyTzy,Indonesia,Left
+18,Geek Fam ID,Staff,,,Erpang,/mobilelegends/Erpang,Indonesia,Head Coach
+18,Geek Fam ID,Staff,,,Vivy,/mobilelegends/Vivy,Indonesia,Assistant Coach
+18,Natus Vincere,Main,EXP,EXP Lane,Karss,/mobilelegends/Karss,Indonesia,Captain
+18,Natus Vincere,Main,Jungle,Jungler,Joshua,/mobilelegends/index.php?title=Coolfire&action=edit&redlink=1,Indonesia,
+18,Natus Vincere,Main,Mid,Middle,Jiizee,/mobilelegends/index.php?title=Jizeezeze&action=edit&redlink=1,Indonesia,
+18,Natus Vincere,Main,Gold,Gold Lane,Zeonn,/mobilelegends/index.php?title=Zeonn&action=edit&redlink=1,Indonesia,
+18,Natus Vincere,Main,Roam,Roamer,Aprho,/mobilelegends/index.php?title=Aprho&action=edit&redlink=1,Indonesia,
+18,Natus Vincere,Subs,EXP,EXP Lane,Febbb,/mobilelegends/Febbb,Indonesia,DNP
+18,Natus Vincere,Subs,Jungle,Jungler,Andoryuuu,/mobilelegends/Andoryuuu,Philippines,
+18,Natus Vincere,Staff,,,YnoT,/mobilelegends/YnoT,Philippines,Head Coach
+18,Natus Vincere,Staff,,,Jacklee,/mobilelegends/Jacklee,Indonesia,Assistant Coach
+18,Natus Vincere,Staff,,,H a n,/mobilelegends/index.php?title=H_a_n&action=edit&redlink=1,Indonesia,Analyst
+18,ONIC,Main,EXP,EXP Lane,Lutpiii,/mobilelegends/Lutpiii,Indonesia,
+18,ONIC,Main,Jungle,Jungler,Kairi,/mobilelegends/Kairi,Philippines,
+18,ONIC,Main,Mid,Middle,S A N Z,/mobilelegends/S_A_N_Z,Indonesia,
+18,ONIC,Main,Gold,Gold Lane,Kelra,/mobilelegends/Kelra,Philippines,
+18,ONIC,Main,Roam,Roamer,Kiboy,/mobilelegends/Kiboy,Indonesia,Captain
+18,ONIC,Subs,Roam,Roamer,SamueL,/mobilelegends/SamueL,Indonesia,
+18,ONIC,Staff,,,CW,/mobilelegends/CW,Indonesia,Head Coach
+18,ONIC,Staff,,,Baloyskie,/mobilelegends/Baloyskie,Philippines,Assistant Coach
+18,RRQ Hoshi,Main,EXP,EXP Lane,Joshua,/mobilelegends/Lynchh,Indonesia,
+18,RRQ Hoshi,Main,Jungle,Jungler,Demonkite,/mobilelegends/Demonkite,Philippines,
+18,RRQ Hoshi,Main,Mid,Middle,Hajirin,/mobilelegends/Rinz,Indonesia,
+18,RRQ Hoshi,Main,Gold,Gold Lane,Arthur,/mobilelegends/Sutsujin,Indonesia,
+18,RRQ Hoshi,Main,Roam,Roamer,Said,/mobilelegends/Idok,Indonesia,
+18,RRQ Hoshi,Subs,Mid,Middle,Clayyy,/mobilelegends/Clayyy,Indonesia,
+18,RRQ Hoshi,Subs,Gold,Gold Lane,Habil,/mobilelegends/index.php?title=KurooKy&action=edit&redlink=1,Indonesia,DNP
+18,RRQ Hoshi,Subs,Roam,Roamer,Excellent99,/mobilelegends/index.php?title=Excellent99&action=edit&redlink=1,Indonesia,
+18,RRQ Hoshi,Staff,,,Adi,/mobilelegends/Adi,Indonesia,Head Coach
+18,RRQ Hoshi,Staff,,,Kayleb,/mobilelegends/Caleb,Indonesia,Assistant Coach
+18,Team Liquid ID,Main,EXP,EXP Lane,Aran,/mobilelegends/Aran,Indonesia,Captain
+18,Team Liquid ID,Main,Jungle,Jungler,Kevin,/mobilelegends/index.php?title=JOOOOO&action=edit&redlink=1,Indonesia,
+18,Team Liquid ID,Main,Mid,Middle,Drichel,/mobilelegends/index.php?title=Drichel&action=edit&redlink=1,Indonesia,
+18,Team Liquid ID,Main,Gold,Gold Lane,Keven,/mobilelegends/index.php?title=Jull&action=edit&redlink=1,Indonesia,
+18,Team Liquid ID,Main,Roam,Roamer,Lyoni,/mobilelegends/Lyoni,Indonesia,
+18,Team Liquid ID,Subs,Mid,Middle,Anaver,/mobilelegends/index.php?title=NenShikii&action=edit&redlink=1,Indonesia,DNP
+18,Team Liquid ID,Staff,,,Honjaw,/mobilelegends/index.php?title=Honjaw&action=edit&redlink=1,Indonesia,Head Coach
+18,Team Liquid ID,Staff,,,Facehugger,/mobilelegends/Facehugger,Indonesia,Analyst

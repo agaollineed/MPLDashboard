@@ -1,0 +1,63 @@
+{
+  "sumber": "https://liquipedia.net/mobilelegends/",
+  "lisensi": "CC-BY-SA 3.0",
+  "catatan": "Wajib mencantumkan atribusi ke Liquipedia saat data dipakai.",
+  "musim": [
+    {
+      "season": 10,
+      "laga": 56,
+      "tim": 8,
+      "sel_divalidasi": 56,
+      "sel_beda": 0
+    },
+    {
+      "season": 11,
+      "laga": 56,
+      "tim": 8,
+      "sel_divalidasi": 56,
+      "sel_beda": 0
+    },
+    {
+      "season": 12,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    },
+    {
+      "season": 13,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    },
+    {
+      "season": 14,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    },
+    {
+      "season": 15,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    },
+    {
+      "season": 16,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    },
+    {
+      "season": 17,
+      "laga": 72,
+      "tim": 9,
+      "sel_divalidasi": 72,
+      "sel_beda": 0
+    }
+  ]
+}

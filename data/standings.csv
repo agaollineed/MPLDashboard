@@ -1,0 +1,10 @@
+﻿rank,team_code,team_name,match_point,match_w_l_win,match_w_l_loss,net_game_win,game_w_l_win,game_w_l_loss
+1,TLID,TEAM LIQUID ID,8,8,1,11,16,5
+2,AE,ALTER EGO ESPORTS,7,7,2,11,15,4
+3,NAVI,NAVI,7,7,2,8,14,6
+4,BTR,BIGETRON BY VIT,5,5,3,2,11,9
+5,ONIC,ONIC,3,3,6,-2,10,12
+6,EVOS,EVOS,3,3,5,-4,7,11
+7,DEWA,DEWA UNITED,2,2,5,-6,5,11
+8,RRQ,RRQ HOSHI,2,2,6,-8,5,13
+9,GEEK,GEEK FAM,1,1,8,-12,5,17

@@ -1,0 +1,810 @@
+﻿season,kode,pemain_id,grup,role,negara,catatan,nama_periode,juara
+10,AE,Pai,Main,EXP,Indonesia,,Alter Ego,False
+10,AE,Celiboy,Main,Jungle,Indonesia,,Alter Ego,False
+10,AE,Udil,Main,Mid,Indonesia,,Alter Ego,False
+10,AE,Nino,Main,Gold,Indonesia,,Alter Ego,False
+10,AE,Leomurphy,Main,Roam,Indonesia,,Alter Ego,False
+10,AE,KidsZ,Subs,Jungle,Indonesia,,Alter Ego,False
+10,AE,Ahmad,Subs,Gold,Indonesia,,Alter Ego,False
+10,AE,DevKoch,Subs,Roam,Indonesia,,Alter Ego,False
+10,AE,Caesius,Staff,,Indonesia,Coach,Alter Ego,False
+10,AE,Arss,Staff,,Indonesia,Analyst,Alter Ego,False
+10,AURA,Fluffy,Main,EXP,Indonesia,,AURA Fire,False
+10,AURA,High,Main,Jungle,Indonesia,,AURA Fire,False
+10,AURA,Facehugger,Main,Mid,Indonesia,,AURA Fire,False
+10,AURA,Kabuki,Main,Gold,Indonesia,,AURA Fire,False
+10,AURA,God1va,Main,Roam,Indonesia,,AURA Fire,False
+10,AURA,Caid,Subs,Gold,Indonesia,,AURA Fire,False
+10,AURA,Druu,Subs,Roam,Indonesia,,AURA Fire,False
+10,AURA,Tezet,Staff,,Indonesia,Coach,AURA Fire,False
+10,AURA,Fifty_One_Fifty,Staff,,Indonesia,Analyst,AURA Fire,False
+10,AURA,Pahlevi,Staff,,Indonesia,Analyst,AURA Fire,False
+10,BTR,Xorizo,Main,EXP,Indonesia,,Bigetron Alpha,False
+10,BTR,Maxx,Main,Jungle,Indonesia,,Bigetron Alpha,False
+10,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Alpha,False
+10,BTR,Markyyyyy,Main,Gold,Philippines,,Bigetron Alpha,False
+10,BTR,Kyy,Main,Roam,Indonesia,,Bigetron Alpha,False
+10,BTR,Rippo,Subs,EXP,Malaysia,,Bigetron Alpha,False
+10,BTR,Falah,Subs,Mid,Indonesia,,Bigetron Alpha,False
+10,BTR,Saken,Subs,Gold,Indonesia,,Bigetron Alpha,False
+10,BTR,Matt,Former,Gold,Indonesia,Left,Bigetron Alpha,False
+10,BTR,Vren,Staff,,Philippines,Coach,Bigetron Alpha,False
+10,BTR,Starlest,Staff,,Indonesia,Analyst,Bigetron Alpha,False
+10,BTR,Mozia,Staff,,Indonesia,Analyst,Bigetron Alpha,False
+10,EVOS,Pendragon,Main,EXP,Indonesia,,EVOS Legends,False
+10,EVOS,Sutsujin,Main,Jungle,Indonesia,,EVOS Legends,False
+10,EVOS,Tazz,Main,Mid,Indonesia,,EVOS Legends,False
+10,EVOS,Clover,Main,Gold,Indonesia,,EVOS Legends,False
+10,EVOS,Dreams,Main,Roam,Indonesia,,EVOS Legends,False
+10,EVOS,Saykots,Subs,EXP,Indonesia,,EVOS Legends,False
+10,EVOS,Cr1te,Subs,Mid,Indonesia,,EVOS Legends,False
+10,EVOS,Dlar,Former,EXP,Philippines,Left,EVOS Legends,False
+10,EVOS,Ferxiic,Former,Jungle,Indonesia,Left,EVOS Legends,False
+10,EVOS,Bajan,Former,Roam,Indonesia,Left,EVOS Legends,False
+10,EVOS,Ivann,Former,Roam,Indonesia,Left,EVOS Legends,False
+10,EVOS,Zeys,Staff,,Singapore,Head Coach,EVOS Legends,False
+10,EVOS,TaxStump,Staff,,Indonesia,Assistant Coach,EVOS Legends,False
+10,EVOS,Vellion,Staff,,Indonesia,Assistant Coach,EVOS Legends,False
+10,EVOS,Age,Staff,,Indonesia,Analyst,EVOS Legends,False
+10,GEEK,Luke,Main,EXP,Indonesia,,Geek Fam ID,False
+10,GEEK,Hadess,Main,Jungle,Philippines,,Geek Fam ID,False
+10,GEEK,Lzuraa,Main,Mid,Indonesia,,Geek Fam ID,False
+10,GEEK,Caderaa,Main,Gold,Indonesia,,Geek Fam ID,False
+10,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+10,GEEK,Renesmee,Subs,Gold,Indonesia,,Geek Fam ID,False
+10,GEEK,Schwann,Former,EXP,Indonesia,Left,Geek Fam ID,False
+10,GEEK,Hanz,Former,Jungle,Indonesia,Left,Geek Fam ID,False
+10,GEEK,Rupture,Former,Roam,Indonesia,Left,Geek Fam ID,False
+10,GEEK,Manskuy,Former,Roam,Indonesia,Left,Geek Fam ID,False
+10,GEEK,Ruben,Staff,,Indonesia,Coach,Geek Fam ID,False
+10,ONIC,Butss,Main,EXP,Indonesia,,ONIC Esports,True
+10,ONIC,Kairi,Main,Jungle,Philippines,,ONIC Esports,True
+10,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC Esports,True
+10,ONIC,CW,Main,Gold,Indonesia,,ONIC Esports,True
+10,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC Esports,True
+10,ONIC,Drian,Subs,Mid,Indonesia,,ONIC Esports,True
+10,ONIC,SamoHt,Subs,Roam,Indonesia,,ONIC Esports,True
+10,ONIC,Aldo,Staff,,Indonesia,Head Coach,ONIC Esports,False
+10,ONIC,Mars,Staff,,Indonesia,Assistant Coach,ONIC Esports,False
+10,ONIC,Yeb,Staff,,Philippines,Analyst,ONIC Esports,False
+10,RBL,Dyrennn,Main,EXP,Indonesia,,Rebellion Zion,False
+10,RBL,Fearless,Main,Jungle,Indonesia,,Rebellion Zion,False
+10,RBL,SwayLow,Main,Mid,Indonesia,,Rebellion Zion,False
+10,RBL,Haiz,Main,Gold,Indonesia,,Rebellion Zion,False
+10,RBL,Widjanarko,Main,Roam,Indonesia,,Rebellion Zion,False
+10,RBL,Val,Subs,Roam,Indonesia,,Rebellion Zion,False
+10,RBL,JiiSaa,Former,Gold,Indonesia,Left,Rebellion Zion,False
+10,RBL,Cikoo,Staff,,Indonesia,Coach,Rebellion Zion,False
+10,RBL,Vivy,Staff,,Indonesia,Analyst,Rebellion Zion,False
+10,RRQ,R7,Main,EXP,Indonesia,,RRQ Hoshi,False
+10,RRQ,Alberttt,Main,Jungle,Indonesia,,RRQ Hoshi,False
+10,RRQ,Clayyy,Main,Mid,Indonesia,,RRQ Hoshi,False
+10,RRQ,Skylar,Main,Gold,Indonesia,,RRQ Hoshi,False
+10,RRQ,VYN,Main,Roam,Indonesia,,RRQ Hoshi,False
+10,RRQ,Banana,Subs,EXP,Indonesia,,RRQ Hoshi,False
+10,RRQ,Lemon,Subs,Mid,Indonesia,,RRQ Hoshi,False
+10,RRQ,Psychoo,Former,Mid,Indonesia,Left,RRQ Hoshi,False
+10,RRQ,Violence,Former,Roam,Indonesia,Left,RRQ Hoshi,False
+10,RRQ,Fiel,Staff,,Philippines,Head Coach,RRQ Hoshi,False
+10,RRQ,Arcadia,Staff,,Indonesia,Assistant Coach,RRQ Hoshi,False
+10,RRQ,Adi,Staff,,Indonesia,Analyst,RRQ Hoshi,False
+11,AE,Pai,Main,EXP,Indonesia,,Alter Ego,False
+11,AE,Celiboy,Main,Jungle,Indonesia,,Alter Ego,False
+11,AE,Udil,Main,Mid,Indonesia,,Alter Ego,False
+11,AE,Nino,Main,Gold,Indonesia,,Alter Ego,False
+11,AE,Rasy,Main,Roam,Indonesia,,Alter Ego,False
+11,AE,KidsZ,Subs,Jungle,Indonesia,,Alter Ego,False
+11,AE,RaizeL,Subs,Gold,Indonesia,,Alter Ego,False
+11,AE,Psychoo,Subs,Roam,Indonesia,,Alter Ego,False
+11,AE,Nafari,Staff,,Indonesia,Head Coach,Alter Ego,False
+11,AE,Caesius,Staff,,Indonesia,Assistant Coach,Alter Ego,False
+11,AE,Arss,Staff,,Indonesia,Analyst,Alter Ego,False
+11,AURA,Fluffy,Main,EXP,Indonesia,,AURA Fire,False
+11,AURA,VAN,Main,Jungle,Indonesia,,AURA Fire,False
+11,AURA,Facehugger,Main,Mid,Indonesia,,AURA Fire,False
+11,AURA,Kabuki,Main,Gold,Indonesia,,AURA Fire,False
+11,AURA,God1va,Main,Roam,Indonesia,,AURA Fire,False
+11,AURA,Caid,Subs,Gold,Indonesia,,AURA Fire,False
+11,AURA,High,Subs,Flex,Indonesia,,AURA Fire,False
+11,AURA,Pahlevi,Staff,,Indonesia,Coach,AURA Fire,False
+11,AURA,CL,Staff,,Indonesia,Analyst,AURA Fire,False
+11,BTR,Xorizo,Main,EXP,Indonesia,,Bigetron Alpha,False
+11,BTR,Super_Kenn,Main,Jungle,Indonesia,,Bigetron Alpha,False
+11,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Alpha,False
+11,BTR,Saken,Main,Gold,Indonesia,,Bigetron Alpha,False
+11,BTR,Kyy,Main,Roam,Indonesia,,Bigetron Alpha,False
+11,BTR,VyrNoCure,Subs,EXP,Indonesia,,Bigetron Alpha,False
+11,BTR,Maxx,Subs,Jungle,Indonesia,,Bigetron Alpha,False
+11,BTR,Gamora,Subs,Mid,Indonesia,,Bigetron Alpha,False
+11,BTR,Markyyyyy,Subs,Gold,Philippines,,Bigetron Alpha,False
+11,BTR,Just_Garrr,Former,Jungle,Indonesia,Left,Bigetron Alpha,False
+11,BTR,Razeboy,Staff,,Indonesia,Head Coach,Bigetron Alpha,False
+11,BTR,Aldo,Staff,,Indonesia,Assistant Coach,Bigetron Alpha,False
+11,BTR,Pauuu,Staff,,Philippines,Technical Coach,Bigetron Alpha,False
+11,EVOS,Saykots,Main,EXP,Indonesia,,EVOS Legends,False
+11,EVOS,Tazz,Main,Jungle,Indonesia,,EVOS Legends,False
+11,EVOS,Hijumee,Main,Mid,Indonesia,,EVOS Legends,False
+11,EVOS,Branz,Main,Gold,Indonesia,,EVOS Legends,False
+11,EVOS,Dreams,Main,Roam,Indonesia,,EVOS Legends,False
+11,EVOS,Pendragon,Subs,EXP,Indonesia,,EVOS Legends,False
+11,EVOS,Dlar,Subs,EXP,Philippines,DNP,EVOS Legends,False
+11,EVOS,Ferxiic,Subs,Jungle,Indonesia,,EVOS Legends,False
+11,EVOS,Age,Staff,,Indonesia,Coach,EVOS Legends,False
+11,EVOS,TaxStump,Staff,,Indonesia,Analyst,EVOS Legends,False
+11,GEEK,Luke,Main,EXP,Indonesia,,Geek Slate,False
+11,GEEK,Hadess,Main,Jungle,Philippines,,Geek Slate,False
+11,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Slate,False
+11,GEEK,Caderaa,Main,Gold,Indonesia,,Geek Slate,False
+11,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Slate,False
+11,GEEK,Matt,Subs,EXP,Indonesia,,Geek Slate,False
+11,GEEK,Renz,Staff,,Indonesia,Coach,Geek Slate,False
+11,ONIC,Butss,Main,EXP,Indonesia,,ONIC,True
+11,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,True
+11,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,True
+11,ONIC,CW,Main,Gold,Indonesia,,ONIC,True
+11,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC,True
+11,ONIC,Drian,Subs,Mid,Indonesia,,ONIC,True
+11,ONIC,SamoHt,Subs,Roam,Indonesia,DNP,ONIC,True
+11,ONIC,Yeb,Staff,,Philippines,Head Coach,ONIC,False
+11,ONIC,Adi,Staff,,Indonesia,Analyst,ONIC,False
+11,RBL,Karss,Main,EXP,Indonesia,,Rebellion Zion,False
+11,RBL,Vincentt,Main,Jungle,Indonesia,,Rebellion Zion,False
+11,RBL,SwayLow,Main,Mid,Indonesia,,Rebellion Zion,False
+11,RBL,Haiz,Main,Gold,Indonesia,,Rebellion Zion,False
+11,RBL,Widjanarko,Main,Roam,Indonesia,,Rebellion Zion,False
+11,RBL,Bigmac,Subs,EXP,Indonesia,,Rebellion Zion,False
+11,RBL,SAEP,Former,EXP,Indonesia,Left,Rebellion Zion,False
+11,RBL,Cikoo,Staff,,Indonesia,Coach,Rebellion Zion,False
+11,RBL,Vivy,Staff,,Indonesia,Analyst,Rebellion Zion,False
+11,RRQ,Lemon,Main,EXP,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Alberttt,Main,Jungle,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Clayyy,Main,Mid,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Skylar,Main,Gold,Indonesia,,Rex Regum Qeon,False
+11,RRQ,VYN,Main,Roam,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Banana,Subs,EXP,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Renbo,Subs,Mid,Indonesia,,Rex Regum Qeon,False
+11,RRQ,Arcadia,Former,,Philippines,Left,Rex Regum Qeon,False
+11,RRQ,Fiel,Former,,Indonesia,Left,Rex Regum Qeon,False
+11,RRQ,Bangduk,Staff,,Indonesia,Coach,Rex Regum Qeon,False
+11,RRQ,Rave,Staff,,Indonesia,Analyst,Rex Regum Qeon,False
+12,AE,Pai,Main,EXP,Indonesia,,Alter Ego,False
+12,AE,Celiboy,Main,Jungle,Indonesia,,Alter Ego,False
+12,AE,Udil,Main,Mid,Indonesia,,Alter Ego,False
+12,AE,Nino,Main,Gold,Indonesia,,Alter Ego,False
+12,AE,Rasy,Main,Roam,Indonesia,,Alter Ego,False
+12,AE,Variety,Subs,Jungle,Indonesia,DNP,Alter Ego,False
+12,AE,Rekt,Subs,Roam,Indonesia,,Alter Ego,False
+12,AE,Caesius,Staff,,Indonesia,Head Coach,Alter Ego,False
+12,AE,Nafari,Staff,,Indonesia,Analyst,Alter Ego,False
+12,AE,Arss,Staff,,Indonesia,Analyst,Alter Ego,False
+12,AURA,Aran,Main,EXP,Indonesia,,AURA Fire,False
+12,AURA,VAN,Main,Jungle,Indonesia,,AURA Fire,False
+12,AURA,Yehezkiel,Main,Mid,Indonesia,,AURA Fire,False
+12,AURA,Kabuki,Main,Gold,Indonesia,,AURA Fire,False
+12,AURA,High,Main,Roam,Indonesia,,AURA Fire,False
+12,AURA,Kimura,Subs,EXP,Indonesia,,AURA Fire,False
+12,AURA,Facehugger,Subs,Mid,Indonesia,,AURA Fire,False
+12,AURA,SamoHt,Subs,Roam,Indonesia,,AURA Fire,False
+12,AURA,Pahlevi,Staff,,Indonesia,Coach,AURA Fire,False
+12,AURA,SaintDeLucaz,Staff,,Indonesia,Coach,AURA Fire,False
+12,BTR,Xorizo,Main,EXP,Indonesia,,Bigetron Alpha,False
+12,BTR,Super_Kenn,Main,Jungle,Indonesia,,Bigetron Alpha,False
+12,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Alpha,False
+12,BTR,Xyve,Main,Gold,Indonesia,,Bigetron Alpha,False
+12,BTR,Kyy,Main,Roam,Indonesia,,Bigetron Alpha,False
+12,BTR,Narashi,Subs,EXP,Indonesia,,Bigetron Alpha,False
+12,BTR,VYN,Subs,Roam,Indonesia,,Bigetron Alpha,False
+12,BTR,Saken,Former,Gold,Indonesia,Left,Bigetron Alpha,False
+12,BTR,Aldo,Staff,,Indonesia,Head Coach,Bigetron Alpha,False
+12,BTR,Razeboy,Staff,,Indonesia,Analyst,Bigetron Alpha,False
+12,BTR,Falah,Staff,,Indonesia,Coach,Bigetron Alpha,False
+12,DEWA,Dyx0n,Main,EXP,Indonesia,,Dewa United Esports,False
+12,DEWA,Lanaya,Main,Jungle,Indonesia,,Dewa United Esports,False
+12,DEWA,Keyz,Main,Mid,Indonesia,,Dewa United Esports,False
+12,DEWA,Watt,Main,Gold,Indonesia,,Dewa United Esports,False
+12,DEWA,Shacco,Main,Roam,Indonesia,,Dewa United Esports,False
+12,DEWA,Pendragon,Subs,EXP,Indonesia,,Dewa United Esports,False
+12,DEWA,Reyy,Subs,Jungle,Indonesia,,Dewa United Esports,False
+12,DEWA,Leomurphy,Subs,Roam,Indonesia,,Dewa United Esports,False
+12,DEWA,Jacklee,Staff,,Indonesia,Head Coach,Dewa United Esports,False
+12,DEWA,Paddington,Staff,,Indonesia,Analyst,Dewa United Esports,False
+12,EVOS,Vell,Main,EXP,Indonesia,,EVOS Legends,False
+12,EVOS,Sutsujin,Main,Jungle,Indonesia,,EVOS Legends,False
+12,EVOS,Cr1te,Main,Mid,Indonesia,,EVOS Legends,False
+12,EVOS,Branz,Main,Gold,Indonesia,,EVOS Legends,False
+12,EVOS,Ivann,Main,Roam,Indonesia,,EVOS Legends,False
+12,EVOS,Fluffy,Subs,EXP,Indonesia,,EVOS Legends,False
+12,EVOS,Tazz,Subs,Jungle,Indonesia,,EVOS Legends,False
+12,EVOS,Erlan,Subs,Gold,Indonesia,,EVOS Legends,False
+12,EVOS,Dlar,Former,EXP,Philippines,Left,EVOS Legends,False
+12,EVOS,Hijumee,Former,Mid,Indonesia,Left,EVOS Legends,False
+12,EVOS,Dreams,Former,Roam,Indonesia,Left,EVOS Legends,False
+12,EVOS,Age,Staff,,Indonesia,Head Coach,EVOS Legends,False
+12,EVOS,Caleb,Staff,,Indonesia,Assistant Coach,EVOS Legends,False
+12,EVOS,TaxStump,Staff,,Indonesia,Analyst,EVOS Legends,False
+12,GEEK,Luke,Main,EXP,Indonesia,,Geek Fam ID,False
+12,GEEK,Nnael,Main,Jungle,Indonesia,,Geek Fam ID,False
+12,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+12,GEEK,Markyyyyy,Main,Gold,Philippines,,Geek Fam ID,False
+12,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+12,GEEK,Caderaa,Subs,Gold,Indonesia,,Geek Fam ID,False
+12,GEEK,Renz,Former,,Indonesia,Left,Geek Fam ID,False
+12,GEEK,Erpang,Staff,,Indonesia,Coach,Geek Fam ID,False
+12,ONIC,Butss,Main,EXP,Indonesia,,ONIC,True
+12,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,True
+12,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,True
+12,ONIC,CW,Main,Gold,Indonesia,,ONIC,True
+12,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC,True
+12,ONIC,Drian,Subs,Flex,Indonesia,,ONIC,True
+12,ONIC,Alberttt,Subs,Flex,Indonesia,,ONIC,True
+12,ONIC,Yeb,Staff,,Philippines,Head Coach,ONIC,False
+12,ONIC,Adi,Staff,,Indonesia,Analyst,ONIC,False
+12,RBL,Karss,Main,EXP,Indonesia,,Rebellion Zion,False
+12,RBL,Vincentt,Main,Jungle,Indonesia,,Rebellion Zion,False
+12,RBL,SwayLow,Main,Mid,Indonesia,,Rebellion Zion,False
+12,RBL,Haiz,Main,Gold,Indonesia,,Rebellion Zion,False
+12,RBL,AudyTzy,Main,Roam,Indonesia,,Rebellion Zion,False
+12,RBL,Renbuu,Subs,Mid,Indonesia,,Rebellion Zion,False
+12,RBL,Cikoo,Staff,,Indonesia,Head Coach,Rebellion Zion,False
+12,RBL,Vivy,Staff,,Indonesia,Analyst,Rebellion Zion,False
+12,RRQ,Banana,Main,EXP,Indonesia,,Rex Regum Qeon,False
+12,RRQ,Ferxiic,Main,Jungle,Indonesia,,Rex Regum Qeon,False
+12,RRQ,Clayyy,Main,Mid,Indonesia,,Rex Regum Qeon,False
+12,RRQ,Skylar,Main,Gold,Indonesia,,Rex Regum Qeon,False
+12,RRQ,Naomi,Main,Roam,Myanmar,,Rex Regum Qeon,False
+12,RRQ,Dyrennn,Subs,EXP,Indonesia,,Rex Regum Qeon,False
+12,RRQ,Lemon,Subs,Mid,Indonesia,,Rex Regum Qeon,False
+12,RRQ,XINNN,Subs,Gold,Indonesia,DNP,Rex Regum Qeon,False
+12,RRQ,Renbo,Former,Flex,Indonesia,Left,Rex Regum Qeon,False
+12,RRQ,Sayargyi,Staff,,Myanmar,Head Coach,Rex Regum Qeon,False
+12,RRQ,Rave,Staff,,Indonesia,Analyst,Rex Regum Qeon,False
+13,AE,Pai,Main,EXP,Indonesia,,Alter Ego,False
+13,AE,Tazz,Main,Jungle,Indonesia,,Alter Ego,False
+13,AE,Cr1te,Main,Mid,Indonesia,,Alter Ego,False
+13,AE,Nino,Main,Gold,Indonesia,,Alter Ego,False
+13,AE,Rasy,Main,Roam,Indonesia,,Alter Ego,False
+13,AE,Munsters,Subs,EXP,Indonesia,DNP,Alter Ego,False
+13,AE,Celiboy,Subs,Mid,Indonesia,,Alter Ego,False
+13,AE,Haiz,Subs,Gold,Indonesia,,Alter Ego,False
+13,AE,Rekt,Subs,Roam,Indonesia,,Alter Ego,False
+13,AE,RoundeL,Former,Mid,Indonesia,Left,Alter Ego,False
+13,AE,Nafari,Staff,,Indonesia,Head Coach,Alter Ego,False
+13,AE,Arss,Staff,,Indonesia,Assistant Coach,Alter Ego,False
+13,AE,Aldo,Staff,,Indonesia,Analyst,Alter Ego,False
+13,AURA,Aran,Main,EXP,Indonesia,,Liquid Aura,False
+13,AURA,Gugun,Main,Jungle,Indonesia,,Liquid Aura,False
+13,AURA,Yehezkiel,Main,Mid,Indonesia,,Liquid Aura,False
+13,AURA,Kabuki,Main,Gold,Indonesia,,Liquid Aura,False
+13,AURA,Yawi,Main,Roam,Philippines,,Liquid Aura,False
+13,AURA,High,Subs,Jungle,Indonesia,DNP,Liquid Aura,False
+13,AURA,SaintDeLucaz,Staff,,Indonesia,Head Coach,Liquid Aura,False
+13,AURA,Pahlevi,Staff,,Indonesia,Assistant Coach,Liquid Aura,False
+13,AURA,Facehugger,Staff,,Indonesia,Analyst,Liquid Aura,False
+13,BTR,Xorizo,Main,EXP,Indonesia,,Bigetron Alpha,False
+13,BTR,Super_Kenn,Main,Jungle,Indonesia,,Bigetron Alpha,False
+13,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Alpha,False
+13,BTR,EMANN,Main,Gold,Philippines,,Bigetron Alpha,False
+13,BTR,Kyy,Main,Roam,Indonesia,,Bigetron Alpha,False
+13,BTR,JM,Subs,EXP,Philippines,,Bigetron Alpha,False
+13,BTR,VYN,Former,Roam,Indonesia,Left,Bigetron Alpha,False
+13,BTR,Falah,Former,,Indonesia,Left,Bigetron Alpha,False
+13,BTR,Khezcute,Staff,,Indonesia,Head Coach,Bigetron Alpha,False
+13,BTR,Razeboy,Staff,,Indonesia,Assistant Coach,Bigetron Alpha,False
+13,BTR,NMM,Staff,,Indonesia,Analyst,Bigetron Alpha,False
+13,DEWA,Dyx0n,Main,EXP,Indonesia,,Dewa United Esports,False
+13,DEWA,Just_Garrr,Main,Jungle,Indonesia,,Dewa United Esports,False
+13,DEWA,Keyz,Main,Mid,Indonesia,,Dewa United Esports,False
+13,DEWA,Watt,Main,Gold,Indonesia,,Dewa United Esports,False
+13,DEWA,Drian,Main,Roam,Indonesia,,Dewa United Esports,False
+13,DEWA,Kimura,Subs,EXP,Indonesia,,Dewa United Esports,False
+13,DEWA,Lanaya,Subs,Jungle,Indonesia,,Dewa United Esports,False
+13,DEWA,Shacco,Subs,Roam,Indonesia,DNP,Dewa United Esports,False
+13,DEWA,Caesius,Staff,,Indonesia,Coach,Dewa United Esports,False
+13,DEWA,Jacklee,Staff,,Indonesia,Analyst,Dewa United Esports,False
+13,EVOS,Fluffy,Main,EXP,Indonesia,,EVOS Glory,False
+13,EVOS,Anavel,Main,Jungle,Indonesia,,EVOS Glory,False
+13,EVOS,Claw_Kun,Main,Mid,Indonesia,,EVOS Glory,False
+13,EVOS,Branz,Main,Gold,Indonesia,,EVOS Glory,False
+13,EVOS,Dreams,Main,Roam,Indonesia,,EVOS Glory,False
+13,EVOS,VAN,Subs,Jungle,Indonesia,,EVOS Glory,False
+13,EVOS,Natco,Subs,Gold,Indonesia,,EVOS Glory,False
+13,EVOS,Super_Red,Subs,Gold,Philippines,,EVOS Glory,False
+13,EVOS,Panser,Subs,Roam,Indonesia,DNP,EVOS Glory,False
+13,EVOS,Vell,Former,EXP,Indonesia,Left,EVOS Glory,False
+13,EVOS,Warlord,Former,Mid,Indonesia,Left,EVOS Glory,False
+13,EVOS,Alditto,Former,Gold,Indonesia,Left,EVOS Glory,False
+13,EVOS,Ivann,Former,Roam,Indonesia,Left,EVOS Glory,False
+13,EVOS,G,Staff,,Indonesia,Head Coach,EVOS Glory,False
+13,EVOS,Caleb,Staff,,Indonesia,Assistant Coach,EVOS Glory,False
+13,EVOS,Age,Staff,,Indonesia,Assistant Coach,EVOS Glory,False
+13,EVOS,Theo,Staff,,Philippines,Analyst,EVOS Glory,False
+13,GEEK,Luke,Main,EXP,Indonesia,,Geek Fam ID,False
+13,GEEK,Reyy,Main,Jungle,Indonesia,,Geek Fam ID,False
+13,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+13,GEEK,Caderaa,Main,Gold,Indonesia,,Geek Fam ID,False
+13,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+13,GEEK,Hazle,Subs,Jungle,Indonesia,,Geek Fam ID,False
+13,GEEK,Markyyyyy,Subs,Gold,Philippines,,Geek Fam ID,False
+13,GEEK,Bluffzy,Staff,,Philippines,Head Coach,Geek Fam ID,False
+13,GEEK,Wuraaaah,Staff,,Philippines,Assistant Coach,Geek Fam ID,False
+13,ONIC,Lutpiii,Main,EXP,Indonesia,,Fnatic ONIC,True
+13,ONIC,Kairi,Main,Jungle,Philippines,,Fnatic ONIC,True
+13,ONIC,S_A_N_Z,Main,Mid,Indonesia,,Fnatic ONIC,True
+13,ONIC,CW,Main,Gold,Indonesia,,Fnatic ONIC,True
+13,ONIC,Kiboy,Main,Roam,Indonesia,,Fnatic ONIC,True
+13,ONIC,Butss,Subs,EXP,Indonesia,,Fnatic ONIC,True
+13,ONIC,Alberttt,Subs,Gold,Indonesia,,Fnatic ONIC,True
+13,ONIC,Yeb,Staff,,Philippines,Head Coach,Fnatic ONIC,False
+13,ONIC,Adi,Staff,,Indonesia,Coach,Fnatic ONIC,False
+13,RBL,Karss,Main,EXP,Indonesia,,Rebellion Esports,False
+13,RBL,Vincentt,Main,Jungle,Indonesia,,Rebellion Esports,False
+13,RBL,SwayLow,Main,Mid,Indonesia,,Rebellion Esports,False
+13,RBL,Deee,Main,Gold,Indonesia,,Rebellion Esports,False
+13,RBL,AudyTzy,Main,Roam,Indonesia,,Rebellion Esports,False
+13,RBL,Moai,Subs,Gold,Indonesia,,Rebellion Esports,False
+13,RBL,Cikoo,Staff,,Indonesia,Coach,Rebellion Esports,False
+13,RBL,Vivy,Staff,,Indonesia,Analyst,Rebellion Esports,False
+13,RRQ,Donn,Main,EXP,Indonesia,,RRQ Hoshi,False
+13,RRQ,Irrad,Main,Jungle,Philippines,,RRQ Hoshi,False
+13,RRQ,Clayyy,Main,Mid,Indonesia,,RRQ Hoshi,False
+13,RRQ,Skylar,Main,Gold,Indonesia,,RRQ Hoshi,False
+13,RRQ,VYN,Main,Roam,Indonesia,,RRQ Hoshi,False
+13,RRQ,Banana,Subs,EXP,Indonesia,,RRQ Hoshi,False
+13,RRQ,Ferxiic,Subs,Jungle,Indonesia,,RRQ Hoshi,False
+13,RRQ,Lemon,Subs,Mid,Indonesia,,RRQ Hoshi,False
+13,RRQ,Bunnyqt,Subs,Gold,Indonesia,,RRQ Hoshi,False
+13,RRQ,Brusko,Subs,Roam,Philippines,,RRQ Hoshi,False
+13,RRQ,Octa,Former,Mid,Indonesia,Left,RRQ Hoshi,False
+13,RRQ,Vren,Staff,,Philippines,Head Coach,RRQ Hoshi,False
+13,RRQ,Sayargyi,Staff,,Myanmar,Assistant Coach,RRQ Hoshi,False
+14,AE,Nino,Main,EXP,Indonesia,,Alter Ego,False
+14,AE,Nnael,Main,Jungle,Indonesia,,Alter Ego,False
+14,AE,RoundeL,Main,Mid,Indonesia,,Alter Ego,False
+14,AE,Haiz,Main,Gold,Indonesia,,Alter Ego,False
+14,AE,Alekk,Main,Roam,Indonesia,,Alter Ego,False
+14,AE,Gebe,Subs,Jungle,Indonesia,DNP,Alter Ego,False
+14,AE,Rekt,Staff,,Indonesia,Head Coach,Alter Ego,False
+14,AE,Aldo,Staff,,Indonesia,Coach,Alter Ego,False
+14,AE,Styx,Staff,,Indonesia,Analyst,Alter Ego,False
+14,BTR,Luke,Main,EXP,Indonesia,,Bigetron Alpha,False
+14,BTR,Super_Kenn,Main,Jungle,Indonesia,,Bigetron Alpha,False
+14,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Alpha,False
+14,BTR,EMANN,Main,Gold,Philippines,,Bigetron Alpha,False
+14,BTR,Kyy,Main,Roam,Indonesia,,Bigetron Alpha,False
+14,BTR,Finn,Subs,Roam,Indonesia,,Bigetron Alpha,False
+14,BTR,Wuraaaah,Staff,,Philippines,Head Coach,Bigetron Alpha,False
+14,BTR,Theonael,Staff,,Indonesia,Assistant Coach,Bigetron Alpha,False
+14,DEWA,Xorizo,Main,EXP,Indonesia,,Dewa United Esports,False
+14,DEWA,Reyy,Main,Jungle,Indonesia,,Dewa United Esports,False
+14,DEWA,Keyz,Main,Mid,Indonesia,,Dewa United Esports,False
+14,DEWA,Azuraa,Main,Gold,Indonesia,,Dewa United Esports,False
+14,DEWA,Muezzaa,Main,Roam,Indonesia,,Dewa United Esports,False
+14,DEWA,Kimura,Subs,EXP,Indonesia,DNP,Dewa United Esports,False
+14,DEWA,Hijumee,Subs,Mid,Indonesia,,Dewa United Esports,False
+14,DEWA,Watt,Subs,Gold,Indonesia,,Dewa United Esports,False
+14,DEWA,Raizan,Staff,,Indonesia,Head Coach,Dewa United Esports,False
+14,DEWA,Erpang,Staff,,Indonesia,Analyst,Dewa United Esports,False
+14,EVOS,Saykots,Main,EXP,Indonesia,,EVOS Glory,False
+14,EVOS,Anavel,Main,Jungle,Indonesia,,EVOS Glory,False
+14,EVOS,Claw_Kun,Main,Mid,Indonesia,,EVOS Glory,False
+14,EVOS,Branz,Main,Gold,Indonesia,,EVOS Glory,False
+14,EVOS,Dreams,Main,Roam,Indonesia,,EVOS Glory,False
+14,EVOS,VAN,Subs,Jungle,Indonesia,,EVOS Glory,False
+14,EVOS,Bondolz,Subs,Mid,Indonesia,,EVOS Glory,False
+14,EVOS,Natco,Subs,Gold,Indonesia,,EVOS Glory,False
+14,EVOS,Alevaa,Subs,Roam,Indonesia,,EVOS Glory,False
+14,EVOS,Fluffy,Former,EXP,Indonesia,Left,EVOS Glory,False
+14,EVOS,Erlan,Former,Gold,Indonesia,Left,EVOS Glory,False
+14,EVOS,Panser,Former,Roam,Indonesia,Left,EVOS Glory,False
+14,EVOS,G,Former,,Indonesia,Left,EVOS Glory,False
+14,EVOS,Naitomea,Former,,Indonesia,Left,EVOS Glory,False
+14,EVOS,Age,Staff,,Indonesia,Head Coach,EVOS Glory,False
+14,EVOS,Caleb,Staff,,Indonesia,Assistant Coach,EVOS Glory,False
+14,ONIC,Rezzz,Main,EXP,Indonesia,,Fnatic ONIC,False
+14,ONIC,Kairi,Main,Jungle,Philippines,,Fnatic ONIC,False
+14,ONIC,S_A_N_Z,Main,Mid,Indonesia,,Fnatic ONIC,False
+14,ONIC,CW,Main,Gold,Indonesia,,Fnatic ONIC,False
+14,ONIC,Kiboy,Main,Roam,Indonesia,,Fnatic ONIC,False
+14,ONIC,Alberttt,Subs,Jungle,Indonesia,,Fnatic ONIC,False
+14,ONIC,Marsha,Subs,Flex,Indonesia,DNP,Fnatic ONIC,False
+14,ONIC,Lutpiii,Former,EXP,Indonesia,Left,Fnatic ONIC,False
+14,ONIC,Yeb,Staff,,Philippines,Head Coach,Fnatic ONIC,False
+14,ONIC,Adi,Staff,,Indonesia,Assistant Coach,Fnatic ONIC,False
+14,ONIC,Zetsuna,Staff,,Indonesia,Analyst,Fnatic ONIC,False
+14,GEEK,Vell,Main,EXP,Indonesia,,Geek Fam ID,False
+14,GEEK,Vincentt,Main,Jungle,Indonesia,,Geek Fam ID,False
+14,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+14,GEEK,Caderaa,Main,Gold,Indonesia,,Geek Fam ID,False
+14,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+14,GEEK,Gobs,Subs,EXP,Indonesia,,Geek Fam ID,False
+14,GEEK,Mas4Ko,Subs,Gold,Indonesia,,Geek Fam ID,False
+14,GEEK,Bluffzy,Staff,,Philippines,Head Coach,Geek Fam ID,False
+14,GEEK,Dora,Staff,,Indonesia,Analyst,Geek Fam ID,False
+14,RBL,Karss,Main,EXP,Indonesia,,Rebellion Esports,False
+14,RBL,Aether,Main,Jungle,Indonesia,,Rebellion Esports,False
+14,RBL,SwayLow,Main,Mid,Indonesia,,Rebellion Esports,False
+14,RBL,Matt,Main,Gold,Indonesia,,Rebellion Esports,False
+14,RBL,X_Win,Main,Roam,Indonesia,,Rebellion Esports,False
+14,RBL,Ryyo,Subs,Jungle,Indonesia,,Rebellion Esports,False
+14,RBL,AudyTzy,Subs,Roam,Indonesia,,Rebellion Esports,False
+14,RBL,Raiden,Staff,,Indonesia,Coach,Rebellion Esports,False
+14,RBL,Vivy,Staff,,Indonesia,Analyst,Rebellion Esports,False
+14,RRQ,Dyrennn,Main,EXP,Indonesia,,RRQ Hoshi,False
+14,RRQ,Sutsujin,Main,Jungle,Indonesia,,RRQ Hoshi,False
+14,RRQ,Rinz,Main,Mid,Indonesia,,RRQ Hoshi,False
+14,RRQ,Skylar,Main,Gold,Indonesia,,RRQ Hoshi,False
+14,RRQ,Idok,Main,Roam,Indonesia,,RRQ Hoshi,False
+14,RRQ,Hazle,Subs,Jungle,Indonesia,,RRQ Hoshi,False
+14,RRQ,Khezcute,Staff,,Indonesia,Head Coach,RRQ Hoshi,False
+14,RRQ,NMM,Staff,,Indonesia,Analyst,RRQ Hoshi,False
+14,TLID,Aran,Main,EXP,Indonesia,,Team Liquid ID,True
+14,TLID,Faviannn,Main,Jungle,Indonesia,,Team Liquid ID,True
+14,TLID,Yehezkiel,Main,Mid,Indonesia,,Team Liquid ID,True
+14,TLID,AeronnShikii,Main,Gold,Indonesia,,Team Liquid ID,True
+14,TLID,Widy,Main,Roam,Indonesia,,Team Liquid ID,True
+14,TLID,Jeymz,Subs,EXP,Philippines,,Team Liquid ID,True
+14,TLID,Kabuki,Subs,Gold,Indonesia,,Team Liquid ID,True
+14,TLID,Yawi,Subs,Roam,Philippines,,Team Liquid ID,True
+14,TLID,Gugun,Former,Jungle,Indonesia,Left,Team Liquid ID,False
+14,TLID,Ritchi,Former,Mid,Indonesia,Left,Team Liquid ID,False
+14,TLID,SaintDeLucaz,Staff,,Indonesia,Head Coach,Team Liquid ID,False
+14,TLID,Facehugger,Staff,,Indonesia,Analyst,Team Liquid ID,False
+15,AE,Nino,Main,EXP,Indonesia,,Alter Ego,False
+15,AE,Rinee,Main,Jungle,Indonesia,,Alter Ego,False
+15,AE,Hijumee,Main,Mid,Indonesia,,Alter Ego,False
+15,AE,Arfy,Main,Gold,Indonesia,,Alter Ego,False
+15,AE,Dreams,Main,Roam,Indonesia,,Alter Ego,False
+15,AE,Kyzenn,Subs,Jungle,Indonesia,DNP,Alter Ego,False
+15,AE,Gebe,Former,Jungle,Indonesia,Left,Alter Ego,False
+15,AE,Haiz,Former,Gold,Indonesia,Left,Alter Ego,False
+15,AE,Xepher,Staff,,Indonesia,Head Coach,Alter Ego,False
+15,AE,Rekt,Staff,,Indonesia,Coach,Alter Ego,False
+15,AE,Nafari,Staff,,Indonesia,Analyst,Alter Ego,False
+15,BTR,Luke,Main,EXP,Indonesia,,Bigetron Esports,False
+15,BTR,Anavel,Main,Jungle,Indonesia,,Bigetron Esports,False
+15,BTR,Moreno,Main,Mid,Indonesia,,Bigetron Esports,False
+15,BTR,EMANN,Main,Gold,Philippines,,Bigetron Esports,False
+15,BTR,Light,Main,Roam,Philippines,,Bigetron Esports,False
+15,BTR,Finn,Subs,Roam,Indonesia,,Bigetron Esports,False
+15,BTR,Barbossa,Subs,,Indonesia,DNP,Bigetron Esports,False
+15,BTR,Super_Kenn,Former,Jungle,Indonesia,Left,Bigetron Esports,False
+15,BTR,E2MAX,Staff,,Philippines,Head Coach,Bigetron Esports,False
+15,BTR,Tazy,Staff,,Indonesia,Assistant Coach,Bigetron Esports,False
+15,BTR,Theonael,Staff,,Indonesia,Analyst,Bigetron Esports,False
+15,BTR,Barbossa,Staff,,Indonesia,Analyst,Bigetron Esports,False
+15,DEWA,Xorizo,Main,EXP,Indonesia,,Dewa United Esports,False
+15,DEWA,Reyy,Main,Jungle,Indonesia,,Dewa United Esports,False
+15,DEWA,Octa,Main,Mid,Indonesia,,Dewa United Esports,False
+15,DEWA,Maybeee,Main,Gold,Indonesia,,Dewa United Esports,False
+15,DEWA,Muezzaa,Main,Roam,Indonesia,,Dewa United Esports,False
+15,DEWA,Rezzz,Subs,EXP,Indonesia,,Dewa United Esports,False
+15,DEWA,Vanz,Subs,Jungle,Indonesia,,Dewa United Esports,False
+15,DEWA,Spencer,Subs,Mid,Indonesia,,Dewa United Esports,False
+15,DEWA,Azuraa,Subs,Gold,Indonesia,,Dewa United Esports,False
+15,DEWA,KESUUU,Subs,Roam,Indonesia,,Dewa United Esports,False
+15,DEWA,BomBi,Staff,,Philippines,Head Coach,Dewa United Esports,False
+15,DEWA,Watt,Staff,,Indonesia,Coach,Dewa United Esports,False
+15,DEWA,Super_Kurt,Staff,,Philippines,Analyst,Dewa United Esports,False
+15,EVOS,Fluffy,Main,EXP,Indonesia,,EVOS,False
+15,EVOS,Alberttt,Main,Jungle,Indonesia,,EVOS,False
+15,EVOS,SwayLow,Main,Mid,Indonesia,,EVOS,False
+15,EVOS,Erlan,Main,Gold,Indonesia,,EVOS,False
+15,EVOS,Kyy,Main,Roam,Indonesia,,EVOS,False
+15,EVOS,Branz,Subs,Gold,Indonesia,,EVOS,False
+15,EVOS,Natco,Subs,Flex,Indonesia,,EVOS,False
+15,EVOS,Bondolz,Former,Mid,Indonesia,Left,EVOS,False
+15,EVOS,Aville,Staff,,Indonesia,Head Coach,EVOS,False
+15,EVOS,Caleb,Staff,,Indonesia,Analyst,EVOS,False
+15,EVOS,TaxStump,Staff,,Indonesia,Analyst,EVOS,False
+15,GEEK,Gobs,Main,EXP,Indonesia,,Geek Fam ID,False
+15,GEEK,Maykids,Main,Jungle,Indonesia,,Geek Fam ID,False
+15,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+15,GEEK,KennzyySkie,Main,Gold,Indonesia,,Geek Fam ID,False
+15,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+15,GEEK,Caderaa,Subs,Gold,Indonesia,,Geek Fam ID,False
+15,GEEK,Bluffzy,Staff,,Philippines,Head Coach,Geek Fam ID,False
+15,GEEK,Dora,Staff,,Indonesia,Coach,Geek Fam ID,False
+15,NAVI,Bq_syaii,Main,EXP,Indonesia,,Natus Vincere,False
+15,NAVI,Woshipaul,Main,Jungle,Indonesia,,Natus Vincere,False
+15,NAVI,XMagic,Main,Mid,Indonesia,,Natus Vincere,False
+15,NAVI,Xyve,Main,Gold,Indonesia,,Natus Vincere,False
+15,NAVI,Karss,Main,Roam,Indonesia,,Natus Vincere,False
+15,NAVI,Febbb,Subs,EXP,Indonesia,,Natus Vincere,False
+15,NAVI,Aether,Subs,Jungle,Indonesia,,Natus Vincere,False
+15,NAVI,HanafiTzy,Subs,Roam,Indonesia,,Natus Vincere,False
+15,NAVI,Zeonn,Former,Gold,Indonesia,Left,Natus Vincere,False
+15,NAVI,Aldo,Staff,,Indonesia,Head Coach,Natus Vincere,False
+15,NAVI,Raiden,Staff,,Indonesia,Analyst,Natus Vincere,False
+15,ONIC,Lutpiii,Main,EXP,Indonesia,,ONIC,True
+15,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,True
+15,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,True
+15,ONIC,Savero,Main,Gold,Indonesia,,ONIC,True
+15,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC,True
+15,ONIC,Ryota,Subs,EXP,Philippines,,ONIC,True
+15,ONIC,Nnael,Subs,Jungle,Indonesia,,ONIC,True
+15,ONIC,CW,Subs,Gold,Indonesia,,ONIC,True
+15,ONIC,Rezzz,Former,EXP,Indonesia,Left,ONIC,False
+15,ONIC,Yeb,Staff,,Philippines,Head Coach,ONIC,False
+15,ONIC,Adi,Staff,,Indonesia,Assistant Coach,ONIC,False
+15,ONIC,Paddington,Staff,,Indonesia,Analyst,ONIC,False
+15,RRQ,Dyrennn,Main,EXP,Indonesia,,RRQ Hoshi,False
+15,RRQ,Sutsujin,Main,Jungle,Indonesia,,RRQ Hoshi,False
+15,RRQ,Rinz,Main,Mid,Indonesia,,RRQ Hoshi,False
+15,RRQ,Toyy,Main,Gold,Indonesia,,RRQ Hoshi,False
+15,RRQ,Idok,Main,Roam,Indonesia,,RRQ Hoshi,False
+15,RRQ,Chenn,Subs,Jungle,Indonesia,,RRQ Hoshi,False
+15,RRQ,Hazle,Former,Jungle,Indonesia,Left,RRQ Hoshi,False
+15,RRQ,Khezcute,Staff,,Indonesia,Head Coach,RRQ Hoshi,False
+15,RRQ,Rave,Staff,,Indonesia,Assistant Coach,RRQ Hoshi,False
+15,RRQ,NMM,Staff,,Indonesia,Analyst,RRQ Hoshi,False
+15,TLID,Aran,Main,EXP,Indonesia,,Team Liquid ID,False
+15,TLID,Faviannn,Main,Jungle,Indonesia,,Team Liquid ID,False
+15,TLID,Yehezkiel,Main,Mid,Indonesia,,Team Liquid ID,False
+15,TLID,Kyou,Main,Gold,Indonesia,,Team Liquid ID,False
+15,TLID,Widy,Main,Roam,Indonesia,,Team Liquid ID,False
+15,TLID,AeronnShikii,Subs,Gold,Indonesia,,Team Liquid ID,False
+15,TLID,SaintDeLucaz,Staff,,Indonesia,Head Coach,Team Liquid ID,False
+15,TLID,Facehugger,Staff,,Indonesia,Analyst,Team Liquid ID,False
+16,AE,Nino,Main,EXP,Indonesia,,Alter Ego,False
+16,AE,Yazukee,Main,Jungle,Indonesia,,Alter Ego,False
+16,AE,Hijumee,Main,Mid,Indonesia,,Alter Ego,False
+16,AE,Arfy,Main,Gold,Indonesia,,Alter Ego,False
+16,AE,Alekk,Main,Roam,Indonesia,,Alter Ego,False
+16,AE,Rinee,Subs,Jungle,Indonesia,,Alter Ego,False
+16,AE,Cyruz,Subs,Mid,Indonesia,,Alter Ego,False
+16,AE,Ivann,Subs,Roam,Indonesia,,Alter Ego,False
+16,AE,Xepher,Staff,,Indonesia,Head Coach,Alter Ego,False
+16,AE,Styx,Staff,,Indonesia,Assistant Coach,Alter Ego,False
+16,BTR,Shogun,Main,EXP,Indonesia,,Bigetron by Vitality,False
+16,BTR,Nnael,Main,Jungle,Indonesia,,Bigetron by Vitality,False
+16,BTR,Moreno,Main,Mid,Indonesia,,Bigetron by Vitality,False
+16,BTR,EMANN,Main,Gold,Philippines,,Bigetron by Vitality,False
+16,BTR,Finn,Main,Roam,Indonesia,,Bigetron by Vitality,False
+16,BTR,Ronn,Subs,Jungle,Indonesia,,Bigetron by Vitality,False
+16,BTR,Bam,Staff,,Philippines,Head Coach,Bigetron by Vitality,False
+16,BTR,Erpang,Staff,,Indonesia,Assistant Coach,Bigetron by Vitality,False
+16,BTR,Barbossa,Staff,,Indonesia,Analyst,Bigetron by Vitality,False
+16,DEWA,QINN,Main,EXP,Philippines,,Dewa United Esports,False
+16,DEWA,Reyy,Main,Jungle,Indonesia,,Dewa United Esports,False
+16,DEWA,Octa,Main,Mid,Indonesia,,Dewa United Esports,False
+16,DEWA,Maybeee,Main,Gold,Indonesia,,Dewa United Esports,False
+16,DEWA,Muezzaa,Main,Roam,Indonesia,,Dewa United Esports,False
+16,DEWA,Markk,Subs,EXP,Indonesia,,Dewa United Esports,False
+16,DEWA,Vanz,Subs,Jungle,Indonesia,,Dewa United Esports,False
+16,DEWA,Right,Staff,,Philippines,Head Coach,Dewa United Esports,False
+16,DEWA,Wongcoco,Staff,,Indonesia,Analyst,Dewa United Esports,False
+16,EVOS,Rendyy,Main,EXP,Indonesia,,EVOS,False
+16,EVOS,Alberttt,Main,Jungle,Indonesia,,EVOS,False
+16,EVOS,SwayLow,Main,Mid,Indonesia,,EVOS,False
+16,EVOS,Erlan,Main,Gold,Indonesia,,EVOS,False
+16,EVOS,Kyy,Main,Roam,Indonesia,,EVOS,False
+16,EVOS,Xorizo,Subs,EXP,Indonesia,,EVOS,False
+16,EVOS,RoundeL,Subs,Mid,Indonesia,,EVOS,False
+16,EVOS,Branz,Subs,Gold,Indonesia,,EVOS,False
+16,EVOS,VYN,Staff,,Indonesia,Coach,EVOS,False
+16,EVOS,Bravo,Staff,,Indonesia,Analyst,EVOS,False
+16,GEEK,Gobs,Main,EXP,Indonesia,,Geek Fam ID,False
+16,GEEK,Maykids,Main,Jungle,Indonesia,,Geek Fam ID,False
+16,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+16,GEEK,KennzyySkie,Main,Gold,Indonesia,,Geek Fam ID,False
+16,GEEK,Baloyskie,Main,Roam,Philippines,,Geek Fam ID,False
+16,GEEK,Zeltron,Subs,Gold,Indonesia,,Geek Fam ID,False
+16,GEEK,Dora,Staff,,Indonesia,Head Coach,Geek Fam ID,False
+16,GEEK,Bluffzy,Staff,,Philippines,Assistant Coach,Geek Fam ID,False
+16,NAVI,Karss,Main,EXP,Indonesia,,Natus Vincere,False
+16,NAVI,Andoryuuu,Main,Jungle,Philippines,,Natus Vincere,False
+16,NAVI,UK1R,Main,Mid,Philippines,,Natus Vincere,False
+16,NAVI,Xyve,Main,Gold,Indonesia,,Natus Vincere,False
+16,NAVI,Aprho,Main,Roam,Indonesia,,Natus Vincere,False
+16,NAVI,Woshipaul,Subs,Jungle,Indonesia,,Natus Vincere,False
+16,NAVI,XMagic,Subs,Mid,Indonesia,,Natus Vincere,False
+16,NAVI,Kazeemen,Former,Flex,Indonesia,Left,Natus Vincere,False
+16,NAVI,Aldo,Staff,,Indonesia,Coach,Natus Vincere,False
+16,NAVI,Jacklee,Staff,,Indonesia,Assistant Coach,Natus Vincere,False
+16,ONIC,Lutpiii,Main,EXP,Indonesia,,ONIC,True
+16,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,True
+16,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,True
+16,ONIC,Skylar,Main,Gold,Indonesia,,ONIC,True
+16,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC,True
+16,ONIC,Savero,Subs,Gold,Indonesia,,ONIC,True
+16,ONIC,Adi,Staff,,Indonesia,Head Coach,ONIC,False
+16,ONIC,CW,Staff,,Indonesia,Assistant Coach,ONIC,False
+16,ONIC,Paddington,Staff,,Indonesia,Analyst,ONIC,False
+16,RRQ,Dyrennn,Main,EXP,Indonesia,,RRQ Hoshi,False
+16,RRQ,Sutsujin,Main,Jungle,Indonesia,,RRQ Hoshi,False
+16,RRQ,Rinz,Main,Mid,Indonesia,,RRQ Hoshi,False
+16,RRQ,Toyy,Main,Gold,Indonesia,,RRQ Hoshi,False
+16,RRQ,Idok,Main,Roam,Indonesia,,RRQ Hoshi,False
+16,RRQ,Rezzz,Subs,EXP,Indonesia,,RRQ Hoshi,False
+16,RRQ,Zunesh,Subs,Jungle,Indonesia,,RRQ Hoshi,False
+16,RRQ,Ferxiic,Subs,Jungle,Indonesia,,RRQ Hoshi,False
+16,RRQ,Khezcute,Staff,,Indonesia,Head Coach,RRQ Hoshi,False
+16,RRQ,Rave,Staff,,Indonesia,Assistant Coach,RRQ Hoshi,False
+16,RRQ,NMM,Staff,,Indonesia,Analyst,RRQ Hoshi,False
+16,TLID,Aran,Main,EXP,Indonesia,,Team Liquid ID,False
+16,TLID,JOOOOO,Main,Jungle,Indonesia,,Team Liquid ID,False
+16,TLID,Yehezkiel,Main,Mid,Indonesia,,Team Liquid ID,False
+16,TLID,Kabuki,Main,Gold,Indonesia,,Team Liquid ID,False
+16,TLID,Widy,Main,Roam,Indonesia,,Team Liquid ID,False
+16,TLID,Faviannn,Subs,Mid,Indonesia,,Team Liquid ID,False
+16,TLID,Kyou,Subs,Gold,Indonesia,,Team Liquid ID,False
+16,TLID,AeronnShikii,Subs,Gold,Indonesia,DNP,Team Liquid ID,False
+16,TLID,Firzaa,Former,Roam,Indonesia,Left,Team Liquid ID,False
+16,TLID,SaintDeLucaz,Staff,,Indonesia,Head Coach,Team Liquid ID,False
+16,TLID,Facehugger,Staff,,Indonesia,Analyst,Team Liquid ID,False
+17,AE,Nino,Main,EXP,Indonesia,Captain,Alter Ego,False
+17,AE,Yazukee,Main,Jungle,Indonesia,,Alter Ego,False
+17,AE,Hijumee,Main,Mid,Indonesia,,Alter Ego,False
+17,AE,Arfy,Main,Gold,Indonesia,,Alter Ego,False
+17,AE,Alekk,Main,Roam,Indonesia,,Alter Ego,False
+17,AE,Reyy,Subs,Jungle,Indonesia,,Alter Ego,False
+17,AE,Cyruz,Subs,Mid,Indonesia,,Alter Ego,False
+17,AE,Xepher,Staff,,Indonesia,Head Coach,Alter Ego,False
+17,AE,Styx,Staff,,Indonesia,Assistant Coach,Alter Ego,False
+17,BTR,Shogun,Main,EXP,Indonesia,Vice Captain,Bigetron by Vitality,True
+17,BTR,Nnael,Main,Jungle,Indonesia,,Bigetron by Vitality,True
+17,BTR,Moreno,Main,Mid,Indonesia,Captain,Bigetron by Vitality,True
+17,BTR,EMANN,Main,Gold,Philippines,,Bigetron by Vitality,True
+17,BTR,Finn,Main,Roam,Indonesia,,Bigetron by Vitality,True
+17,BTR,Ryzaa,Subs,Mid,Indonesia,,Bigetron by Vitality,True
+17,BTR,Pinnn,Subs,Gold,Indonesia,,Bigetron by Vitality,True
+17,BTR,Lynchh,Former,EXP,Indonesia,Left,Bigetron by Vitality,False
+17,BTR,Theonael,Staff,,Indonesia,Head Coach,Bigetron by Vitality,False
+17,BTR,K_Dot,Staff,,Indonesia,Assistant Coach,Bigetron by Vitality,False
+17,BTR,Erpang,Staff,,Indonesia,Analyst,Bigetron by Vitality,False
+17,BTR,Her,Staff,,Indonesia,Analyst,Bigetron by Vitality,False
+17,DEWA,QINN,Main,EXP,Philippines,,Dewa United Esports,False
+17,DEWA,Dolynn,Main,Jungle,Indonesia,,Dewa United Esports,False
+17,DEWA,Octa,Main,Mid,Indonesia,,Dewa United Esports,False
+17,DEWA,Maybeee,Main,Gold,Indonesia,,Dewa United Esports,False
+17,DEWA,Muezzaa,Main,Roam,Indonesia,,Dewa United Esports,False
+17,DEWA,Kayn,Subs,Jungle,Philippines,,Dewa United Esports,False
+17,DEWA,KESUUU,Subs,Roam,Indonesia,,Dewa United Esports,False
+17,DEWA,Right,Staff,,Philippines,Head Coach,Dewa United Esports,False
+17,DEWA,Raiden,Staff,,Indonesia,Assistant Coach,Dewa United Esports,False
+17,DEWA,Wongcoco,Staff,,Indonesia,Analyst,Dewa United Esports,False
+17,EVOS,Luke,Main,EXP,Indonesia,,EVOS,False
+17,EVOS,Alberttt,Main,Jungle,Indonesia,,EVOS,False
+17,EVOS,Pheww,Main,Mid,Philippines,,EVOS,False
+17,EVOS,Erlan,Main,Gold,Indonesia,,EVOS,False
+17,EVOS,Kyy,Main,Roam,Indonesia,,EVOS,False
+17,EVOS,Vell,Subs,EXP,Indonesia,,EVOS,False
+17,EVOS,Treacky,Subs,Mid,Indonesia,,EVOS,False
+17,EVOS,EgaTzy,Subs,Roam,Indonesia,,EVOS,False
+17,EVOS,VYN,Staff,,Indonesia,Head Coach,EVOS,False
+17,EVOS,Bravo,Staff,,Indonesia,Analyst,EVOS,False
+17,GEEK,MarceL,Main,EXP,Indonesia,,Geek Fam ID,False
+17,GEEK,Nazara,Main,Jungle,Indonesia,,Geek Fam ID,False
+17,GEEK,A_B_O_Y,Main,Mid,Indonesia,,Geek Fam ID,False
+17,GEEK,KennzyySkie,Main,Gold,Indonesia,,Geek Fam ID,False
+17,GEEK,Baloyskie,Main,Roam,Philippines,Captain,Geek Fam ID,False
+17,GEEK,Asune,Subs,Roam,Indonesia,DNP,Geek Fam ID,False
+17,GEEK,Ye3,Former,EXP,Malaysia,Left,Geek Fam ID,False
+17,GEEK,Maykids,Former,Jungle,Indonesia,Left,Geek Fam ID,False
+17,GEEK,MxMoore,Staff,,Indonesia,Head Coach,Geek Fam ID,False
+17,GEEK,Vivy,Staff,,Indonesia,Assistant Coach,Geek Fam ID,False
+17,GEEK,Frizzyyy,Staff,,Indonesia,Analyst,Geek Fam ID,False
+17,NAVI,Karss,Main,EXP,Indonesia,,Natus Vincere,False
+17,NAVI,Andoryuuu,Main,Jungle,Philippines,,Natus Vincere,False
+17,NAVI,UK1R,Main,Mid,Philippines,,Natus Vincere,False
+17,NAVI,Xyve,Main,Gold,Indonesia,,Natus Vincere,False
+17,NAVI,Aprho,Main,Roam,Indonesia,,Natus Vincere,False
+17,NAVI,H_a_n,Subs,Jungle,Indonesia,DNP,Natus Vincere,False
+17,NAVI,XMagic,Subs,Mid,Indonesia,DNP,Natus Vincere,False
+17,NAVI,Jizeezeze,Subs,Mid,Indonesia,,Natus Vincere,False
+17,NAVI,Zeonn,Subs,Gold,Indonesia,,Natus Vincere,False
+17,NAVI,YnoT,Staff,,Philippines,Head Coach,Natus Vincere,False
+17,NAVI,Jacklee,Staff,,Indonesia,Assistant Coach,Natus Vincere,False
+17,ONIC,Lutpiii,Main,EXP,Indonesia,,ONIC,False
+17,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,False
+17,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,False
+17,ONIC,Kelra,Main,Gold,Philippines,,ONIC,False
+17,ONIC,Kiboy,Main,Roam,Indonesia,,ONIC,False
+17,ONIC,SamueL,Subs,Roam,Indonesia,DNP,ONIC,False
+17,ONIC,CW,Staff,,Indonesia,Head Coach,ONIC,False
+17,ONIC,Yeb,Staff,,Philippines,Assistant Coach,ONIC,False
+17,ONIC,Paddington,Staff,,Indonesia,Analyst,ONIC,False
+17,RRQ,Dan,Main,EXP,Philippines,,RRQ Hoshi,False
+17,RRQ,Super_Kenn,Main,Jungle,Indonesia,,RRQ Hoshi,False
+17,RRQ,Yehezkiel,Main,Mid,Indonesia,,RRQ Hoshi,False
+17,RRQ,Toyy,Main,Gold,Indonesia,,RRQ Hoshi,False
+17,RRQ,Idok,Main,Roam,Indonesia,,RRQ Hoshi,False
+17,RRQ,Rinz,Subs,Mid,Indonesia,,RRQ Hoshi,False
+17,RRQ,KurooKy,Subs,Gold,Indonesia,,RRQ Hoshi,False
+17,RRQ,Khezcute,Staff,,Indonesia,Head Coach,RRQ Hoshi,False
+17,RRQ,NMM,Staff,,Indonesia,Assistant Coach,RRQ Hoshi,False
+17,RRQ,Pauuu,Staff,,Philippines,Analyst,RRQ Hoshi,False
+17,TLID,Aran,Main,EXP,Indonesia,Captain,Team Liquid ID,False
+17,TLID,JOOOOO,Main,Jungle,Indonesia,,Team Liquid ID,False
+17,TLID,Drichel,Main,Mid,Indonesia,,Team Liquid ID,False
+17,TLID,Kyou,Main,Gold,Indonesia,,Team Liquid ID,False
+17,TLID,Lyoni,Main,Roam,Indonesia,,Team Liquid ID,False
+17,TLID,Aredlavv,Subs,EXP,Indonesia,DNP,Team Liquid ID,False
+17,TLID,Honjaw,Staff,,Indonesia,Head Coach,Team Liquid ID,False
+17,TLID,Facehugger,Staff,,Indonesia,Analyst,Team Liquid ID,False
+18,AE,Nino,Main,EXP,Indonesia,Captain,Alter Ego,False
+18,AE,Yazukee,Main,Jungle,Indonesia,,Alter Ego,False
+18,AE,Hijumee,Main,Mid,Indonesia,,Alter Ego,False
+18,AE,Arfy,Main,Gold,Indonesia,,Alter Ego,False
+18,AE,Alekk,Main,Roam,Indonesia,,Alter Ego,False
+18,AE,Reyy,Subs,Jungle,Indonesia,DNP,Alter Ego,False
+18,AE,Cyruz,Subs,Mid,Indonesia,DNP,Alter Ego,False
+18,AE,Ivann,Subs,Roam,Indonesia,DNP,Alter Ego,False
+18,AE,Xepher,Staff,,Indonesia,Head Coach,Alter Ego,False
+18,AE,Styx,Staff,,Indonesia,Assistant Coach,Alter Ego,False
+18,BTR,Shogun,Main,EXP,Indonesia,Vice Captain,Bigetron by Vitality,False
+18,BTR,Nnael,Main,Jungle,Indonesia,,Bigetron by Vitality,False
+18,BTR,Moreno,Main,Mid,Indonesia,Captain,Bigetron by Vitality,False
+18,BTR,EMANN,Main,Gold,Philippines,,Bigetron by Vitality,False
+18,BTR,Finn,Main,Roam,Indonesia,,Bigetron by Vitality,False
+18,BTR,Miguel_(Indonesian_player),Subs,Flex,Indonesia,DNP,Bigetron by Vitality,False
+18,BTR,K_Dot,Staff,,Indonesia,Head Coach,Bigetron by Vitality,False
+18,BTR,Rubenhood,Staff,,Indonesia,Assistant Coach,Bigetron by Vitality,False
+18,BTR,Her,Staff,,Indonesia,Analyst,Bigetron by Vitality,False
+18,EVOS,Rendyy,Main,EXP,Indonesia,,EVOS,False
+18,EVOS,Alberttt,Main,Jungle,Indonesia,,EVOS,False
+18,EVOS,Ryzaa,Main,Mid,Indonesia,,EVOS,False
+18,EVOS,Erlan,Main,Gold,Indonesia,,EVOS,False
+18,EVOS,Muezzaa,Main,Roam,Indonesia,,EVOS,False
+18,EVOS,Vell,Subs,EXP,Indonesia,,EVOS,False
+18,EVOS,DrianW,Former,Mid,Indonesia,Left,EVOS,False
+18,EVOS,Bravo,Former,,Indonesia,Left,EVOS,False
+18,EVOS,Aldo,Staff,,Indonesia,Head Coach,EVOS,False
+18,EVOS,SamoHt,Staff,,Indonesia,Analyst,EVOS,False
+18,DEWA,QINN,Main,EXP,Philippines,,Dewa United Esports,False
+18,DEWA,Hazle,Main,Jungle,Indonesia,,Dewa United Esports,False
+18,DEWA,Octa,Main,Mid,Indonesia,,Dewa United Esports,False
+18,DEWA,Maybeee,Main,Gold,Indonesia,,Dewa United Esports,False
+18,DEWA,KESUUU,Main,Roam,Indonesia,,Dewa United Esports,False
+18,DEWA,Shane,Subs,Roam,Indonesia,,Dewa United Esports,False
+18,DEWA,RuL_Good,Subs,Flex,Indonesia,DNP,Dewa United Esports,False
+18,DEWA,Kayn,Former,Jungle,Philippines,Left,Dewa United Esports,False
+18,DEWA,Right,Staff,,Philippines,Head Coach,Dewa United Esports,False
+18,DEWA,Link,Staff,,Philippines,Assistant Coach,Dewa United Esports,False
+18,DEWA,Okky,Staff,,Indonesia,Analyst,Dewa United Esports,False
+18,GEEK,MarceL,Main,EXP,Indonesia,,Geek Fam ID,False
+18,GEEK,Nazara,Main,Jungle,Indonesia,,Geek Fam ID,False
+18,GEEK,A_B_O_Y,Main,Mid,Indonesia,Captain,Geek Fam ID,False
+18,GEEK,KennzyySkie,Main,Gold,Indonesia,,Geek Fam ID,False
+18,GEEK,Frenzyy,Main,Roam,Indonesia,,Geek Fam ID,False
+18,GEEK,Febriii,Subs,EXP,Indonesia,,Geek Fam ID,False
+18,GEEK,Maykids,Subs,Jungle,Indonesia,,Geek Fam ID,False
+18,GEEK,AudyTzy,Former,Roam,Indonesia,Left,Geek Fam ID,False
+18,GEEK,Erpang,Staff,,Indonesia,Head Coach,Geek Fam ID,False
+18,GEEK,Vivy,Staff,,Indonesia,Assistant Coach,Geek Fam ID,False
+18,NAVI,Karss,Main,EXP,Indonesia,Captain,Natus Vincere,False
+18,NAVI,Coolfire,Main,Jungle,Indonesia,,Natus Vincere,False
+18,NAVI,Jizeezeze,Main,Mid,Indonesia,,Natus Vincere,False
+18,NAVI,Zeonn,Main,Gold,Indonesia,,Natus Vincere,False
+18,NAVI,Aprho,Main,Roam,Indonesia,,Natus Vincere,False
+18,NAVI,Febbb,Subs,EXP,Indonesia,DNP,Natus Vincere,False
+18,NAVI,Andoryuuu,Subs,Jungle,Philippines,,Natus Vincere,False
+18,NAVI,YnoT,Staff,,Philippines,Head Coach,Natus Vincere,False
+18,NAVI,Jacklee,Staff,,Indonesia,Assistant Coach,Natus Vincere,False
+18,NAVI,H_a_n,Staff,,Indonesia,Analyst,Natus Vincere,False
+18,ONIC,Lutpiii,Main,EXP,Indonesia,,ONIC,False
+18,ONIC,Kairi,Main,Jungle,Philippines,,ONIC,False
+18,ONIC,S_A_N_Z,Main,Mid,Indonesia,,ONIC,False
+18,ONIC,Kelra,Main,Gold,Philippines,,ONIC,False
+18,ONIC,Kiboy,Main,Roam,Indonesia,Captain,ONIC,False
+18,ONIC,SamueL,Subs,Roam,Indonesia,,ONIC,False
+18,ONIC,CW,Staff,,Indonesia,Head Coach,ONIC,False
+18,ONIC,Baloyskie,Staff,,Philippines,Assistant Coach,ONIC,False
+18,RRQ,Lynchh,Main,EXP,Indonesia,,RRQ Hoshi,False
+18,RRQ,Demonkite,Main,Jungle,Philippines,,RRQ Hoshi,False
+18,RRQ,Rinz,Main,Mid,Indonesia,,RRQ Hoshi,False
+18,RRQ,Sutsujin,Main,Gold,Indonesia,,RRQ Hoshi,False
+18,RRQ,Idok,Main,Roam,Indonesia,,RRQ Hoshi,False
+18,RRQ,Clayyy,Subs,Mid,Indonesia,,RRQ Hoshi,False
+18,RRQ,KurooKy,Subs,Gold,Indonesia,DNP,RRQ Hoshi,False
+18,RRQ,Excellent99,Subs,Roam,Indonesia,,RRQ Hoshi,False
+18,RRQ,Adi,Staff,,Indonesia,Head Coach,RRQ Hoshi,False
+18,RRQ,Caleb,Staff,,Indonesia,Assistant Coach,RRQ Hoshi,False
+18,TLID,Aran,Main,EXP,Indonesia,Captain,Team Liquid ID,False
+18,TLID,JOOOOO,Main,Jungle,Indonesia,,Team Liquid ID,False
+18,TLID,Drichel,Main,Mid,Indonesia,,Team Liquid ID,False
+18,TLID,Jull,Main,Gold,Indonesia,,Team Liquid ID,False
+18,TLID,Lyoni,Main,Roam,Indonesia,,Team Liquid ID,False
+18,TLID,NenShikii,Subs,Mid,Indonesia,DNP,Team Liquid ID,False
+18,TLID,Honjaw,Staff,,Indonesia,Head Coach,Team Liquid ID,False
+18,TLID,Facehugger,Staff,,Indonesia,Analyst,Team Liquid ID,False

@@ -1,0 +1,13 @@
+{
+  "source": "https://id-mpl.com",
+  "scraped_at_utc": "2026-09-17T03:47:39+00:00",
+  "rows": {
+    "standings": 9,
+    "schedule": 72,
+    "schedule_tickets": 28,
+    "team_records": 9,
+    "team_stats": 9,
+    "player_stats": 62,
+    "hero_stats": 133
+  }
+}

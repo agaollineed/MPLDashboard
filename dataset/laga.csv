@@ -1,0 +1,681 @@
+﻿laga_id,season,stage,week,ronde,tanggal,jam,timestamp,kode1,kode2,skor1,skor2,status,format,mvp,sumber,mvp_pemain_id
+S10P001,10,playoff,,Upper Bracket Quarterfinals,2022-10-19,13:30,1666161000,AE,AURA,2,3,selesai,Bo5,,liquipedia,
+S10P002,10,playoff,,Upper Bracket Quarterfinals,2022-10-19,18:30,1666179000,BTR,RBL,3,0,selesai,Bo5,,liquipedia,
+S10P003,10,playoff,,Upper Bracket Semifinals,2022-10-20,13:30,1666247400,RRQ,AURA,3,2,selesai,Bo5,,liquipedia,
+S10P004,10,playoff,,Upper Bracket Semifinals,2022-10-20,18:30,1666265400,ONIC,BTR,3,1,selesai,Bo5,,liquipedia,
+S10P005,10,playoff,,Lower Bracket Semifinals,2022-10-21,13:30,1666333800,AURA,BTR,3,0,selesai,Bo5,,liquipedia,
+S10P006,10,playoff,,Upper Bracket Final,2022-10-21,18:30,1666351800,RRQ,ONIC,3,1,selesai,Bo5,,liquipedia,
+S10P007,10,playoff,,Lower Bracket Final,2022-10-22,16:30,1666431000,ONIC,AURA,3,0,selesai,Bo5,,liquipedia,
+S10P008,10,playoff,,Grand Final,2022-10-23,16:30,1666517400,RRQ,ONIC,1,4,selesai,Bo7,,liquipedia,
+S10R001,10,reguler,1,,2022-08-12,15:00,1660291200,GEEK,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S10R002,10,reguler,1,,2022-08-12,17:30,1660300200,RBL,BTR,0,2,selesai,,Xorizo,liquipedia,Xorizo
+S10R003,10,reguler,1,,2022-08-13,13:00,1660370400,AE,GEEK,2,0,selesai,,Nino,liquipedia,Nino
+S10R004,10,reguler,1,,2022-08-13,15:30,1660379400,ONIC,RBL,2,0,selesai,,Kairi,liquipedia,Kairi
+S10R005,10,reguler,1,,2022-08-13,18:00,1660388400,BTR,EVOS,0,2,selesai,,Ferxiic,liquipedia,Ferxiic
+S10R006,10,reguler,1,,2022-08-14,15:00,1660464000,AE,RRQ,0,2,selesai,,Skylar,liquipedia,Skylar
+S10R007,10,reguler,1,,2022-08-14,17:30,1660473000,EVOS,AURA,0,2,selesai,,Kabuki,liquipedia,Kabuki
+S10R008,10,reguler,2,,2022-08-19,15:00,1660896000,AURA,ONIC,1,2,selesai,,Butsss,liquipedia,Butss
+S10R009,10,reguler,2,,2022-08-19,17:30,1660905000,AE,RBL,2,1,selesai,,Nino,liquipedia,Nino
+S10R010,10,reguler,2,,2022-08-20,13:00,1660975200,BTR,AURA,1,2,selesai,,FACEHUGGER,liquipedia,Facehugger
+S10R011,10,reguler,2,,2022-08-20,15:30,1660984200,GEEK,EVOS,0,2,selesai,,Clover,liquipedia,Clover
+S10R012,10,reguler,2,,2022-08-20,18:00,1660993200,ONIC,RRQ,1,2,selesai,,Alberttt,liquipedia,Alberttt
+S10R013,10,reguler,2,,2022-08-21,15:00,1661068800,GEEK,RBL,2,0,selesai,,Janaaqt,liquipedia,Hadess
+S10R014,10,reguler,2,,2022-08-21,17:30,1661077800,BTR,RRQ,1,2,selesai,,Alberttt,liquipedia,Alberttt
+S10R015,10,reguler,3,,2022-08-26,15:00,1661500800,AURA,AE,2,1,selesai,,god1va,liquipedia,God1va
+S10R016,10,reguler,3,,2022-08-26,17:30,1661509800,EVOS,ONIC,2,1,selesai,,Sutsujin,liquipedia,Sutsujin
+S10R017,10,reguler,3,,2022-08-27,13:00,1661580000,RBL,AURA,2,1,selesai,,HAIZZ,liquipedia,Haiz
+S10R018,10,reguler,3,,2022-08-27,15:30,1661589000,BTR,AE,1,2,selesai,,Udil,liquipedia,Udil
+S10R019,10,reguler,3,,2022-08-27,18:00,1661598000,RRQ,EVOS,0,2,selesai,,Sutsujin,liquipedia,Sutsujin
+S10R020,10,reguler,3,,2022-08-28,15:00,1661673600,GEEK,ONIC,0,2,selesai,,CW,liquipedia,CW
+S10R021,10,reguler,3,,2022-08-28,17:30,1661682600,RRQ,RBL,0,2,selesai,,HAIZZ,liquipedia,Haiz
+S10R022,10,reguler,4,,2022-09-02,15:00,1662105600,AURA,GEEK,2,1,selesai,,Kabuki,liquipedia,Kabuki
+S10R023,10,reguler,4,,2022-09-02,17:30,1662114600,ONIC,BTR,2,0,selesai,,CW,liquipedia,CW
+S10R024,10,reguler,4,,2022-09-03,13:00,1662184800,AURA,RRQ,2,0,selesai,,FACEHUGGER,liquipedia,Facehugger
+S10R025,10,reguler,4,,2022-09-03,15:30,1662193800,EVOS,AE,1,2,selesai,,Udil,liquipedia,Udil
+S10R026,10,reguler,4,,2022-09-03,18:00,1662202800,GEEK,BTR,1,2,selesai,,Markyyyyy,liquipedia,Markyyyyy
+S10R027,10,reguler,4,,2022-09-04,15:00,1662278400,RBL,EVOS,0,2,selesai,,Sutsujin,liquipedia,Sutsujin
+S10R028,10,reguler,4,,2022-09-04,17:30,1662287400,AE,ONIC,1,2,selesai,,Kairi,liquipedia,Kairi
+S10R029,10,reguler,5,,2022-09-09,15:00,1662710400,AURA,EVOS,2,1,selesai,,Kabuki,liquipedia,Kabuki
+S10R030,10,reguler,5,,2022-09-09,17:30,1662719400,RRQ,BTR,2,0,selesai,,Skylar,liquipedia,Skylar
+S10R031,10,reguler,5,,2022-09-10,13:00,1662789600,GEEK,AE,2,0,selesai,,Caderaa,liquipedia,Caderaa
+S10R032,10,reguler,5,,2022-09-10,15:30,1662798600,BTR,RBL,2,1,selesai,,Kyy,liquipedia,Kyy
+S10R033,10,reguler,5,,2022-09-10,18:00,1662807600,RRQ,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S10R034,10,reguler,5,,2022-09-11,15:00,1662883200,RBL,AE,2,0,selesai,,Fearless,liquipedia,Fearless
+S10R035,10,reguler,5,,2022-09-11,17:30,1662892200,ONIC,AURA,2,1,selesai,,CW,liquipedia,CW
+S10R036,10,reguler,6,,2022-09-16,15:00,1663315200,RBL,ONIC,1,2,selesai,,CW,liquipedia,CW
+S10R037,10,reguler,6,,2022-09-16,18:15,1663326900,AE,EVOS,2,0,selesai,,Nino,liquipedia,Nino
+S10R038,10,reguler,6,,2022-09-17,13:00,1663394400,RRQ,GEEK,2,0,selesai,,Alberttt,liquipedia,Alberttt
+S10R039,10,reguler,6,,2022-09-17,16:00,1663405200,AURA,BTR,0,2,selesai,,MAXXX,liquipedia,Maxx
+S10R040,10,reguler,6,,2022-09-17,19:00,1663416000,EVOS,RBL,0,2,selesai,,Fearless,liquipedia,Fearless
+S10R041,10,reguler,6,,2022-09-18,15:00,1663488000,BTR,GEEK,2,1,selesai,,MAXXX,liquipedia,Maxx
+S10R042,10,reguler,6,,2022-09-18,18:15,1663499700,RRQ,AURA,2,0,selesai,,Clayyy,liquipedia,Clayyy
+S10R043,10,reguler,7,,2022-09-23,15:00,1663920000,AE,BTR,2,0,selesai,,Nino,liquipedia,Nino
+S10R044,10,reguler,7,,2022-09-23,18:15,1663931700,GEEK,AURA,2,1,selesai,,Lzuraaa,liquipedia,Lzuraa
+S10R045,10,reguler,7,,2022-09-24,13:00,1663999200,BTR,ONIC,2,1,selesai,,Kyy,liquipedia,Kyy
+S10R046,10,reguler,7,,2022-09-24,16:00,1664010000,RRQ,AE,2,1,selesai,,Skylar,liquipedia,Skylar
+S10R047,10,reguler,7,,2022-09-24,19:00,1664020800,EVOS,GEEK,1,2,selesai,,Caderaa,liquipedia,Caderaa
+S10R048,10,reguler,7,,2022-09-25,15:00,1664092800,RBL,RRQ,2,0,selesai,,Dyrennn,liquipedia,Dyrennn
+S10R049,10,reguler,7,,2022-09-25,18:15,1664104500,ONIC,EVOS,2,1,selesai,,Kairi,liquipedia,Kairi
+S10R050,10,reguler,8,,2022-09-30,15:00,1664524800,AE,AURA,2,0,selesai,,LeoMurphy,liquipedia,Leomurphy
+S10R051,10,reguler,8,,2022-09-30,18:15,1664536500,EVOS,BTR,0,2,selesai,,Markyyyyy,liquipedia,Markyyyyy
+S10R052,10,reguler,8,,2022-10-01,13:00,1664604000,ONIC,GEEK,2,1,selesai,,Butsss,liquipedia,Butss
+S10R053,10,reguler,8,,2022-10-01,16:00,1664614800,AURA,RBL,1,2,selesai,,SwayLow,liquipedia,SwayLow
+S10R054,10,reguler,8,,2022-10-01,19:00,1664625600,EVOS,RRQ,0,2,selesai,,VYN,liquipedia,VYN
+S10R055,10,reguler,8,,2022-10-02,15:00,1664697600,RBL,GEEK,1,2,selesai,,Janaaqt,liquipedia,Hadess
+S10R056,10,reguler,8,,2022-10-02,18:15,1664709300,ONIC,AE,2,1,selesai,,Kairi,liquipedia,Kairi
+S11P001,11,playoff,,Play-In (Bo5),2023-04-05,12:30,1680672600,BTR,AE,2,3,selesai,Bo5,,liquipedia,
+S11P002,11,playoff,,Play-In (Bo5),2023-04-05,18:30,1680694200,GEEK,EVOS,2,3,selesai,Bo5,,liquipedia,
+S11P003,11,playoff,,Upper Bracket SF (Bo5),2023-04-06,12:30,1680759000,RRQ,AE,1,3,selesai,Bo5,,liquipedia,
+S11P004,11,playoff,,Upper Bracket SF (Bo5),2023-04-06,18:30,1680780600,ONIC,EVOS,3,0,selesai,Bo5,,liquipedia,
+S11P005,11,playoff,,Lower Bracket SF (Bo5),2023-04-07,13:00,1680847200,RRQ,EVOS,2,3,selesai,Bo5,,liquipedia,
+S11P006,11,playoff,,Upper Bracket Final (Bo5),2023-04-07,18:45,1680867900,AE,ONIC,0,3,selesai,Bo5,,liquipedia,
+S11P007,11,playoff,,Lower Bracket Final (Bo5),2023-04-08,18:30,1680953400,AE,EVOS,2,3,selesai,Bo5,,liquipedia,
+S11P008,11,playoff,,Grand Final (Bo7),2023-04-09,16:00,1681030800,ONIC,EVOS,4,0,selesai,Bo7,,liquipedia,
+S11R001,11,reguler,1,,2023-02-17,14:00,1676617200,AURA,RBL,1,2,selesai,,Haiz,liquipedia,Haiz
+S11R002,11,reguler,1,,2023-02-17,17:00,1676628000,RRQ,BTR,2,0,selesai,,Skylar,liquipedia,Skylar
+S11R003,11,reguler,1,,2023-02-17,20:00,1676638800,GEEK,ONIC,1,2,selesai,,Kiboy,liquipedia,Kiboy
+S11R004,11,reguler,1,,2023-02-18,11:00,1676692800,AE,RRQ,0,2,selesai,,Lemon,liquipedia,Lemon
+S11R005,11,reguler,1,,2023-02-18,14:00,1676703600,AURA,GEEK,0,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S11R006,11,reguler,1,,2023-02-18,17:00,1676714400,RBL,EVOS,0,2,selesai,,Branz,liquipedia,Branz
+S11R007,11,reguler,1,,2023-02-18,20:00,1676725200,BTR,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S11R008,11,reguler,1,,2023-02-19,15:00,1676793600,EVOS,AE,2,0,selesai,,Branz,liquipedia,Branz
+S11R009,11,reguler,1,,2023-02-19,18:00,1676804400,BTR,AURA,2,1,selesai,,Gamora,liquipedia,Gamora
+S11R010,11,reguler,2,,2023-02-24,14:00,1677222000,EVOS,GEEK,2,1,selesai,,Tazz,liquipedia,Tazz
+S11R011,11,reguler,2,,2023-02-24,17:00,1677232800,ONIC,RRQ,2,0,selesai,,Kairi,liquipedia,Kairi
+S11R012,11,reguler,2,,2023-02-24,20:00,1677243600,AE,RBL,2,0,selesai,,PAI,liquipedia,Pai
+S11R013,11,reguler,2,,2023-02-25,11:00,1677297600,RRQ,AURA,2,0,selesai,,Skylar,liquipedia,Skylar
+S11R014,11,reguler,2,,2023-02-25,14:00,1677308400,ONIC,AE,2,1,selesai,,CW,liquipedia,CW
+S11R015,11,reguler,2,,2023-02-25,17:00,1677319200,EVOS,BTR,1,2,selesai,,Morenoo,liquipedia,Moreno
+S11R016,11,reguler,2,,2023-02-25,20:00,1677330000,GEEK,RBL,0,2,selesai,,Swaylow,liquipedia,SwayLow
+S11R017,11,reguler,2,,2023-02-26,15:00,1677398400,AURA,ONIC,1,2,selesai,,CW,liquipedia,CW
+S11R018,11,reguler,2,,2023-02-26,18:30,1677411000,RRQ,EVOS,2,1,selesai,,Skylar,liquipedia,Skylar
+S11R019,11,reguler,3,,2023-03-03,14:00,1677826800,GEEK,AE,2,0,selesai,,Aboy,liquipedia,A_B_O_Y
+S11R020,11,reguler,3,,2023-03-03,17:00,1677837600,RBL,BTR,2,1,selesai,,Haiz,liquipedia,Haiz
+S11R021,11,reguler,3,,2023-03-03,20:00,1677848400,EVOS,AURA,2,1,selesai,,Branz,liquipedia,Branz
+S11R022,11,reguler,3,,2023-03-04,11:00,1677902400,BTR,GEEK,1,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S11R023,11,reguler,3,,2023-03-04,14:00,1677913200,RBL,RRQ,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S11R024,11,reguler,3,,2023-03-04,17:00,1677924000,AE,AURA,0,2,selesai,,Kabuki,liquipedia,Kabuki
+S11R025,11,reguler,3,,2023-03-04,20:00,1677934800,ONIC,EVOS,2,1,selesai,,Kiboy,liquipedia,Kiboy
+S11R026,11,reguler,3,,2023-03-05,15:00,1678003200,AE,BTR,0,2,selesai,,Kyy,liquipedia,Kyy
+S11R027,11,reguler,3,,2023-03-05,18:00,1678014000,ONIC,RBL,2,0,selesai,,Kairi,liquipedia,Kairi
+S11R028,11,reguler,4,,2023-03-10,14:00,1678431600,GEEK,RRQ,2,1,selesai,,Caderaa,liquipedia,Caderaa
+S11R029,11,reguler,4,,2023-03-10,17:00,1678442400,AE,EVOS,2,0,selesai,,Nino,liquipedia,Nino
+S11R030,11,reguler,4,,2023-03-10,20:00,1678453200,RBL,AURA,2,0,selesai,,Haiz,liquipedia,Haiz
+S11R031,11,reguler,4,,2023-03-11,11:00,1678507200,RRQ,AE,1,2,selesai,,Nino,liquipedia,Nino
+S11R032,11,reguler,4,,2023-03-11,14:00,1678518000,GEEK,AURA,2,1,selesai,,LUKE,liquipedia,Luke
+S11R033,11,reguler,4,,2023-03-11,17:00,1678528800,ONIC,BTR,2,0,selesai,,CW,liquipedia,CW
+S11R034,11,reguler,4,,2023-03-11,20:00,1678539600,EVOS,RBL,2,0,selesai,,Hijumee,liquipedia,Hijumee
+S11R035,11,reguler,4,,2023-03-12,15:00,1678608000,ONIC,GEEK,2,1,selesai,,S A N Z,liquipedia,S_A_N_Z
+S11R036,11,reguler,4,,2023-03-12,18:00,1678618800,BTR,RRQ,2,1,selesai,,Kyy,liquipedia,Kyy
+S11R037,11,reguler,5,,2023-03-17,14:00,1679036400,GEEK,EVOS,2,0,selesai,,Baloyskie,liquipedia,Baloyskie
+S11R038,11,reguler,5,,2023-03-17,17:00,1679047200,AURA,BTR,0,2,selesai,,Morenoo,liquipedia,Moreno
+S11R039,11,reguler,5,,2023-03-17,20:00,1679058000,RRQ,ONIC,2,1,selesai,,Clayyy,liquipedia,Clayyy
+S11R040,11,reguler,5,,2023-03-18,11:00,1679112000,BTR,EVOS,1,2,selesai,,Branz,liquipedia,Branz
+S11R041,11,reguler,5,,2023-03-18,14:00,1679122800,AE,ONIC,0,2,selesai,,S A N Z,liquipedia,S_A_N_Z
+S11R042,11,reguler,5,,2023-03-18,17:00,1679133600,RBL,GEEK,1,2,selesai,,Caderaa,liquipedia,Caderaa
+S11R043,11,reguler,5,,2023-03-19,15:00,1679212800,RBL,AE,1,2,selesai,,Rasy,liquipedia,Rasy
+S11R044,11,reguler,5,,2023-03-19,18:00,1679223600,ONIC,AURA,2,1,selesai,,Kairi,liquipedia,Kairi
+S11R045,11,reguler,6,,2023-03-23,15:00,1679558400,EVOS,RRQ,1,2,selesai,,Clayyy,liquipedia,Clayyy
+S11R046,11,reguler,6,,2023-03-23,18:30,1679571000,AE,GEEK,2,1,selesai,,Rasy,liquipedia,Rasy
+S11R047,11,reguler,6,,2023-03-24,13:30,1679639400,BTR,RBL,2,0,selesai,,Super KENN,liquipedia,Super_Kenn
+S11R048,11,reguler,6,,2023-03-24,16:30,1679650200,AURA,EVOS,0,2,selesai,,Branz,liquipedia,Branz
+S11R049,11,reguler,6,,2023-03-24,20:30,1679664600,RRQ,GEEK,1,2,selesai,,LUKE,liquipedia,Luke
+S11R050,11,reguler,6,,2023-03-25,12:00,1679720400,EVOS,ONIC,0,2,selesai,,S A N Z,liquipedia,S_A_N_Z
+S11R051,11,reguler,6,,2023-03-25,15:00,1679731200,RRQ,RBL,2,1,selesai,,Alberttt,liquipedia,Alberttt
+S11R052,11,reguler,6,,2023-03-25,18:30,1679743800,AURA,AE,1,2,selesai,,Rasy,liquipedia,Rasy
+S11R053,11,reguler,6,,2023-03-25,21:30,1679754600,GEEK,BTR,0,2,selesai,,Morenoo,liquipedia,Moreno
+S11R054,11,reguler,6,,2023-03-26,11:00,1679803200,AURA,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S11R055,11,reguler,6,,2023-03-26,15:00,1679817600,RBL,ONIC,0,2,selesai,,CW,liquipedia,CW
+S11R056,11,reguler,6,,2023-03-26,18:30,1679830200,BTR,AE,2,0,selesai,,Super KENN,liquipedia,Super_Kenn
+S12P001,12,playoff,,Play-In (Bo5),2023-10-11,13:00,1697004000,GEEK,DEWA,3,1,selesai,Bo5,,liquipedia,
+S12P002,12,playoff,,Play-In (Bo5),2023-10-11,18:00,1697022000,BTR,RBL,3,0,selesai,Bo5,,liquipedia,
+S12P003,12,playoff,,Upper Bracket SF (Bo5),2023-10-12,13:00,1697090400,RRQ,GEEK,2,3,selesai,Bo5,,liquipedia,
+S12P004,12,playoff,,Upper Bracket SF (Bo5),2023-10-12,18:15,1697109300,ONIC,BTR,3,2,selesai,Bo5,,liquipedia,
+S12P005,12,playoff,,Lower Bracket SF (Bo5),2023-10-13,12:30,1697175000,RRQ,BTR,0,3,selesai,Bo5,,liquipedia,
+S12P006,12,playoff,,Upper Bracket Final (Bo5),2023-10-13,18:45,1697197500,GEEK,ONIC,2,3,selesai,Bo5,,liquipedia,
+S12P007,12,playoff,,Lower Bracket Final (Bo5),2023-10-14,18:15,1697282100,GEEK,BTR,3,2,selesai,Bo5,,liquipedia,
+S12P008,12,playoff,,Grand Final (Bo7),2023-10-15,17:15,1697364900,ONIC,GEEK,4,2,selesai,Bo7,,liquipedia,
+S12R001,12,reguler,1,,2023-07-13,16:30,1689240600,AURA,DEWA,1,2,selesai,,Watt,liquipedia,Watt
+S12R002,12,reguler,1,,2023-07-13,19:20,1689250800,RBL,AE,2,1,selesai,,SwayLow,liquipedia,SwayLow
+S12R003,12,reguler,1,,2023-07-14,17:30,1689330600,BTR,GEEK,2,1,selesai,,Kenn,liquipedia,Super_Kenn
+S12R004,12,reguler,1,,2023-07-14,20:10,1689340200,AURA,RRQ,0,2,selesai,,Clay,liquipedia,Clayyy
+S12R005,12,reguler,1,,2023-07-15,15:00,1689408000,AE,BTR,0,2,selesai,,Xorizo,liquipedia,Xorizo
+S12R006,12,reguler,1,,2023-07-15,17:30,1689417000,DEWA,RBL,2,1,selesai,,Watt,liquipedia,Watt
+S12R007,12,reguler,1,,2023-07-15,20:30,1689427800,RRQ,ONIC,2,1,selesai,,Clay,liquipedia,Clayyy
+S12R008,12,reguler,1,,2023-07-16,16:30,1689499800,GEEK,ONIC,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S12R009,12,reguler,1,,2023-07-16,19:00,1689508800,RBL,RRQ,0,2,selesai,,Ferxiic,liquipedia,Ferxiic
+S12R010,12,reguler,2,,2023-07-27,16:30,1690450200,BTR,DEWA,2,0,selesai,,VYN,liquipedia,VYN
+S12R011,12,reguler,2,,2023-07-27,19:00,1690459200,ONIC,AE,2,0,selesai,,Alberttt,liquipedia,Alberttt
+S12R012,12,reguler,2,,2023-07-28,17:30,1690540200,EVOS,GEEK,2,1,selesai,,DreamS,liquipedia,Dreams
+S12R013,12,reguler,2,,2023-07-28,20:30,1690551000,DEWA,ONIC,0,2,selesai,,Butsss,liquipedia,Butss
+S12R014,12,reguler,2,,2023-07-29,15:00,1690617600,AURA,RBL,0,2,selesai,,AudyTzy,liquipedia,AudyTzy
+S12R015,12,reguler,2,,2023-07-29,17:30,1690626600,GEEK,AE,2,0,selesai,,Baloyskie,liquipedia,Baloyskie
+S12R016,12,reguler,2,,2023-07-29,20:00,1690635600,EVOS,RRQ,1,2,selesai,,Naomi,liquipedia,Naomi
+S12R017,12,reguler,2,,2023-07-30,16:30,1690709400,AE,EVOS,0,2,selesai,,Tazz,liquipedia,Tazz
+S12R018,12,reguler,2,,2023-07-30,19:00,1690718400,RRQ,BTR,2,0,selesai,,Naomi,liquipedia,Naomi
+S12R019,12,reguler,3,,2023-08-03,16:30,1691055000,BTR,AURA,0,2,selesai,,Aran,liquipedia,Aran
+S12R020,12,reguler,3,,2023-08-03,19:00,1691064000,EVOS,DEWA,2,0,selesai,,VaanStrong,liquipedia,Ivann
+S12R021,12,reguler,3,,2023-08-04,17:30,1691145000,DEWA,GEEK,2,0,selesai,,Keyz,liquipedia,Keyz
+S12R022,12,reguler,3,,2023-08-04,20:00,1691154000,AURA,ONIC,2,0,selesai,,Aran,liquipedia,Aran
+S12R023,12,reguler,3,,2023-08-05,15:00,1691222400,RBL,BTR,0,2,selesai,,Xorizo,liquipedia,Xorizo
+S12R024,12,reguler,3,,2023-08-05,17:30,1691231400,GEEK,RRQ,2,1,selesai,,Caderaa,liquipedia,Caderaa
+S12R025,12,reguler,3,,2023-08-05,20:30,1691242200,ONIC,EVOS,2,0,selesai,,Kairi,liquipedia,Kairi
+S12R026,12,reguler,3,,2023-08-06,16:30,1691314200,ONIC,RBL,2,1,selesai,,Kairi,liquipedia,Kairi
+S12R027,12,reguler,3,,2023-08-06,19:30,1691325000,EVOS,AURA,2,1,selesai,,Fluffy,liquipedia,Fluffy
+S12R028,12,reguler,4,,2023-08-10,16:30,1691659800,AE,DEWA,2,0,selesai,,PAI,liquipedia,Pai
+S12R029,12,reguler,4,,2023-08-10,19:00,1691668800,AURA,GEEK,2,0,selesai,,VAN,liquipedia,VAN
+S12R030,12,reguler,4,,2023-08-11,17:30,1691749800,RBL,EVOS,2,0,selesai,,AudyTzy,liquipedia,AudyTzy
+S12R031,12,reguler,4,,2023-08-11,20:00,1691758800,BTR,ONIC,0,2,selesai,,Sanz,liquipedia,S_A_N_Z
+S12R032,12,reguler,4,,2023-08-12,15:00,1691827200,EVOS,BTR,1,2,selesai,,Kenn,liquipedia,Kenn
+S12R033,12,reguler,4,,2023-08-12,17:45,1691837100,GEEK,RBL,2,0,selesai,,Nnael,liquipedia,Nnael
+S12R034,12,reguler,4,,2023-08-12,20:00,1691845200,RRQ,AE,0,2,selesai,,Rasy,liquipedia,Rasy
+S12R035,12,reguler,4,,2023-08-13,16:30,1691919000,AE,AURA,2,0,selesai,,Rasy,liquipedia,Rasy
+S12R036,12,reguler,4,,2023-08-13,19:00,1691928000,DEWA,RRQ,0,2,selesai,,Banana,liquipedia,Banana
+S12R037,12,reguler,5,,2023-08-17,16:30,1692264600,DEWA,AURA,0,2,selesai,,VAN,liquipedia,VAN
+S12R038,12,reguler,5,,2023-08-17,19:00,1692273600,AE,RBL,1,2,selesai,,AudyTzy,liquipedia,AudyTzy
+S12R039,12,reguler,5,,2023-08-18,17:30,1692354600,GEEK,BTR,2,0,selesai,,Nnael,liquipedia,Nnael
+S12R040,12,reguler,5,,2023-08-18,20:00,1692363600,AE,RRQ,1,2,selesai,,Clay,liquipedia,Clayyy
+S12R041,12,reguler,5,,2023-08-19,15:00,1692432000,ONIC,GEEK,0,2,selesai,,Caderaa,liquipedia,Caderaa
+S12R042,12,reguler,5,,2023-08-19,17:30,1692441000,BTR,AE,1,2,selesai,,Nino,liquipedia,Nino
+S12R043,12,reguler,5,,2023-08-19,20:30,1692451800,RRQ,AURA,2,1,selesai,,Naomi,liquipedia,Naomi
+S12R044,12,reguler,5,,2023-08-20,16:30,1692523800,RBL,DEWA,0,2,selesai,,Dyx0n,liquipedia,Dyx0n
+S12R045,12,reguler,5,,2023-08-20,19:00,1692532800,AE,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S12R046,12,reguler,6,,2023-09-07,16:30,1694079000,RRQ,RBL,1,2,selesai,,AudyTzy,liquipedia,AudyTzy
+S12R047,12,reguler,6,,2023-09-07,19:30,1694089800,DEWA,BTR,2,1,selesai,,Shacco,liquipedia,Shacco
+S12R048,12,reguler,6,,2023-09-08,17:30,1694169000,GEEK,EVOS,2,0,selesai,,Baloyskie,liquipedia,Baloyskie
+S12R049,12,reguler,6,,2023-09-08,20:00,1694178000,ONIC,DEWA,2,1,selesai,,CW,liquipedia,CW
+S12R050,12,reguler,6,,2023-09-09,15:00,1694246400,EVOS,AE,1,2,selesai,,Rasy,liquipedia,Rasy
+S12R051,12,reguler,6,,2023-09-09,17:45,1694256300,RBL,AURA,2,0,selesai,,Karss,liquipedia,Karss
+S12R052,12,reguler,6,,2023-09-09,20:00,1694264400,ONIC,RRQ,2,0,selesai,,Kiboy,liquipedia,Kiboy
+S12R053,12,reguler,6,,2023-09-10,16:30,1694338200,BTR,RRQ,1,2,selesai,,Banana,liquipedia,Banana
+S12R054,12,reguler,6,,2023-09-10,19:00,1694347200,DEWA,EVOS,2,1,selesai,,Dyx0n,liquipedia,Dyx0n
+S12R055,12,reguler,7,,2023-09-14,16:30,1694683800,AURA,BTR,0,2,selesai,,Kenn,liquipedia,Super_Kenn
+S12R056,12,reguler,7,,2023-09-14,19:00,1694692800,AE,GEEK,1,2,selesai,,Luke,liquipedia,Luke
+S12R057,12,reguler,7,,2023-09-15,17:30,1694773800,GEEK,DEWA,0,2,selesai,,Watt,liquipedia,Watt
+S12R058,12,reguler,7,,2023-09-15,20:00,1694782800,ONIC,AURA,2,0,selesai,,Kairi,liquipedia,Kairi
+S12R059,12,reguler,7,,2023-09-16,15:00,1694851200,BTR,RBL,0,2,selesai,,AudyTzy,liquipedia,AudyTzy
+S12R060,12,reguler,7,,2023-09-16,17:30,1694860200,DEWA,AE,1,2,selesai,,Udil,liquipedia,Udil
+S12R061,12,reguler,7,,2023-09-16,20:30,1694871000,RRQ,EVOS,2,0,selesai,,Dyrennn,liquipedia,Dyrennn
+S12R062,12,reguler,7,,2023-09-17,16:30,1694943000,RBL,ONIC,0,2,selesai,,Butsss,liquipedia,Butss
+S12R063,12,reguler,7,,2023-09-17,19:00,1694952000,AURA,EVOS,0,2,selesai,,Sutsujin,liquipedia,Sutsujin
+S12R064,12,reguler,8,,2023-09-21,16:30,1695288600,RRQ,GEEK,0,2,selesai,,Caderaa,liquipedia,Caderaa
+S12R065,12,reguler,8,,2023-09-21,19:00,1695297600,EVOS,RBL,2,0,selesai,,VaanStrong,liquipedia,Ivann
+S12R066,12,reguler,8,,2023-09-22,17:30,1695378600,GEEK,AURA,2,1,selesai,,Baloyskie,liquipedia,Baloyskie
+S12R067,12,reguler,8,,2023-09-22,20:30,1695389400,ONIC,BTR,2,0,selesai,,Sanz,liquipedia,S_A_N_Z
+S12R068,12,reguler,8,,2023-09-23,15:00,1695456000,RBL,GEEK,1,2,selesai,,Aboy,liquipedia,A_B_O_Y
+S12R069,12,reguler,8,,2023-09-23,17:45,1695465900,AURA,AE,2,1,selesai,,Aran,liquipedia,Aran
+S12R070,12,reguler,8,,2023-09-23,20:45,1695476700,EVOS,ONIC,1,2,selesai,,Alberttt,liquipedia,Alberttt
+S12R071,12,reguler,8,,2023-09-24,16:30,1695547800,BTR,EVOS,2,0,selesai,,Kenn,liquipedia,Super_Kenn
+S12R072,12,reguler,8,,2023-09-24,19:00,1695556800,RRQ,DEWA,2,1,selesai,,Dyrennn,liquipedia,Dyrennn
+S13P001,13,playoff,,Play-in (Bo5),2024-06-05,13:00,1717567200,GEEK,RRQ,3,2,selesai,Bo5,,liquipedia,
+S13P002,13,playoff,,Play-in (Bo5),2024-06-05,18:15,1717586100,AURA,EVOS,0,3,selesai,Bo5,,liquipedia,
+S13P003,13,playoff,,Upper Bracket SF (Bo5),2024-06-06,13:00,1717653600,ONIC,GEEK,3,2,selesai,Bo5,,liquipedia,
+S13P004,13,playoff,,Upper Bracket SF (Bo5),2024-06-06,18:15,1717672500,BTR,EVOS,1,3,selesai,Bo5,,liquipedia,
+S13P005,13,playoff,,Lower Bracket SF (Bo5),2024-06-07,13:00,1717740000,GEEK,BTR,3,0,selesai,Bo5,,liquipedia,
+S13P006,13,playoff,,Upper Bracket Final (Bo5),2024-06-07,18:15,1717758900,ONIC,EVOS,3,0,selesai,Bo5,,liquipedia,
+S13P007,13,playoff,,Lower Bracket Final (Bo5),2024-06-08,18:15,1717845300,EVOS,GEEK,3,2,selesai,Bo5,,liquipedia,
+S13P008,13,playoff,,Grand Final (Bo7),2024-06-09,17:00,1717927200,ONIC,EVOS,4,2,selesai,Bo7,,liquipedia,
+S13R001,13,reguler,1,,2024-03-08,15:00,1709884800,AE,EVOS,2,0,selesai,,Tazz,liquipedia,Tazz
+S13R002,13,reguler,1,,2024-03-08,18:30,1709897400,DEWA,RBL,2,0,selesai,,Drian,liquipedia,Drian
+S13R003,13,reguler,1,,2024-03-09,15:45,1709973900,GEEK,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S13R004,13,reguler,1,,2024-03-09,18:30,1709983800,RBL,AE,1,2,selesai,,Tazz,liquipedia,Tazz
+S13R005,13,reguler,1,,2024-03-09,21:20,1709994000,AURA,DEWA,0,2,selesai,,Kimura,liquipedia,Kimura
+S13R006,13,reguler,1,,2024-03-10,15:00,1710057600,ONIC,GEEK,2,0,selesai,,CW,liquipedia,CW
+S13R007,13,reguler,1,,2024-03-10,18:30,1710070200,RRQ,AURA,2,1,selesai,,Skylar,liquipedia,Skylar
+S13R008,13,reguler,1,,2024-03-10,21:20,1710080400,BTR,EVOS,2,0,selesai,,EMANN,liquipedia,EMANN
+S13R009,13,reguler,2,,2024-03-15,15:00,1710489600,RBL,RRQ,2,0,selesai,,Vincentt,liquipedia,Vincentt
+S13R010,13,reguler,2,,2024-03-15,18:30,1710502200,EVOS,AURA,0,2,selesai,,Yawi,liquipedia,Yawi
+S13R011,13,reguler,2,,2024-03-16,15:00,1710576000,BTR,AE,1,2,selesai,,Cr1te,liquipedia,Cr1te
+S13R012,13,reguler,2,,2024-03-16,18:30,1710588600,RRQ,ONIC,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S13R013,13,reguler,2,,2024-03-16,21:20,1710598800,EVOS,GEEK,1,2,selesai,,Aboy,liquipedia,A_B_O_Y
+S13R014,13,reguler,2,,2024-03-17,15:00,1710662400,AE,ONIC,1,2,selesai,,Kiboy,liquipedia,Kiboy
+S13R015,13,reguler,2,,2024-03-17,18:30,1710675000,DEWA,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S13R016,13,reguler,2,,2024-03-17,21:20,1710685200,AURA,RBL,2,0,selesai,,Yawi,liquipedia,Yawi
+S13R017,13,reguler,3,,2024-03-22,15:00,1711094400,ONIC,AURA,1,2,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S13R018,13,reguler,3,,2024-03-22,18:30,1711107000,EVOS,DEWA,2,1,selesai,,Claw Kun,liquipedia,Claw_Kun
+S13R019,13,reguler,3,,2024-03-23,15:00,1711180800,AURA,BTR,1,2,selesai,,EMANN,liquipedia,EMANN
+S13R020,13,reguler,3,,2024-03-23,18:30,1711193400,RRQ,EVOS,2,1,selesai,,Irrad,liquipedia,Irrad
+S13R021,13,reguler,3,,2024-03-23,21:20,1711203600,GEEK,AE,2,1,selesai,,Aboy,liquipedia,A_B_O_Y
+S13R022,13,reguler,3,,2024-03-24,15:00,1711267200,RBL,ONIC,2,1,selesai,,Karss,liquipedia,Karss
+S13R023,13,reguler,3,,2024-03-24,18:30,1711279800,BTR,RRQ,2,1,selesai,,Moreno,liquipedia,Moreno
+S13R024,13,reguler,3,,2024-03-24,21:20,1711290000,DEWA,GEEK,1,2,selesai,,Hazle,liquipedia,Hazle
+S13R025,13,reguler,4,,2024-03-29,15:00,1711699200,ONIC,DEWA,1,2,selesai,,Keyz,liquipedia,Keyz
+S13R026,13,reguler,4,,2024-03-29,18:30,1711711800,BTR,RBL,2,0,selesai,,Kenn,liquipedia,Super_Kenn
+S13R027,13,reguler,4,,2024-03-30,15:00,1711785600,AURA,GEEK,2,0,selesai,,Gugun,liquipedia,Gugun
+S13R028,13,reguler,4,,2024-03-30,18:30,1711798200,ONIC,BTR,2,0,selesai,,Sanz,liquipedia,S_A_N_Z
+S13R029,13,reguler,4,,2024-03-30,21:20,1711808400,RRQ,AE,2,0,selesai,,Skylar,liquipedia,Skylar
+S13R030,13,reguler,4,,2024-03-31,15:00,1711872000,RBL,EVOS,1,2,selesai,,Anavel,liquipedia,Anavel
+S13R031,13,reguler,4,,2024-03-31,18:30,1711884600,GEEK,RRQ,2,1,selesai,,Aboy,liquipedia,A_B_O_Y
+S13R032,13,reguler,4,,2024-03-31,21:20,1711894800,AE,DEWA,2,0,selesai,,Tazz,liquipedia,Tazz
+S13R033,13,reguler,5,,2024-04-19,15:00,1713513600,GEEK,RBL,1,2,selesai,,Deee,liquipedia,Deee
+S13R034,13,reguler,5,,2024-04-19,18:00,1713524400,EVOS,ONIC,2,0,selesai,,Branz,liquipedia,Branz
+S13R035,13,reguler,5,,2024-04-20,15:00,1713600000,DEWA,RRQ,2,1,selesai,,Drian,liquipedia,Drian
+S13R036,13,reguler,5,,2024-04-20,18:00,1713610800,AE,AURA,1,2,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S13R037,13,reguler,5,,2024-04-20,20:50,1713621000,EVOS,BTR,2,1,selesai,,DreamS,liquipedia,Dreams
+S13R038,13,reguler,5,,2024-04-21,15:00,1713686400,AE,RBL,1,2,selesai,,Karss,liquipedia,Karss
+S13R039,13,reguler,5,,2024-04-21,18:00,1713697200,GEEK,ONIC,1,2,selesai,,Kairi,liquipedia,Kairi
+S13R040,13,reguler,5,,2024-04-21,21:15,1713708900,DEWA,AURA,0,2,selesai,,Gugun,liquipedia,Gugun
+S13R041,13,reguler,6,,2024-04-26,15:00,1714118400,BTR,GEEK,2,0,selesai,,EMANN,liquipedia,EMANN
+S13R042,13,reguler,6,,2024-04-26,18:00,1714129200,AURA,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S13R043,13,reguler,6,,2024-04-27,15:00,1714204800,GEEK,EVOS,2,1,selesai,,Caderaa,liquipedia,Caderaa
+S13R044,13,reguler,6,,2024-04-27,18:00,1714215600,RBL,DEWA,2,1,selesai,,Deee,liquipedia,Deee
+S13R045,13,reguler,6,,2024-04-27,20:50,1714225800,ONIC,AE,2,1,selesai,,Kairi,liquipedia,Kairi
+S13R046,13,reguler,6,,2024-04-28,15:00,1714291200,DEWA,ONIC,1,2,selesai,,CW,liquipedia,CW
+S13R047,13,reguler,6,,2024-04-28,18:00,1714302000,AE,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S13R048,13,reguler,6,,2024-04-28,20:50,1714312200,RRQ,RBL,2,0,selesai,,Skylar,liquipedia,Skylar
+S13R049,13,reguler,7,,2024-05-03,15:00,1714723200,RBL,AURA,2,0,selesai,,Karss,liquipedia,Karss
+S13R050,13,reguler,7,,2024-05-03,18:00,1714734000,BTR,DEWA,2,0,selesai,,Kyy,liquipedia,Kyy
+S13R051,13,reguler,7,,2024-05-04,15:00,1714809600,AURA,ONIC,1,2,selesai,,Sanz,liquipedia,S_A_N_Z
+S13R052,13,reguler,7,,2024-05-04,18:30,1714822200,EVOS,AE,2,1,selesai,,Anavel,liquipedia,Anavel
+S13R053,13,reguler,7,,2024-05-04,21:30,1714833000,RRQ,BTR,0,2,selesai,,Kenn,liquipedia,Super_Kenn
+S13R054,13,reguler,7,,2024-05-05,15:00,1714896000,DEWA,EVOS,1,2,selesai,,Anavel,liquipedia,Anavel
+S13R055,13,reguler,7,,2024-05-05,18:15,1714907700,AE,GEEK,0,2,selesai,,Luke,liquipedia,Luke
+S13R056,13,reguler,7,,2024-05-05,20:50,1714917000,ONIC,RRQ,2,0,selesai,,CW,liquipedia,CW
+S13R057,13,reguler,8,,2024-05-10,15:00,1715328000,GEEK,DEWA,2,1,selesai,,Baloyskie,liquipedia,Baloyskie
+S13R058,13,reguler,8,,2024-05-10,18:00,1715338800,BTR,AURA,2,0,selesai,,Kenn,liquipedia,Super_Kenn
+S13R059,13,reguler,8,,2024-05-11,15:00,1715414400,DEWA,AE,0,2,selesai,,Rasy,liquipedia,Rasy
+S13R060,13,reguler,8,,2024-05-11,18:00,1715425200,EVOS,RRQ,2,1,selesai,,Claw Kun,liquipedia,Claw_Kun
+S13R061,13,reguler,8,,2024-05-11,20:50,1715435400,ONIC,RBL,2,0,selesai,,Sanz,liquipedia,S_A_N_Z
+S13R062,13,reguler,8,,2024-05-12,15:00,1715500800,RRQ,GEEK,0,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S13R063,13,reguler,8,,2024-05-12,18:00,1715511600,RBL,BTR,1,2,selesai,,EMANN,liquipedia,EMANN
+S13R064,13,reguler,8,,2024-05-12,20:50,1715521800,AURA,EVOS,2,0,selesai,,Kabuki,liquipedia,Kabuki
+S13R065,13,reguler,9,,2024-05-17,15:00,1715932800,GEEK,AURA,2,1,selesai,,Baloyskie,liquipedia,Baloyskie
+S13R066,13,reguler,9,,2024-05-17,18:00,1715943600,RRQ,DEWA,2,0,selesai,,Skylar,liquipedia,Skylar
+S13R067,13,reguler,9,,2024-05-18,15:00,1716019200,EVOS,RBL,2,1,selesai,,Fluffy,liquipedia,Fluffy
+S13R068,13,reguler,9,,2024-05-18,18:00,1716030000,AE,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S13R069,13,reguler,9,,2024-05-18,20:50,1716040200,BTR,ONIC,2,0,selesai,,EMANN,liquipedia,EMANN
+S13R070,13,reguler,9,,2024-05-19,15:00,1716105600,AURA,AE,2,0,selesai,,Yawi,liquipedia,Yawi
+S13R071,13,reguler,9,,2024-05-19,18:00,1716116400,ONIC,EVOS,2,1,selesai,,Kiboy,liquipedia,Kiboy
+S13R072,13,reguler,9,,2024-05-19,20:50,1716126600,RBL,GEEK,1,2,selesai,,Luke,liquipedia,Luke
+S14P001,14,playoff,,Play-In (Bo5),2024-10-23,13:00,1729663200,BTR,AE,3,0,selesai,Bo5,,liquipedia,
+S14P002,14,playoff,,Play-In (Bo5),2024-10-23,18:15,1729682100,ONIC,GEEK,2,3,selesai,Bo5,,liquipedia,
+S14P003,14,playoff,,Upper Bracket SF (Bo5),2024-10-24,13:00,1729749600,TLID,BTR,3,2,selesai,Bo5,,liquipedia,
+S14P004,14,playoff,,Upper Bracket SF (Bo5),2024-10-24,18:15,1729768500,RRQ,GEEK,3,1,selesai,Bo5,,liquipedia,
+S14P005,14,playoff,,Lower Bracket SF (Bo5),2024-10-25,13:00,1729836000,BTR,GEEK,3,0,selesai,Bo5,,liquipedia,
+S14P006,14,playoff,,Upper Bracket Final (Bo5),2024-10-25,18:15,1729854900,TLID,RRQ,2,3,selesai,Bo5,,liquipedia,
+S14P007,14,playoff,,Lower Bracket Final (Bo5),2024-10-26,18:15,1729941300,TLID,BTR,3,0,selesai,Bo5,,liquipedia,
+S14P008,14,playoff,,Grand Final (Bo7),2024-10-27,17:00,1730023200,RRQ,TLID,3,4,selesai,Bo7,,liquipedia,
+S14R001,14,reguler,1,,2024-08-09,15:15,1723191300,ONIC,TLID,2,0,selesai,,Lutpiii,liquipedia,Lutpiii
+S14R002,14,reguler,1,,2024-08-09,18:15,1723202100,EVOS,DEWA,1,2,selesai,,Reyy,liquipedia,Reyy
+S14R003,14,reguler,1,,2024-08-10,15:15,1723277700,TLID,BTR,0,2,selesai,,Moreno,liquipedia,Moreno
+S14R004,14,reguler,1,,2024-08-10,18:15,1723288500,RRQ,EVOS,2,0,selesai,,Idok,liquipedia,Idok
+S14R005,14,reguler,1,,2024-08-10,21:15,1723299300,GEEK,AE,1,2,selesai,,Nnael,liquipedia,Nnael
+S14R006,14,reguler,1,,2024-08-11,15:15,1723364100,RBL,ONIC,1,2,selesai,,Alberttt,liquipedia,Alberttt
+S14R007,14,reguler,1,,2024-08-11,18:15,1723374900,BTR,RRQ,2,1,selesai,,Kyy,liquipedia,Kyy
+S14R008,14,reguler,1,,2024-08-11,21:15,1723385700,DEWA,GEEK,2,0,selesai,,Xorizo,liquipedia,Xorizo
+S14R009,14,reguler,2,,2024-08-16,15:15,1723796100,RBL,RRQ,0,2,selesai,,Skylar,liquipedia,Skylar
+S14R010,14,reguler,2,,2024-08-16,18:15,1723806900,EVOS,TLID,1,2,selesai,,Faviannn,liquipedia,Faviannn
+S14R011,14,reguler,2,,2024-08-17,15:15,1723882500,BTR,AE,2,0,selesai,,EMANN,liquipedia,EMANN
+S14R012,14,reguler,2,,2024-08-17,18:15,1723893300,RRQ,ONIC,2,0,selesai,,Sutsujin,liquipedia,Sutsujin
+S14R013,14,reguler,2,,2024-08-17,21:15,1723904100,EVOS,GEEK,1,2,selesai,,Mas4ko,liquipedia,Mas4Ko
+S14R014,14,reguler,2,,2024-08-18,15:15,1723968900,DEWA,BTR,0,2,selesai,,Moreno,liquipedia,Moreno
+S14R015,14,reguler,2,,2024-08-18,18:15,1723979700,AE,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S14R016,14,reguler,2,,2024-08-18,21:15,1723990500,TLID,RBL,2,0,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S14R017,14,reguler,3,,2024-08-23,15:15,1724400900,ONIC,GEEK,1,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S14R018,14,reguler,3,,2024-08-23,18:15,1724411700,DEWA,RBL,2,0,selesai,,Muezzaa,liquipedia,Muezzaa
+S14R019,14,reguler,3,,2024-08-24,14:30,1724484600,GEEK,BTR,2,1,selesai,,Aboy,liquipedia,A_B_O_Y
+S14R020,14,reguler,3,,2024-08-24,17:30,1724495400,AE,EVOS,1,2,selesai,,DreamS,liquipedia,Dreams
+S14R021,14,reguler,3,,2024-08-24,20:30,1724506200,TLID,DEWA,2,0,selesai,,Faviannn,liquipedia,Faviannn
+S14R022,14,reguler,3,,2024-08-25,14:30,1724571000,RBL,AE,1,2,selesai,,Nnael,liquipedia,Nnael
+S14R023,14,reguler,3,,2024-08-25,17:30,1724581800,RRQ,TLID,2,0,selesai,,Skylar,liquipedia,Skylar
+S14R024,14,reguler,3,,2024-08-25,20:30,1724592600,BTR,EVOS,2,1,selesai,,Moreno,liquipedia,Moreno
+S14R025,14,reguler,4,,2024-08-30,15:15,1725005700,ONIC,DEWA,2,1,selesai,,Kiboy,liquipedia,Kiboy
+S14R026,14,reguler,4,,2024-08-30,18:15,1725016500,BTR,RBL,2,1,selesai,,EMANN,liquipedia,EMANN
+S14R027,14,reguler,4,,2024-08-31,14:30,1725089400,TLID,GEEK,2,1,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S14R028,14,reguler,4,,2024-08-31,17:30,1725100200,ONIC,BTR,2,1,selesai,,Kairi,liquipedia,Kairi
+S14R029,14,reguler,4,,2024-08-31,20:30,1725111000,RRQ,AE,2,1,selesai,,Sutsujin,liquipedia,Sutsujin
+S14R030,14,reguler,4,,2024-09-01,14:30,1725175800,RBL,EVOS,2,0,selesai,,Matt,liquipedia,Matt
+S14R031,14,reguler,4,,2024-09-01,17:30,1725186600,GEEK,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S14R032,14,reguler,4,,2024-09-01,20:30,1725197400,AE,DEWA,2,0,selesai,,Nnael,liquipedia,Nnael
+S14R033,14,reguler,5,,2024-09-06,15:15,1725610500,GEEK,RBL,2,0,selesai,,Caderaa,liquipedia,Caderaa
+S14R034,14,reguler,5,,2024-09-06,18:15,1725621300,EVOS,ONIC,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S14R035,14,reguler,5,,2024-09-07,14:30,1725694200,DEWA,RRQ,1,2,selesai,,Skylar,liquipedia,Skylar
+S14R036,14,reguler,5,,2024-09-07,17:30,1725705000,AE,TLID,0,2,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S14R037,14,reguler,5,,2024-09-07,20:30,1725715800,EVOS,BTR,0,2,selesai,,Luke,liquipedia,Luke
+S14R038,14,reguler,5,,2024-09-08,14:30,1725780600,AE,RBL,2,0,selesai,,Nnael,liquipedia,Nnael
+S14R039,14,reguler,5,,2024-09-08,17:30,1725791400,GEEK,ONIC,2,0,selesai,,Veldora,liquipedia,Vell
+S14R040,14,reguler,5,,2024-09-08,20:30,1725802200,DEWA,TLID,1,2,selesai,,Faviannn,liquipedia,Faviannn
+S14R041,14,reguler,6,,2024-09-13,15:15,1726215300,BTR,DEWA,2,1,selesai,,EMANN,liquipedia,EMANN
+S14R042,14,reguler,6,,2024-09-13,18:15,1726226100,RBL,TLID,1,2,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S14R043,14,reguler,6,,2024-09-14,14:30,1726299000,DEWA,EVOS,2,0,selesai,,Xorizo,liquipedia,Xorizo
+S14R044,14,reguler,6,,2024-09-14,17:30,1726309800,AE,GEEK,1,2,selesai,,Vincentt,liquipedia,Vincentt
+S14R045,14,reguler,6,,2024-09-14,20:30,1726320600,ONIC,RRQ,0,2,selesai,,Sutsujin,liquipedia,Sutsujin
+S14R046,14,reguler,6,,2024-09-15,14:30,1726385400,EVOS,AE,0,2,selesai,,Nnael,liquipedia,Nnael
+S14R047,14,reguler,6,,2024-09-15,17:30,1726396200,TLID,ONIC,2,0,selesai,,Faviannn,liquipedia,Faviannn
+S14R048,14,reguler,6,,2024-09-15,20:30,1726407000,RRQ,BTR,2,1,selesai,,Sutsujin,liquipedia,Sutsujin
+S14R049,14,reguler,7,,2024-09-20,15:15,1726820100,GEEK,DEWA,2,0,selesai,,Baloyskie,liquipedia,Baloyskie
+S14R050,14,reguler,7,,2024-09-20,18:15,1726830900,BTR,TLID,0,2,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S14R051,14,reguler,7,,2024-09-21,14:30,1726903800,DEWA,AE,2,0,selesai,,Muezzaa,liquipedia,Muezzaa
+S14R052,14,reguler,7,,2024-09-21,17:30,1726914600,EVOS,RRQ,2,1,selesai,,Anavel,liquipedia,Anavel
+S14R053,14,reguler,7,,2024-09-21,20:30,1726925400,ONIC,RBL,0,2,selesai,,Karss,liquipedia,Karss
+S14R054,14,reguler,7,,2024-09-22,14:30,1726990200,RRQ,GEEK,2,0,selesai,,Dyrennn,liquipedia,Dyrennn
+S14R055,14,reguler,7,,2024-09-22,17:30,1727001000,RBL,BTR,0,2,selesai,,Moreno,liquipedia,Moreno
+S14R056,14,reguler,7,,2024-09-22,20:30,1727011800,TLID,EVOS,2,1,selesai,,Faviannn,liquipedia,Faviannn
+S14R057,14,reguler,8,,2024-09-27,15:15,1727424900,GEEK,TLID,0,2,selesai,,Faviannn,liquipedia,Faviannn
+S14R058,14,reguler,8,,2024-09-27,18:15,1727435700,RRQ,DEWA,2,0,selesai,,Rinz,liquipedia,Rinz
+S14R059,14,reguler,8,,2024-09-28,14:30,1727508600,EVOS,RBL,2,1,selesai,,Anavel,liquipedia,Anavel
+S14R060,14,reguler,8,,2024-09-28,17:30,1727519400,AE,RRQ,2,0,selesai,,Nnael,liquipedia,Nnael
+S14R061,14,reguler,8,,2024-09-28,20:30,1727530200,BTR,ONIC,1,2,selesai,,Kiboy,liquipedia,Kiboy
+S14R062,14,reguler,8,,2024-09-29,14:30,1727595000,TLID,AE,2,1,selesai,,Aran,liquipedia,Aran
+S14R063,14,reguler,8,,2024-09-29,17:30,1727605800,ONIC,EVOS,2,0,selesai,,CW,liquipedia,CW
+S14R064,14,reguler,8,,2024-09-29,20:30,1727616600,RBL,GEEK,1,2,selesai,,Gobs,liquipedia,Gobs
+S14R065,14,reguler,9,,2024-10-04,15:15,1728029700,BTR,GEEK,2,0,selesai,,EMANN,liquipedia,EMANN
+S14R066,14,reguler,9,,2024-10-04,18:15,1728040500,RBL,DEWA,2,1,selesai,,SwayLow,liquipedia,SwayLow
+S14R067,14,reguler,9,,2024-10-05,14:30,1728113400,GEEK,EVOS,2,1,selesai,,Baloyskie,liquipedia,Baloyskie
+S14R068,14,reguler,9,,2024-10-05,17:30,1728124200,TLID,RRQ,1,2,selesai,,Idok,liquipedia,Idok
+S14R069,14,reguler,9,,2024-10-05,20:30,1728135000,ONIC,AE,2,0,selesai,,Kairi,liquipedia,Kairi
+S14R070,14,reguler,9,,2024-10-06,14:30,1728199800,DEWA,ONIC,1,2,selesai,,Rezzz,liquipedia,Rezzz
+S14R071,14,reguler,9,,2024-10-06,17:30,1728210600,AE,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S14R072,14,reguler,9,,2024-10-06,20:30,1728221400,RRQ,RBL,2,0,selesai,,Hazle,liquipedia,Hazle
+S15P001,15,playoff,,Upper Bracket Quarterfinals,2025-06-11,13:00,1749621600,ONIC,TLID,3,1,selesai,Bo5,,liquipedia,
+S15P002,15,playoff,,Upper Bracket Quarterfinals,2025-06-11,18:15,1749640500,BTR,AE,2,3,selesai,Bo5,,liquipedia,
+S15P003,15,playoff,,Upper Bracket Semifinals,2025-06-12,13:00,1749708000,GEEK,ONIC,1,3,selesai,Bo5,,liquipedia,
+S15P004,15,playoff,,Upper Bracket Semifinals,2025-06-12,18:15,1749726900,RRQ,AE,3,1,selesai,Bo5,,liquipedia,
+S15P005,15,playoff,,Lower Bracket Semifinals,2025-06-13,13:00,1749794400,GEEK,AE,3,0,selesai,Bo5,,liquipedia,
+S15P006,15,playoff,,Upper Bracket Final,2025-06-13,18:15,1749813300,ONIC,RRQ,3,1,selesai,Bo5,,liquipedia,
+S15P007,15,playoff,,Lower Bracket Final,2025-06-14,17:30,1749897000,RRQ,GEEK,4,1,selesai,Bo7,,liquipedia,
+S15P008,15,playoff,,Grand Final,2025-06-15,17:30,1749983400,ONIC,RRQ,4,3,selesai,Bo7,,liquipedia,
+S15R001,15,reguler,1,,2025-03-07,15:15,1741335300,NAVI,RRQ,0,2,selesai,,Idok,liquipedia,Idok
+S15R002,15,reguler,1,,2025-03-07,18:15,1741346100,EVOS,TLID,2,1,selesai,,Alberttt,liquipedia,Alberttt
+S15R003,15,reguler,1,,2025-03-08,14:30,1741419000,EVOS,GEEK,2,0,selesai,,Kyy,liquipedia,Kyy
+S15R004,15,reguler,1,,2025-03-08,17:30,1741429800,BTR,AE,2,0,selesai,,EMANN,liquipedia,EMANN
+S15R005,15,reguler,1,,2025-03-08,20:30,1741440600,RRQ,ONIC,2,0,selesai,,Toyy,liquipedia,Toyy
+S15R006,15,reguler,1,,2025-03-09,14:30,1741505400,DEWA,BTR,2,1,selesai,,Reyy,liquipedia,Reyy
+S15R007,15,reguler,1,,2025-03-09,17:30,1741516200,AE,ONIC,2,1,selesai,,Hijumee,liquipedia,Hijumee
+S15R008,15,reguler,1,,2025-03-09,20:30,1741527000,TLID,NAVI,2,1,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S15R009,15,reguler,2,,2025-03-14,15:15,1741940100,ONIC,GEEK,1,2,selesai,,Caderaa,liquipedia,Caderaa
+S15R010,15,reguler,2,,2025-03-14,18:15,1741950900,DEWA,NAVI,2,0,selesai,,Maybe,liquipedia,Maybeee
+S15R011,15,reguler,2,,2025-03-15,14:30,1742023800,NAVI,AE,1,2,selesai,,Nino,liquipedia,Nino
+S15R012,15,reguler,2,,2025-03-15,17:30,1742034600,RRQ,TLID,2,0,selesai,,Idok,liquipedia,Idok
+S15R013,15,reguler,2,,2025-03-15,20:30,1742045400,BTR,EVOS,1,2,selesai,,Erlan,liquipedia,Erlan
+S15R014,15,reguler,2,,2025-03-16,14:30,1742110200,GEEK,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S15R015,15,reguler,2,,2025-03-16,17:30,1742121000,AE,EVOS,2,0,selesai,,Rinee,liquipedia,Rinee
+S15R016,15,reguler,2,,2025-03-16,20:30,1742131800,TLID,DEWA,2,0,selesai,,Kyou,liquipedia,Kyou
+S15R017,15,reguler,3,,2025-03-21,15:15,1742544900,ONIC,DEWA,2,1,selesai,,Kairi,liquipedia,Kairi
+S15R018,15,reguler,3,,2025-03-21,19:30,1742560200,NAVI,EVOS,0,2,selesai,,Kyy,liquipedia,Kyy
+S15R019,15,reguler,3,,2025-03-22,14:30,1742628600,TLID,GEEK,1,2,selesai,,Caderaa,liquipedia,Caderaa
+S15R020,15,reguler,3,,2025-03-22,17:30,1742639400,ONIC,BTR,2,0,selesai,,Savero,liquipedia,Savero
+S15R021,15,reguler,3,,2025-03-22,20:30,1742650200,RRQ,AE,2,1,selesai,,Idok,liquipedia,Idok
+S15R022,15,reguler,3,,2025-03-23,14:30,1742715000,BTR,NAVI,2,1,selesai,,Anavel,liquipedia,Anavel
+S15R023,15,reguler,3,,2025-03-23,17:30,1742725800,GEEK,RRQ,1,2,selesai,,Idok,liquipedia,Idok
+S15R024,15,reguler,3,,2025-03-23,20:30,1742736600,AE,DEWA,2,1,selesai,,Rinee,liquipedia,Rinee
+S15R025,15,reguler,4,,2025-04-18,15:15,1744964100,NAVI,ONIC,1,2,selesai,,Kairi,liquipedia,Kairi
+S15R026,15,reguler,4,,2025-04-18,18:15,1744974900,EVOS,DEWA,1,2,selesai,,Maybe,liquipedia,Maybeee
+S15R027,15,reguler,4,,2025-04-19,14:30,1745047800,TLID,BTR,1,2,selesai,,Anavel,liquipedia,Anavel
+S15R028,15,reguler,4,,2025-04-19,17:30,1745058600,RRQ,EVOS,2,1,selesai,,Hazle,liquipedia,Hazle
+S15R029,15,reguler,4,,2025-04-19,20:30,1745069400,GEEK,AE,2,1,selesai,,Caderaa,liquipedia,Caderaa
+S15R030,15,reguler,4,,2025-04-20,14:30,1745134200,ONIC,TLID,1,2,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S15R031,15,reguler,4,,2025-04-20,17:30,1745145000,BTR,RRQ,2,0,selesai,,Moreno,liquipedia,Moreno
+S15R032,15,reguler,4,,2025-04-20,20:30,1745155800,DEWA,GEEK,1,2,selesai,,Aboy,liquipedia,A_B_O_Y
+S15R033,15,reguler,5,,2025-04-25,15:15,1745568900,GEEK,NAVI,2,0,selesai,,Caderaa,liquipedia,Caderaa
+S15R034,15,reguler,5,,2025-04-25,18:15,1745579700,EVOS,ONIC,2,0,selesai,,Alberttt,liquipedia,Alberttt
+S15R035,15,reguler,5,,2025-04-26,14:30,1745652600,DEWA,RRQ,0,2,selesai,,Sutsujin,liquipedia,Sutsujin
+S15R036,15,reguler,5,,2025-04-26,17:30,1745663400,AE,TLID,1,2,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S15R037,15,reguler,5,,2025-04-26,20:30,1745674200,EVOS,BTR,1,2,selesai,,Moreno,liquipedia,Moreno
+S15R038,15,reguler,5,,2025-04-27,14:30,1745739000,AE,NAVI,2,1,selesai,,Rinee,liquipedia,Rinee
+S15R039,15,reguler,5,,2025-04-27,17:30,1745749800,GEEK,ONIC,1,2,selesai,,Kairi,liquipedia,Kairi
+S15R040,15,reguler,5,,2025-04-27,20:30,1745760600,DEWA,TLID,1,2,selesai,,Kyou,liquipedia,Kyou
+S15R041,15,reguler,6,,2025-05-02,15:15,1746173700,NAVI,DEWA,0,2,selesai,,Octa,liquipedia,Octa
+S15R042,15,reguler,6,,2025-05-02,18:15,1746184500,AE,GEEK,0,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S15R043,15,reguler,6,,2025-05-03,14:30,1746257400,EVOS,AE,0,2,selesai,,Hijumee,liquipedia,Hijumee
+S15R044,15,reguler,6,,2025-05-03,17:30,1746268200,TLID,ONIC,0,2,selesai,,Sanz,liquipedia,S_A_N_Z
+S15R045,15,reguler,6,,2025-05-03,20:30,1746279000,RRQ,BTR,2,1,selesai,,Idok,liquipedia,Idok
+S15R046,15,reguler,6,,2025-05-04,14:30,1746343800,NAVI,TLID,0,2,selesai,,AeronnShikii,liquipedia,AeronnShikii
+S15R047,15,reguler,6,,2025-05-04,17:30,1746354600,ONIC,RRQ,2,1,selesai,,Kairi,liquipedia,Kairi
+S15R048,15,reguler,6,,2025-05-04,20:30,1746365400,GEEK,EVOS,2,1,selesai,,Maykids,liquipedia,Maykids
+S15R049,15,reguler,7,,2025-05-09,15:15,1746778500,GEEK,DEWA,2,0,selesai,,Maykids,liquipedia,Maykids
+S15R050,15,reguler,7,,2025-05-09,18:15,1746789300,BTR,TLID,1,2,selesai,,Widy,liquipedia,Widy
+S15R051,15,reguler,7,,2025-05-10,14:30,1746862200,DEWA,AE,0,2,selesai,,Rinee,liquipedia,Rinee
+S15R052,15,reguler,7,,2025-05-10,17:30,1746873000,EVOS,RRQ,0,2,selesai,,Idok,liquipedia,Idok
+S15R053,15,reguler,7,,2025-05-10,20:30,1746883800,ONIC,NAVI,2,0,selesai,,Sanz,liquipedia,S_A_N_Z
+S15R054,15,reguler,7,,2025-05-11,14:30,1746948600,RRQ,GEEK,2,1,selesai,,Idok,liquipedia,Idok
+S15R055,15,reguler,7,,2025-05-11,17:30,1746959400,NAVI,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S15R056,15,reguler,7,,2025-05-11,20:30,1746970200,TLID,EVOS,2,1,selesai,,Widy,liquipedia,Widy
+S15R057,15,reguler,8,,2025-05-16,15:15,1747383300,TLID,AE,0,2,selesai,,Arfy,liquipedia,Arfy
+S15R058,15,reguler,8,,2025-05-16,18:15,1747394100,BTR,DEWA,2,0,selesai,,EMANN,liquipedia,EMANN
+S15R059,15,reguler,8,,2025-05-17,14:30,1747467000,GEEK,TLID,2,1,selesai,,Maykids,liquipedia,Maykids
+S15R060,15,reguler,8,,2025-05-17,17:30,1747477800,AE,RRQ,1,2,selesai,,Dyrennn,liquipedia,Dyrennn
+S15R061,15,reguler,8,,2025-05-17,20:30,1747488600,BTR,ONIC,2,1,selesai,,EMANN,liquipedia,EMANN
+S15R062,15,reguler,8,,2025-05-18,14:30,1747553400,RRQ,DEWA,0,2,selesai,,Xorizo,liquipedia,Xorizo
+S15R063,15,reguler,8,,2025-05-18,17:30,1747564200,ONIC,EVOS,2,0,selesai,,Kairi,liquipedia,Kairi
+S15R064,15,reguler,8,,2025-05-18,20:30,1747575000,NAVI,GEEK,0,2,selesai,,Maykids,liquipedia,Maykids
+S15R065,15,reguler,9,,2025-05-23,15:15,1747988100,BTR,GEEK,1,2,selesai,,Aboy,liquipedia,A_B_O_Y
+S15R066,15,reguler,9,,2025-05-23,18:15,1747998900,DEWA,ONIC,1,2,selesai,,Sanz,liquipedia,S_A_N_Z
+S15R067,15,reguler,9,,2025-05-24,14:30,1748071800,EVOS,NAVI,2,1,selesai,,Alberttt,liquipedia,Alberttt
+S15R068,15,reguler,9,,2025-05-24,17:30,1748082600,TLID,RRQ,2,0,selesai,,Widy,liquipedia,Widy
+S15R069,15,reguler,9,,2025-05-24,20:30,1748093400,ONIC,AE,2,0,selesai,,Sanz,liquipedia,S_A_N_Z
+S15R070,15,reguler,9,,2025-05-25,14:30,1748158200,DEWA,EVOS,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S15R071,15,reguler,9,,2025-05-25,17:30,1748169000,AE,BTR,2,0,selesai,,Nino,liquipedia,Nino
+S15R072,15,reguler,9,,2025-05-25,20:30,1748179800,RRQ,NAVI,2,0,selesai,,Dyrennn,liquipedia,Dyrennn
+S16P001,16,playoff,,Upper Bracket Quarterfinals,2025-10-29,13:00,1761717600,AE,NAVI,3,1,selesai,Bo5,,liquipedia,
+S16P002,16,playoff,,Upper Bracket Quarterfinals,2025-10-29,18:15,1761736500,EVOS,DEWA,3,2,selesai,Bo5,,liquipedia,
+S16P003,16,playoff,,Upper Bracket Semifinals,2025-10-30,13:00,1761804000,BTR,AE,1,3,selesai,Bo5,,liquipedia,
+S16P004,16,playoff,,Upper Bracket Semifinals,2025-10-30,18:15,1761822900,ONIC,EVOS,3,2,selesai,Bo5,,liquipedia,
+S16P005,16,playoff,,Lower Bracket Semifinals,2025-10-31,13:00,1761890400,BTR,EVOS,0,3,selesai,Bo5,,liquipedia,
+S16P006,16,playoff,,Upper Bracket Final,2025-10-31,18:15,1761909300,AE,ONIC,2,3,selesai,Bo5,,liquipedia,
+S16P007,16,playoff,,Lower Bracket Final,2025-11-01,17:30,1761993000,AE,EVOS,4,2,selesai,Bo7,,liquipedia,
+S16P008,16,playoff,,Grand Final,2025-11-02,17:30,1762079400,ONIC,AE,4,1,selesai,Bo7,,liquipedia,
+S16R001,16,reguler,1,,2025-08-22,15:15,1755850500,ONIC,DEWA,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S16R002,16,reguler,1,,2025-08-22,18:15,1755861300,NAVI,EVOS,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S16R003,16,reguler,1,,2025-08-23,14:15,1755933300,TLID,GEEK,1,2,selesai,,Gobs,liquipedia,Gobs
+S16R004,16,reguler,1,,2025-08-23,17:15,1755944100,ONIC,BTR,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S16R005,16,reguler,1,,2025-08-23,20:15,1755954900,RRQ,AE,2,1,selesai,,Idok,liquipedia,Idok
+S16R006,16,reguler,1,,2025-08-24,14:15,1756019700,BTR,NAVI,1,2,selesai,,Karss,liquipedia,Karss
+S16R007,16,reguler,1,,2025-08-24,17:15,1756030500,GEEK,RRQ,2,0,selesai,,Baloyskie,liquipedia,Baloyskie
+S16R008,16,reguler,1,,2025-08-24,20:15,1756041300,AE,DEWA,2,0,selesai,,Cyruz,liquipedia,Cyruz
+S16R009,16,reguler,2,,2025-08-29,15:15,1756455300,ONIC,GEEK,2,0,selesai,,Kairi,liquipedia,Kairi
+S16R010,16,reguler,2,,2025-08-29,18:15,1756466100,DEWA,NAVI,2,0,selesai,,QINN,liquipedia,QINN
+S16R011,16,reguler,2,,2025-08-30,14:15,1756538100,GEEK,BTR,0,2,selesai,,Nnael,liquipedia,Nnael
+S16R012,16,reguler,2,,2025-08-30,17:15,1756548900,AE,EVOS,2,1,selesai,,Arfy,liquipedia,Arfy
+S16R013,16,reguler,2,,2025-08-30,20:15,1756559700,TLID,DEWA,1,2,selesai,,QINN,liquipedia,QINN
+S16R014,16,reguler,2,,2025-08-31,14:15,1756624500,NAVI,AE,2,0,selesai,,UK1R,liquipedia,UK1R
+S16R015,16,reguler,2,,2025-08-31,17:15,1756635300,RRQ,TLID,2,0,selesai,,Idok,liquipedia,Idok
+S16R016,16,reguler,2,,2025-08-31,20:15,1756646100,BTR,EVOS,2,1,selesai,,Shogun,liquipedia,Shogun
+S16R017,16,reguler,3,,2025-09-05,15:15,1757060100,NAVI,RRQ,0,2,selesai,,Idok,liquipedia,Idok
+S16R018,16,reguler,3,,2025-09-05,18:15,1757070900,EVOS,TLID,2,0,selesai,,Alberttt,liquipedia,Alberttt
+S16R019,16,reguler,3,,2025-09-06,14:15,1757142900,EVOS,GEEK,2,0,selesai,,Rendyy,liquipedia,Rendyy
+S16R020,16,reguler,3,,2025-09-06,17:15,1757153700,BTR,AE,2,1,selesai,,EMANN,liquipedia,EMANN
+S16R021,16,reguler,3,,2025-09-06,20:15,1757164500,RRQ,ONIC,0,2,selesai,,S A N Z,liquipedia,S_A_N_Z
+S16R022,16,reguler,3,,2025-09-07,14:15,1757229300,DEWA,BTR,1,2,selesai,,EMANN,liquipedia,EMANN
+S16R023,16,reguler,3,,2025-09-07,17:15,1757240100,AE,ONIC,1,2,selesai,,Kairi,liquipedia,Kairi
+S16R024,16,reguler,3,,2025-09-07,20:15,1757250900,TLID,NAVI,0,2,selesai,,Andoryuuu,liquipedia,Andoryuuu
+S16R025,16,reguler,4,,2025-09-12,15:15,1757664900,NAVI,ONIC,1,2,selesai,,Kiboy,liquipedia,Kiboy
+S16R026,16,reguler,4,,2025-09-12,18:15,1757675700,EVOS,DEWA,2,0,selesai,,Alberttt,liquipedia,Alberttt
+S16R027,16,reguler,4,,2025-09-13,14:15,1757747700,TLID,BTR,0,2,selesai,,Finn,liquipedia,Finn
+S16R028,16,reguler,4,,2025-09-13,17:15,1757758500,RRQ,EVOS,2,0,selesai,,Sutsujin,liquipedia,Sutsujin
+S16R029,16,reguler,4,,2025-09-13,20:15,1757769300,GEEK,AE,0,2,selesai,,Arfy,liquipedia,Arfy
+S16R030,16,reguler,4,,2025-09-14,14:15,1757834100,ONIC,TLID,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S16R031,16,reguler,4,,2025-09-14,17:15,1757844900,BTR,RRQ,2,1,selesai,,Shogun,liquipedia,Shogun
+S16R032,16,reguler,4,,2025-09-14,20:15,1757855700,DEWA,GEEK,2,1,selesai,,Reyy,liquipedia,Reyy
+S16R033,16,reguler,5,,2025-09-19,15:15,1758269700,GEEK,NAVI,0,2,selesai,,Karss,liquipedia,Karss
+S16R034,16,reguler,5,,2025-09-19,18:15,1758280500,EVOS,ONIC,1,2,selesai,,Kiboy,liquipedia,Kiboy
+S16R035,16,reguler,5,,2025-09-20,14:15,1758352500,DEWA,RRQ,2,0,selesai,,Muezza,liquipedia,Muezzaa
+S16R036,16,reguler,5,,2025-09-20,17:15,1758363300,AE,TLID,2,1,selesai,,Arfy,liquipedia,Arfy
+S16R037,16,reguler,5,,2025-09-20,20:15,1758374100,EVOS,BTR,0,2,selesai,,Nnael,liquipedia,Nnael
+S16R038,16,reguler,5,,2025-09-21,14:15,1758438900,AE,NAVI,2,1,selesai,,Yazukee,liquipedia,Yazukee
+S16R039,16,reguler,5,,2025-09-21,17:15,1758449700,GEEK,ONIC,0,2,selesai,,Lutpiii,liquipedia,Lutpiii
+S16R040,16,reguler,5,,2025-09-21,20:15,1758460500,DEWA,TLID,2,0,selesai,,QINN,liquipedia,QINN
+S16R041,16,reguler,6,,2025-09-26,15:15,1758874500,NAVI,DEWA,0,2,selesai,,QINN,liquipedia,QINN
+S16R042,16,reguler,6,,2025-09-26,18:15,1758885300,AE,GEEK,2,0,selesai,,Nino,liquipedia,Nino
+S16R043,16,reguler,6,,2025-09-27,14:15,1758957300,EVOS,AE,1,2,selesai,,alekk,liquipedia,Alekk
+S16R044,16,reguler,6,,2025-09-27,17:15,1758968100,TLID,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S16R045,16,reguler,6,,2025-09-27,20:15,1758978900,RRQ,BTR,1,2,selesai,,EMANN,liquipedia,EMANN
+S16R046,16,reguler,6,,2025-09-28,14:15,1759043700,NAVI,TLID,2,1,selesai,,Karss,liquipedia,Karss
+S16R047,16,reguler,6,,2025-09-28,17:15,1759054500,ONIC,RRQ,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S16R048,16,reguler,6,,2025-09-28,20:15,1759065300,GEEK,EVOS,0,2,selesai,,Alberttt,liquipedia,Alberttt
+S16R049,16,reguler,7,,2025-10-03,15:15,1759479300,GEEK,DEWA,2,0,selesai,,Gobs,liquipedia,Gobs
+S16R050,16,reguler,7,,2025-10-03,18:15,1759490100,BTR,TLID,0,2,selesai,,Aran,liquipedia,Aran
+S16R051,16,reguler,7,,2025-10-04,14:15,1759562100,DEWA,AE,2,0,selesai,,Muezza,liquipedia,Muezzaa
+S16R052,16,reguler,7,,2025-10-04,17:15,1759572900,EVOS,RRQ,2,1,selesai,,Alberttt,liquipedia,Alberttt
+S16R053,16,reguler,7,,2025-10-04,20:15,1759583700,ONIC,NAVI,2,0,selesai,,Kairi,liquipedia,Kairi
+S16R054,16,reguler,7,,2025-10-05,14:15,1759648500,RRQ,GEEK,0,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S16R055,16,reguler,7,,2025-10-05,17:15,1759659300,NAVI,BTR,0,2,selesai,,EMANN,liquipedia,EMANN
+S16R056,16,reguler,7,,2025-10-05,20:15,1759670100,TLID,EVOS,1,2,selesai,,RoundeL,liquipedia,RoundeL
+S16R057,16,reguler,8,,2025-10-10,15:15,1760084100,TLID,AE,2,1,selesai,,Widy,liquipedia,Widy
+S16R058,16,reguler,8,,2025-10-10,18:15,1760094900,BTR,DEWA,2,0,selesai,,Shogun,liquipedia,Shogun
+S16R059,16,reguler,8,,2025-10-11,14:15,1760166900,GEEK,TLID,1,2,selesai,,Widy,liquipedia,Widy
+S16R060,16,reguler,8,,2025-10-11,17:15,1760177700,AE,RRQ,2,0,selesai,,Hijumee,liquipedia,Hijumee
+S16R061,16,reguler,8,,2025-10-11,20:15,1760188500,BTR,ONIC,2,0,selesai,,EMANN,liquipedia,EMANN
+S16R062,16,reguler,8,,2025-10-12,14:15,1760253300,RRQ,DEWA,2,0,selesai,,Rinz,liquipedia,Rinz
+S16R063,16,reguler,8,,2025-10-12,17:15,1760264100,ONIC,EVOS,2,0,selesai,,Kiboy,liquipedia,Kiboy
+S16R064,16,reguler,8,,2025-10-12,20:15,1760274900,NAVI,GEEK,2,0,selesai,,Andoryuuu,liquipedia,Andoryuuu
+S16R065,16,reguler,9,,2025-10-17,15:15,1760688900,BTR,GEEK,0,2,selesai,,Baloyskie,liquipedia,Baloyskie
+S16R066,16,reguler,9,,2025-10-17,18:15,1760699700,DEWA,ONIC,0,2,selesai,,Kiboy,liquipedia,Kiboy
+S16R067,16,reguler,9,,2025-10-18,14:15,1760771700,EVOS,NAVI,2,1,selesai,,Kyy,liquipedia,Kyy
+S16R068,16,reguler,9,,2025-10-18,17:15,1760782500,TLID,RRQ,2,0,selesai,,Yehezkiel,liquipedia,Yehezkiel
+S16R069,16,reguler,9,,2025-10-18,20:15,1760793300,ONIC,AE,1,2,selesai,,Yazukee,liquipedia,Yazukee
+S16R070,16,reguler,9,,2025-10-19,14:15,1760858100,DEWA,EVOS,2,0,selesai,,QINN,liquipedia,QINN
+S16R071,16,reguler,9,,2025-10-19,17:15,1760868900,AE,BTR,1,2,selesai,,Moreno,liquipedia,Moreno
+S16R072,16,reguler,9,,2025-10-19,20:15,1760879700,RRQ,NAVI,2,1,selesai,,Dyrennn,liquipedia,Dyrennn
+S17P001,17,playoff,,Upper Bracket Quarterfinals,2026-06-10,13:00,1781071200,DEWA,GEEK,0,3,selesai,Bo5,,liquipedia,
+S17P002,17,playoff,,Upper Bracket Quarterfinals,2026-06-10,18:15,1781090100,BTR,EVOS,3,1,selesai,Bo5,,liquipedia,
+S17P003,17,playoff,,Upper Bracket Semifinals,2026-06-11,13:00,1781157600,TLID,GEEK,1,3,selesai,Bo5,,liquipedia,
+S17P004,17,playoff,,Upper Bracket Semifinals,2026-06-11,18:15,1781176500,ONIC,BTR,3,1,selesai,Bo5,,liquipedia,
+S17P005,17,playoff,,Lower Bracket Semifinals,2026-06-12,13:00,1781244000,TLID,BTR,0,3,selesai,Bo5,,liquipedia,
+S17P006,17,playoff,,Upper Bracket Final,2026-06-12,18:15,1781262900,GEEK,ONIC,0,3,selesai,Bo5,,liquipedia,
+S17P007,17,playoff,,Lower Bracket Final,2026-06-13,17:30,1781346600,GEEK,BTR,1,4,selesai,Bo7,,liquipedia,
+S17P008,17,playoff,,Grand Final,2026-06-14,17:30,1781433000,ONIC,BTR,1,4,selesai,Bo7,,liquipedia,
+S17R001,17,reguler,1,,2026-03-27,15:15,1774599300,BTR,AE,2,1,selesai,,EMANN,liquipedia,EMANN
+S17R002,17,reguler,1,,2026-03-27,18:15,1774610100,NAVI,RRQ,2,0,selesai,,Xyve,liquipedia,Xyve
+S17R003,17,reguler,1,,2026-03-28,14:15,1774682100,EVOS,GEEK,2,0,selesai,,Albert,liquipedia,Alberttt
+S17R004,17,reguler,1,,2026-03-28,17:15,1774692900,AE,ONIC,0,2,selesai,,Kelra,liquipedia,Kelra
+S17R005,17,reguler,1,,2026-03-28,20:15,1774703700,TLID,NAVI,2,1,selesai,,Kyou,liquipedia,Kyou
+S17R006,17,reguler,1,,2026-03-29,14:15,1774768500,DEWA,BTR,2,0,selesai,,Muezza,liquipedia,Muezzaa
+S17R007,17,reguler,1,,2026-03-29,17:15,1774779300,EVOS,TLID,0,2,selesai,,Aran,liquipedia,Aran
+S17R008,17,reguler,1,,2026-03-29,20:15,1774790100,RRQ,ONIC,0,2,selesai,,Kelra,liquipedia,Kelra
+S17R009,17,reguler,2,,2026-04-03,15:15,1775204100,ONIC,GEEK,2,0,selesai,,Kairi,liquipedia,Kairi
+S17R010,17,reguler,2,,2026-04-03,18:15,1775214900,DEWA,NAVI,2,0,selesai,,Muezza,liquipedia,Muezzaa
+S17R011,17,reguler,2,,2026-04-04,14:15,1775286900,GEEK,BTR,2,0,selesai,,MarceL,liquipedia,MarceL
+S17R012,17,reguler,2,,2026-04-04,17:15,1775297700,AE,EVOS,2,1,selesai,,Arfy,liquipedia,Arfy
+S17R013,17,reguler,2,,2026-04-04,20:15,1775308500,TLID,DEWA,2,1,selesai,,Lyoni,liquipedia,Lyoni
+S17R014,17,reguler,2,,2026-04-05,14:15,1775373300,NAVI,AE,1,2,selesai,,Yazukee,liquipedia,Yazukee
+S17R015,17,reguler,2,,2026-04-05,17:15,1775384100,RRQ,TLID,0,2,selesai,,Lyoni,liquipedia,Lyoni
+S17R016,17,reguler,2,,2026-04-05,20:15,1775394900,BTR,EVOS,2,1,selesai,,Moreno,liquipedia,Moreno
+S17R017,17,reguler,3,,2026-04-10,15:15,1775808900,ONIC,DEWA,2,1,selesai,,S A N Z,liquipedia,S_A_N_Z
+S17R018,17,reguler,3,,2026-04-10,18:15,1775819700,NAVI,EVOS,0,2,selesai,,Albert,liquipedia,Alberttt
+S17R019,17,reguler,3,,2026-04-11,14:15,1775891700,TLID,GEEK,0,2,selesai,,KennzyySkie,liquipedia,KennzyySkie
+S17R020,17,reguler,3,,2026-04-11,17:15,1775902500,ONIC,BTR,1,2,selesai,,EMANN,liquipedia,EMANN
+S17R021,17,reguler,3,,2026-04-11,20:15,1775913300,RRQ,AE,1,2,selesai,,Arfy,liquipedia,Arfy
+S17R022,17,reguler,3,,2026-04-12,14:15,1775978100,BTR,NAVI,1,2,selesai,,Aprho,liquipedia,Aprho
+S17R023,17,reguler,3,,2026-04-12,17:15,1775988900,GEEK,RRQ,2,1,selesai,,Aboy,liquipedia,A_B_O_Y
+S17R024,17,reguler,3,,2026-04-12,20:15,1775999700,AE,DEWA,0,2,selesai,,Dolynn,liquipedia,Dolynn
+S17R025,17,reguler,4,,2026-04-17,15:15,1776413700,NAVI,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S17R026,17,reguler,4,,2026-04-17,18:15,1776424500,EVOS,DEWA,2,0,selesai,,Luke,liquipedia,Luke
+S17R027,17,reguler,4,,2026-04-18,14:15,1776496500,TLID,BTR,1,2,selesai,,Moreno,liquipedia,Moreno
+S17R028,17,reguler,4,,2026-04-18,17:15,1776507300,RRQ,EVOS,0,2,selesai,,Erlan,liquipedia,Erlan
+S17R029,17,reguler,4,,2026-04-18,20:15,1776518100,GEEK,AE,1,2,selesai,,Arfy,liquipedia,Arfy
+S17R030,17,reguler,4,,2026-04-19,14:15,1776582900,ONIC,TLID,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S17R031,17,reguler,4,,2026-04-19,17:15,1776593700,BTR,RRQ,2,1,selesai,,Moreno,liquipedia,Moreno
+S17R032,17,reguler,4,,2026-04-19,20:15,1776604500,DEWA,GEEK,2,0,selesai,,Dolynn,liquipedia,Dolynn
+S17R033,17,reguler,5,,2026-04-24,15:15,1777018500,GEEK,NAVI,0,2,selesai,,Xyve,liquipedia,Xyve
+S17R034,17,reguler,5,,2026-04-24,18:15,1777029300,EVOS,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S17R035,17,reguler,5,,2026-04-25,14:15,1777101300,DEWA,RRQ,2,0,selesai,,Octa,liquipedia,Octa
+S17R036,17,reguler,5,,2026-04-25,17:15,1777112100,AE,TLID,1,2,selesai,,Kevinn,liquipedia,JOOOOO
+S17R037,17,reguler,5,,2026-04-25,20:15,1777122900,EVOS,BTR,0,2,selesai,,Moreno,liquipedia,Moreno
+S17R038,17,reguler,5,,2026-04-26,14:15,1777187700,AE,NAVI,2,1,selesai,,Nino,liquipedia,Nino
+S17R039,17,reguler,5,,2026-04-26,17:15,1777198500,GEEK,ONIC,2,1,selesai,,MarceL,liquipedia,MarceL
+S17R040,17,reguler,5,,2026-04-26,20:15,1777209300,DEWA,TLID,2,0,selesai,,QINN,liquipedia,QINN
+S17R041,17,reguler,6,,2026-05-01,15:15,1777623300,NAVI,DEWA,1,2,selesai,,Dolynn,liquipedia,Dolynn
+S17R042,17,reguler,6,,2026-05-01,18:15,1777634100,AE,GEEK,2,1,selesai,,alekk,liquipedia,Alekk
+S17R043,17,reguler,6,,2026-05-02,14:15,1777706100,EVOS,AE,2,1,selesai,,Kyy,liquipedia,Kyy
+S17R044,17,reguler,6,,2026-05-02,17:15,1777716900,TLID,ONIC,0,2,selesai,,Kairi,liquipedia,Kairi
+S17R045,17,reguler,6,,2026-05-02,20:15,1777727700,RRQ,BTR,2,0,selesai,,Dan,liquipedia,Dan
+S17R046,17,reguler,6,,2026-05-03,14:15,1777792500,NAVI,TLID,1,2,selesai,,Aran,liquipedia,Aran
+S17R047,17,reguler,6,,2026-05-03,17:15,1777803300,ONIC,RRQ,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S17R048,17,reguler,6,,2026-05-03,20:15,1777814100,GEEK,EVOS,2,0,selesai,,MarceL,liquipedia,MarceL
+S17R049,17,reguler,7,,2026-05-08,15:15,1778228100,GEEK,DEWA,1,2,selesai,,QINN,liquipedia,QINN
+S17R050,17,reguler,7,,2026-05-08,18:15,1778238900,BTR,TLID,0,2,selesai,,Kevinn,liquipedia,JOOOOO
+S17R051,17,reguler,7,,2026-05-09,14:15,1778310900,DEWA,AE,1,2,selesai,,Nino,liquipedia,Nino
+S17R052,17,reguler,7,,2026-05-09,17:15,1778321700,EVOS,RRQ,2,0,selesai,,Albert,liquipedia,Alberttt
+S17R053,17,reguler,7,,2026-05-09,20:15,1778332500,ONIC,NAVI,2,0,selesai,,S A N Z,liquipedia,S_A_N_Z
+S17R054,17,reguler,7,,2026-05-10,14:15,1778397300,RRQ,GEEK,0,2,selesai,,MarceL,liquipedia,MarceL
+S17R055,17,reguler,7,,2026-05-10,17:15,1778408100,NAVI,BTR,2,1,selesai,,Aprho,liquipedia,Aprho
+S17R056,17,reguler,7,,2026-05-10,20:15,1778418900,TLID,EVOS,0,2,selesai,,Albert,liquipedia,Alberttt
+S17R057,17,reguler,8,,2026-05-15,15:15,1778832900,BTR,GEEK,0,2,selesai,,Nazara,liquipedia,Nazara
+S17R058,17,reguler,8,,2026-05-15,18:15,1778843700,DEWA,ONIC,0,2,selesai,,Kelra,liquipedia,Kelra
+S17R059,17,reguler,8,,2026-05-16,14:15,1778915700,EVOS,NAVI,0,2,selesai,,Aprho,liquipedia,Aprho
+S17R060,17,reguler,8,,2026-05-16,17:15,1778926500,TLID,RRQ,2,0,selesai,,Aran,liquipedia,Aran
+S17R061,17,reguler,8,,2026-05-16,20:15,1778937300,ONIC,AE,2,1,selesai,,Kairi,liquipedia,Kairi
+S17R062,17,reguler,8,,2026-05-17,14:15,1779002100,DEWA,EVOS,0,2,selesai,,Pheww,liquipedia,Pheww
+S17R063,17,reguler,8,,2026-05-17,17:15,1779012900,AE,BTR,0,2,selesai,,Finn,liquipedia,Finn
+S17R064,17,reguler,8,,2026-05-17,20:15,1779023700,RRQ,NAVI,0,2,selesai,,Aphro,liquipedia,Aphro
+S17R065,17,reguler,9,,2026-05-22,15:15,1779437700,BTR,DEWA,2,1,selesai,,Moreno,liquipedia,Moreno
+S17R066,17,reguler,9,,2026-05-22,18:15,1779448500,TLID,AE,2,0,selesai,,Kevinn,liquipedia,Kevinn
+S17R067,17,reguler,9,,2026-05-23,14:15,1779520500,GEEK,TLID,0,2,selesai,,Drichel,liquipedia,Drichel
+S17R068,17,reguler,9,,2026-05-23,17:15,1779531300,AE,RRQ,1,2,selesai,,Super Kenn,liquipedia,Super_Kenn
+S17R069,17,reguler,9,,2026-05-23,20:15,1779542100,BTR,ONIC,2,1,selesai,,Moreno,liquipedia,Moreno
+S17R070,17,reguler,9,,2026-05-24,14:15,1779606900,RRQ,DEWA,1,2,selesai,,QINN,liquipedia,QINN
+S17R071,17,reguler,9,,2026-05-24,17:15,1779617700,ONIC,EVOS,2,0,selesai,,Kiboy,liquipedia,Kiboy
+S17R072,17,reguler,9,,2026-05-24,20:15,1779628500,NAVI,GEEK,1,2,selesai,,MarceL,liquipedia,MarceL
+S18R001,18,reguler,1,,2026-08-14,15:00,,EVOS,RRQ,2,0,selesai,,,id-mpl.com,
+S18R002,18,reguler,1,,2026-08-14,18:00,,NAVI,AE,0,2,selesai,,,id-mpl.com,
+S18R003,18,reguler,1,,2026-08-15,14:00,,TLID,GEEK,2,1,selesai,,,id-mpl.com,
+S18R004,18,reguler,1,,2026-08-15,17:00,,DEWA,RRQ,1,2,selesai,,,id-mpl.com,
+S18R005,18,reguler,1,,2026-08-15,20:00,,EVOS,NAVI,1,2,selesai,,,id-mpl.com,
+S18R006,18,reguler,1,,2026-08-16,14:00,,TLID,DEWA,2,0,selesai,,,id-mpl.com,
+S18R007,18,reguler,1,,2026-08-16,17:00,,BTR,GEEK,2,1,selesai,,,id-mpl.com,
+S18R008,18,reguler,1,,2026-08-16,20:00,,AE,ONIC,0,2,selesai,,,id-mpl.com,
+S18R009,18,reguler,2,,2026-08-21,15:00,,TLID,NAVI,0,2,selesai,,,id-mpl.com,
+S18R010,18,reguler,2,,2026-08-21,18:00,,BTR,DEWA,2,0,selesai,,,id-mpl.com,
+S18R011,18,reguler,2,,2026-08-22,14:00,,TLID,EVOS,2,0,selesai,,,id-mpl.com,
+S18R012,18,reguler,2,,2026-08-22,17:00,,NAVI,GEEK,2,1,selesai,,,id-mpl.com,
+S18R013,18,reguler,2,,2026-08-22,20:00,,ONIC,RRQ,2,0,selesai,,,id-mpl.com,
+S18R014,18,reguler,2,,2026-08-23,14:00,,DEWA,AE,0,2,selesai,,,id-mpl.com,
+S18R015,18,reguler,2,,2026-08-23,17:00,,ONIC,BTR,1,2,selesai,,,id-mpl.com,
+S18R016,18,reguler,2,,2026-08-23,20:00,,GEEK,EVOS,0,2,selesai,,,id-mpl.com,
+S18R017,18,reguler,3,,2026-08-28,15:00,,BTR,NAVI,2,0,selesai,,,id-mpl.com,
+S18R018,18,reguler,3,,2026-08-28,18:00,,DEWA,GEEK,2,0,selesai,,,id-mpl.com,
+S18R019,18,reguler,3,,2026-08-29,14:00,,TLID,ONIC,2,1,selesai,,,id-mpl.com,
+S18R020,18,reguler,3,,2026-08-29,17:00,,AE,EVOS,2,0,selesai,,,id-mpl.com,
+S18R021,18,reguler,3,,2026-08-29,20:00,,RRQ,BTR,1,2,selesai,,,id-mpl.com,
+S18R022,18,reguler,3,,2026-08-30,14:00,,NAVI,ONIC,2,0,selesai,,,id-mpl.com,
+S18R023,18,reguler,3,,2026-08-30,17:00,,GEEK,RRQ,0,2,selesai,,,id-mpl.com,
+S18R024,18,reguler,3,,2026-08-30,20:00,,TLID,AE,2,1,selesai,,,id-mpl.com,
+S18R025,18,reguler,4,,2026-09-04,15:00,,NAVI,DEWA,2,0,selesai,,,id-mpl.com,
+S18R026,18,reguler,4,,2026-09-04,18:00,,TLID,RRQ,2,0,selesai,,,id-mpl.com,
+S18R027,18,reguler,4,,2026-09-05,14:00,,DEWA,ONIC,2,1,selesai,,,id-mpl.com,
+S18R028,18,reguler,4,,2026-09-05,17:00,,EVOS,BTR,2,1,selesai,,,id-mpl.com,
+S18R029,18,reguler,4,,2026-09-05,20:00,,AE,GEEK,2,0,selesai,,,id-mpl.com,
+S18R030,18,reguler,4,,2026-09-06,14:00,,RRQ,NAVI,0,2,selesai,,,id-mpl.com,
+S18R031,18,reguler,4,,2026-09-06,17:00,,ONIC,EVOS,2,0,selesai,,,id-mpl.com,
+S18R032,18,reguler,4,,2026-09-06,20:00,,BTR,AE,0,2,selesai,,,id-mpl.com,
+S18R033,18,reguler,5,,2026-09-11,18:00,,GEEK,ONIC,2,1,selesai,,,id-mpl.com,
+S18R034,18,reguler,5,,2026-09-12,14:00,,TLID,BTR,2,0,selesai,,,id-mpl.com,
+S18R035,18,reguler,5,,2026-09-12,17:00,,AE,RRQ,2,0,selesai,,,id-mpl.com,
+S18R036,18,reguler,5,,2026-09-12,20:00,,NAVI,EVOS,2,0,selesai,,,id-mpl.com,
+S18R037,18,reguler,5,,2026-09-13,14:00,,GEEK,TLID,0,2,selesai,,,id-mpl.com,
+S18R038,18,reguler,5,,2026-09-13,17:00,,ONIC,AE,0,2,selesai,,,id-mpl.com,
+S18R039,18,reguler,6,,2026-09-18,14:00,,ONIC,GEEK,0,0,belum main,,,id-mpl.com,
+S18R040,18,reguler,6,,2026-09-18,17:00,,DEWA,EVOS,0,0,belum main,,,id-mpl.com,
+S18R041,18,reguler,6,,2026-09-18,20:00,,RRQ,DEWA,0,0,belum main,,,id-mpl.com,
+S18R042,18,reguler,6,,2026-09-19,14:00,,GEEK,NAVI,0,0,belum main,,,id-mpl.com,
+S18R043,18,reguler,6,,2026-09-19,17:00,,RRQ,AE,0,0,belum main,,,id-mpl.com,
+S18R044,18,reguler,6,,2026-09-19,20:00,,BTR,TLID,0,0,belum main,,,id-mpl.com,
+S18R045,18,reguler,6,,2026-09-20,14:00,,AE,DEWA,0,0,belum main,,,id-mpl.com,
+S18R046,18,reguler,6,,2026-09-20,17:00,,BTR,ONIC,0,0,belum main,,,id-mpl.com,
+S18R047,18,reguler,6,,2026-09-20,20:00,,EVOS,TLID,0,0,belum main,,,id-mpl.com,
+S18R048,18,reguler,7,,2026-10-02,15:00,,GEEK,BTR,0,0,belum main,,,id-mpl.com,
+S18R049,18,reguler,7,,2026-10-02,18:00,,DEWA,TLID,0,0,belum main,,,id-mpl.com,
+S18R050,18,reguler,7,,2026-10-03,14:00,,AE,NAVI,0,0,belum main,,,id-mpl.com,
+S18R051,18,reguler,7,,2026-10-03,17:00,,BTR,RRQ,0,0,belum main,,,id-mpl.com,
+S18R052,18,reguler,7,,2026-10-03,20:00,,GEEK,DEWA,0,0,belum main,,,id-mpl.com,
+S18R053,18,reguler,7,,2026-10-04,14:00,,AE,TLID,0,0,belum main,,,id-mpl.com,
+S18R054,18,reguler,7,,2026-10-04,17:00,,RRQ,EVOS,0,0,belum main,,,id-mpl.com,
+S18R055,18,reguler,7,,2026-10-04,20:00,,ONIC,NAVI,0,0,belum main,,,id-mpl.com,
+S18R056,18,reguler,8,,2026-10-08,14:00,,EVOS,DEWA,0,0,belum main,,,id-mpl.com,
+S18R057,18,reguler,8,,2026-10-08,17:00,,AE,BTR,0,0,belum main,,,id-mpl.com,
+S18R058,18,reguler,8,,2026-10-08,20:00,,NAVI,TLID,0,0,belum main,,,id-mpl.com,
+S18R059,18,reguler,8,,2026-10-09,14:00,,EVOS,ONIC,0,0,belum main,,,id-mpl.com,
+S18R060,18,reguler,8,,2026-10-09,17:00,,RRQ,TLID,0,0,belum main,,,id-mpl.com,
+S18R061,18,reguler,8,,2026-10-09,20:00,,DEWA,NAVI,0,0,belum main,,,id-mpl.com,
+S18R062,18,reguler,8,,2026-10-11,14:00,,EVOS,GEEK,0,0,belum main,,,id-mpl.com,
+S18R063,18,reguler,8,,2026-10-11,17:00,,RRQ,ONIC,0,0,belum main,,,id-mpl.com,
+S18R064,18,reguler,8,,2026-10-11,20:00,,DEWA,BTR,0,0,belum main,,,id-mpl.com,
+S18R065,18,reguler,9,,2026-10-16,15:00,,NAVI,RRQ,0,0,belum main,,,id-mpl.com,
+S18R066,18,reguler,9,,2026-10-16,18:00,,GEEK,AE,0,0,belum main,,,id-mpl.com,
+S18R067,18,reguler,9,,2026-10-17,14:00,,ONIC,DEWA,0,0,belum main,,,id-mpl.com,
+S18R068,18,reguler,9,,2026-10-17,17:00,,BTR,EVOS,0,0,belum main,,,id-mpl.com,
+S18R069,18,reguler,9,,2026-10-17,20:00,,RRQ,GEEK,0,0,belum main,,,id-mpl.com,
+S18R070,18,reguler,9,,2026-10-18,14:00,,EVOS,AE,0,0,belum main,,,id-mpl.com,
+S18R071,18,reguler,9,,2026-10-18,17:00,,NAVI,BTR,0,0,belum main,,,id-mpl.com,
+S18R072,18,reguler,9,,2026-10-18,20:00,,ONIC,TLID,0,0,belum main,,,id-mpl.com,

@@ -1,0 +1,65 @@
+﻿season,timestamp,ronde,tim1,kode1,skor1,skor2,kode2,tim2,format,pemenang
+10,1666161000,Upper Bracket Quarterfinals,Alter Ego,AE,2,3,AURA,AURA Fire,Bo5,AURA
+10,1666179000,Upper Bracket Quarterfinals,Bigetron Alpha,BTR,3,0,RBL,Rebellion Zion,Bo5,BTR
+10,1666247400,Upper Bracket Semifinals,RRQ Hoshi,RRQ,3,2,AURA,AURA Fire,Bo5,RRQ
+10,1666265400,Upper Bracket Semifinals,ONIC Esports,ONIC,3,1,BTR,Bigetron Alpha,Bo5,ONIC
+10,1666333800,Lower Bracket Semifinals,AURA Fire,AURA,3,0,BTR,Bigetron Alpha,Bo5,AURA
+10,1666351800,Upper Bracket Final,RRQ Hoshi,RRQ,3,1,ONIC,ONIC Esports,Bo5,RRQ
+10,1666431000,Lower Bracket Final,ONIC Esports,ONIC,3,0,AURA,AURA Fire,Bo5,ONIC
+10,1666517400,Grand Final,RRQ Hoshi,RRQ,1,4,ONIC,ONIC Esports,Bo7,ONIC
+11,1680672600,Play-In (Bo5),Bigetron Alpha,BTR,2,3,AE,Alter Ego,Bo5,AE
+11,1680694200,Play-In (Bo5),Geek Slate,GEEK,2,3,EVOS,EVOS Legends,Bo5,EVOS
+11,1680759000,Upper Bracket SF (Bo5),Rex Regum Qeon,RRQ,1,3,AE,Alter Ego,Bo5,AE
+11,1680780600,Upper Bracket SF (Bo5),ONIC,ONIC,3,0,EVOS,EVOS Legends,Bo5,ONIC
+11,1680847200,Lower Bracket SF (Bo5),Rex Regum Qeon,RRQ,2,3,EVOS,EVOS Legends,Bo5,EVOS
+11,1680867900,Upper Bracket Final (Bo5),Alter Ego,AE,0,3,ONIC,ONIC,Bo5,ONIC
+11,1680953400,Lower Bracket Final (Bo5),Alter Ego,AE,2,3,EVOS,EVOS Legends,Bo5,EVOS
+11,1681030800,Grand Final (Bo7),ONIC,ONIC,4,0,EVOS,EVOS Legends,Bo7,ONIC
+12,1697004000,Play-In (Bo5),Geek Fam ID,GEEK,3,1,DEWA,Dewa United Esports,Bo5,GEEK
+12,1697022000,Play-In (Bo5),Bigetron Alpha,BTR,3,0,RBL,Rebellion Zion,Bo5,BTR
+12,1697090400,Upper Bracket SF (Bo5),Rex Regum Qeon,RRQ,2,3,GEEK,Geek Fam ID,Bo5,GEEK
+12,1697109300,Upper Bracket SF (Bo5),ONIC,ONIC,3,2,BTR,Bigetron Alpha,Bo5,ONIC
+12,1697175000,Lower Bracket SF (Bo5),Rex Regum Qeon,RRQ,0,3,BTR,Bigetron Alpha,Bo5,BTR
+12,1697197500,Upper Bracket Final (Bo5),Geek Fam ID,GEEK,2,3,ONIC,ONIC,Bo5,ONIC
+12,1697282100,Lower Bracket Final (Bo5),Geek Fam ID,GEEK,3,2,BTR,Bigetron Alpha,Bo5,GEEK
+12,1697364900,Grand Final (Bo7),ONIC,ONIC,4,2,GEEK,Geek Fam ID,Bo7,ONIC
+13,1717567200,Play-in (Bo5),Geek Fam ID,GEEK,3,2,RRQ,RRQ Hoshi,Bo5,GEEK
+13,1717586100,Play-in (Bo5),Liquid Aura,TLID,0,3,EVOS,EVOS Glory,Bo5,EVOS
+13,1717653600,Upper Bracket SF (Bo5),Fnatic ONIC,FNOC,3,2,GEEK,Geek Fam ID,Bo5,FNOC
+13,1717672500,Upper Bracket SF (Bo5),Bigetron Alpha,BTR,1,3,EVOS,EVOS Glory,Bo5,EVOS
+13,1717740000,Lower Bracket SF (Bo5),Geek Fam ID,GEEK,3,0,BTR,Bigetron Alpha,Bo5,GEEK
+13,1717758900,Upper Bracket Final (Bo5),Fnatic ONIC,FNOC,3,0,EVOS,EVOS Glory,Bo5,FNOC
+13,1717845300,Lower Bracket Final (Bo5),EVOS Glory,EVOS,3,2,GEEK,Geek Fam ID,Bo5,EVOS
+13,1717927200,Grand Final (Bo7),Fnatic ONIC,FNOC,4,2,EVOS,EVOS Glory,Bo7,FNOC
+14,1729663200,Play-In (Bo5),Bigetron Alpha,BTR,3,0,AE,Alter Ego,Bo5,BTR
+14,1729682100,Play-In (Bo5),Fnatic ONIC,FNOC,2,3,GEEK,Geek Fam ID,Bo5,GEEK
+14,1729749600,Upper Bracket SF (Bo5),Team Liquid ID,TLID,3,2,BTR,Bigetron Alpha,Bo5,TLID
+14,1729768500,Upper Bracket SF (Bo5),RRQ Hoshi,RRQ,3,1,GEEK,Geek Fam ID,Bo5,RRQ
+14,1729836000,Lower Bracket SF (Bo5),Bigetron Alpha,BTR,3,0,GEEK,Geek Fam ID,Bo5,BTR
+14,1729854900,Upper Bracket Final (Bo5),Team Liquid ID,TLID,2,3,RRQ,RRQ Hoshi,Bo5,RRQ
+14,1729941300,Lower Bracket Final (Bo5),Team Liquid ID,TLID,3,0,BTR,Bigetron Alpha,Bo5,TLID
+14,1730023200,Grand Final (Bo7),RRQ Hoshi,RRQ,3,4,TLID,Team Liquid ID,Bo7,TLID
+15,1749621600,Upper Bracket Quarterfinals,ONIC,ONIC,3,1,TLID,Team Liquid ID,Bo5,ONIC
+15,1749640500,Upper Bracket Quarterfinals,Bigetron Esports,BTR,2,3,AE,Alter Ego,Bo5,AE
+15,1749708000,Upper Bracket Semifinals,Geek Fam ID,GEEK,1,3,ONIC,ONIC,Bo5,ONIC
+15,1749726900,Upper Bracket Semifinals,RRQ Hoshi,RRQ,3,1,AE,Alter Ego,Bo5,RRQ
+15,1749794400,Lower Bracket Semifinals,Geek Fam ID,GEEK,3,0,AE,Alter Ego,Bo5,GEEK
+15,1749813300,Upper Bracket Final,ONIC,ONIC,3,1,RRQ,RRQ Hoshi,Bo5,ONIC
+15,1749897000,Lower Bracket Final,RRQ Hoshi,RRQ,4,1,GEEK,Geek Fam ID,Bo7,RRQ
+15,1749983400,Grand Final,ONIC,ONIC,4,3,RRQ,RRQ Hoshi,Bo7,ONIC
+16,1761717600,Upper Bracket Quarterfinals,Alter Ego,AE,3,1,NAVI,Natus Vincere,Bo5,AE
+16,1761736500,Upper Bracket Quarterfinals,EVOS,EVOS,3,2,DEWA,Dewa United Esports,Bo5,EVOS
+16,1761804000,Upper Bracket Semifinals,Bigetron by Vitality,BTR,1,3,AE,Alter Ego,Bo5,AE
+16,1761822900,Upper Bracket Semifinals,ONIC,ONIC,3,2,EVOS,EVOS,Bo5,ONIC
+16,1761890400,Lower Bracket Semifinals,Bigetron by Vitality,BTR,0,3,EVOS,EVOS,Bo5,EVOS
+16,1761909300,Upper Bracket Final,Alter Ego,AE,2,3,ONIC,ONIC,Bo5,ONIC
+16,1761993000,Lower Bracket Final,Alter Ego,AE,4,2,EVOS,EVOS,Bo7,AE
+16,1762079400,Grand Final,ONIC,ONIC,4,1,AE,Alter Ego,Bo7,ONIC
+17,1781071200,Upper Bracket Quarterfinals,Dewa United Esports,DEWA,0,3,GEEK,Geek Fam ID,Bo5,GEEK
+17,1781090100,Upper Bracket Quarterfinals,Bigetron by Vitality,BTR,3,1,EVOS,EVOS,Bo5,BTR
+17,1781157600,Upper Bracket Semifinals,Team Liquid ID,TLID,1,3,GEEK,Geek Fam ID,Bo5,GEEK
+17,1781176500,Upper Bracket Semifinals,ONIC,ONIC,3,1,BTR,Bigetron by Vitality,Bo5,ONIC
+17,1781244000,Lower Bracket Semifinals,Team Liquid ID,TLID,0,3,BTR,Bigetron by Vitality,Bo5,BTR
+17,1781262900,Upper Bracket Final,Geek Fam ID,GEEK,0,3,ONIC,ONIC,Bo5,ONIC
+17,1781346600,Lower Bracket Final,Geek Fam ID,GEEK,1,4,BTR,Bigetron by Vitality,Bo7,BTR
+17,1781433000,Grand Final,ONIC,ONIC,1,4,BTR,Bigetron by Vitality,Bo7,BTR
