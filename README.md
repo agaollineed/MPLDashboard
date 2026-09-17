@@ -57,8 +57,6 @@ The project includes a simple static dashboard for standings, schedules, playoff
 <div align="center">
 
 <img src="docs/images/standings.png" width="100%" alt="Season 18 standings" />
-<br /><br />
-
 </div>
 
 ## Highlights
