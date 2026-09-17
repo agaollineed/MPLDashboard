@@ -1482,10 +1482,11 @@ h3{font-size:13px;margin:26px 0 10px;font-weight:600;color:var(--redup);
    lewat di bawahnya kabur total tapi batangnya tetap menyatu dengan
    gradien di kepala halaman — warna pekat akan tampak sebagai kotak
    asing waktu halaman belum digulir. */
-.panel-lintas .alat{position:sticky;top:0;z-index:5;padding:10px 0 2px;
-  background:rgba(14,16,21,.84);backdrop-filter:blur(14px) saturate(1.4);
-  -webkit-backdrop-filter:blur(14px) saturate(1.4);
-  box-shadow:0 14px 18px -16px rgba(0,0,0,.95)}
+.panel-lintas .alat{position:sticky;top:0;z-index:5;padding:10px 0 6px;
+  background:linear-gradient(180deg,rgba(19,21,29,.58) 0%,rgba(14,16,21,.22) 74%,transparent 100%);
+  backdrop-filter:blur(12px) saturate(1.2);
+  -webkit-backdrop-filter:blur(12px) saturate(1.2);
+  box-shadow:0 12px 18px -18px rgba(0,0,0,.82)}
 /* Tinggi .alat berubah kalau tombol musimnya membungkus, jadi diukur di
    browser dan dituliskan ke --tinggi-alat (lihat JS). */
 .panel-lintas .tabel thead th{top:var(--tinggi-alat,0px)}

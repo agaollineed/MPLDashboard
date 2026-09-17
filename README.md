@@ -52,6 +52,18 @@ MPL Indonesia Datasets turns public MPL data into a structured archive for analy
 
 The project includes a simple static dashboard for standings, schedules, playoffs, awards, rosters, team and player statistics, drafts, and hero meta. The same cleaned data is also available in a query-ready SQLite database.
 
+## Dashboard preview
+
+<div align="center">
+
+<img src="docs/images/standings.png" width="100%" alt="Season 18 standings" />
+<br /><br />
+<img src="docs/images/players.png" width="100%" alt="All Players with season filter and search" />
+<br /><br />
+<img src="docs/images/weekly-standings.png" width="100%" alt="Weekly standings movement chart" />
+
+</div>
+
 ## Highlights
 
 | Area | Includes |
