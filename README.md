@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1015,48:191c24,100:0e1015&height=170&section=header&text=MPL%20Indonesia%20Datasets&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Research-ready%20MPL%20Indonesia%20archive%20%C2%B7%20S10%E2%80%93S18&descAlignY=66&descSize=16" width="100%" alt="MPL Indonesia Datasets" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e1015,48:191c24,100:0e1015&height=170&section=header&text=MPL%20Indonesia%20Dashboard&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Research-ready%20MPL%20Indonesia%20archive%20%C2%B7%20S10%E2%80%93S18&descAlignY=66&descSize=16" width="100%" alt="MPL Indonesia Datasets" />
 
 <img width="150" alt="MPL Indonesia" src="site/assets/mpl.webp" />
 
-# MPL Indonesia Datasets
+# MPL Indonesia Dashboard
 
 **Nine MPL Indonesia seasons in one research-ready dataset and interactive dashboard.**
 
